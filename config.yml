@@ -16,7 +16,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Eigenbaukombinat
-  description: "Makerspace, Hackerspace und Mitmachwerkstatt in Halle (Saale)"
+
   author: Eigenbaukombinat Halle e. V.
 
   images: "<link or path of image for opengraph, twitter-cards>"
@@ -41,6 +41,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Eigenbaukombinat
     imageUrl: '/img/ebk.svg'
+    subtitle: "Makerspace, Hackerspace und Mitmachwerkstatt in Halle (Saale)"
     # imageTitle: my image
     buttons:
       - name: "Blog"

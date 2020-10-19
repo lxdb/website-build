@@ -21,7 +21,7 @@
     font-size: 18px;
 }
 
-img {
+.profile-img img {
     display: inline-table;
     width: 180px;
     border-radius: 50%;
@@ -29,9 +29,15 @@ img {
 }
 
 @media screen and (max-width: 600px) {
-    img {
+    .profile-img img {
         width: 150px;
     }
+    
+    .nav img {
+    	width: 0px;
+    	height: 60px;
+    }
+    
     .main>.profile>.profile_inner {
         transform: translate(0, 0);
     }

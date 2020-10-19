@@ -58,3 +58,10 @@ body:not(.dark) #sun {
     font-weight: 500;
     border-bottom: 2px solid currentColor;
 }
+
+@media screen and (max-width: 600px) {
+	.nav img {
+    	width: 0px;
+    	height: 60px;
+    }
+}
