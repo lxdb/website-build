@@ -1,4 +1,4 @@
-baseURL: 'https://eigenbaukombinat.de'
+#baseURL: 'https://eigenbaukombinat.de'
 title: Eigenbaukombinat
 paginate: 5
 theme: PaperMod
@@ -8,8 +8,13 @@ buildDrafts: false
 buildFuture: false
 buildExpored: false
 
+minify:
+  disableXML: true
+  minifyOutput: true
+
+
 params:
-  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Eigenbaukombinat
   description: "Makerspace, Hackerspace und Mitmachwerkstatt in Halle (Saale)"
   author: Eigenbaukombinat Halle e. V.
