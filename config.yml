@@ -1,0 +1,76 @@
+baseURL: 'https://eigenbaukombinat.de'
+title: Eigenbaukombinat
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpored: false
+
+params:
+  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Eigenbaukombinat
+  description: "Makerspace, Hackerspace und Mitmachwerkstatt in Halle (Saale)"
+  author: Eigenbaukombinat Halle e. V.
+
+  images: "<link or path of image for opengraph, twitter-cards>"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  comments: true
+  defaultTheme: auto
+  disableThemeToggle : false
+  disableSpecial1stPost : false
+
+  assets:
+    favicon: '/img/favicon.ico'
+
+  #label:
+  #  text: "Home"
+  #  icon: /apple-touch-icon.png
+  #  iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Eigenbaukombinat
+    imageUrl: '/img/ebk.svg'
+    # imageTitle: my image
+    buttons:
+      - name: "Blog"
+        url: "post/"
+      - name: "Veranstaltung"
+        url: "/unsere-veranstaltungen/"
+      - name: "Über uns"
+        url: "uber-uns/"
+      - name: "Werkstatt"
+        url: "/werkstatt/"
+      - name: "Matrix"
+        url: "/unser-neuer-chat-und-nachrichtenserver/"
+      - name: "Impressum"
+        url: "impressum/"
+
+  # home-info mode
+  #homeInfoParams:
+  #  Title: "Hi there \U0001F44B"
+  #  Content: Welcome to my blog
+
+  socialIcons:
+    - name: twitter
+      url: 'https://twitter.com/ebkhalle'
+    - name: github
+      url: 'https://github.com/eigenbaukombinat'
+    - name: instagram
+      url: 'https://instagram.com/ebkhalle'
+    - name: facebook
+      url: 'https://facebook.com/Eigenbaukombinat'
+    - name: youtube
+      url: 'https://youtube.com/channel/UCsfpJrx2csVoioxv6xrCqJA'
+    - name: mastodon
+      url: 'https://chaos.social/@eigenbaukombinat'
+
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
