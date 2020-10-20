@@ -15,7 +15,7 @@ categories:
 **Im Rahmen des [swap:Netzkultur 2016](/swap-netzkultur.de/) widmen Terminal.21 und das Eigenbaukombinat den Samstag der Verschlüsselung. **
 **In einem Vortrag und einem Workshop werden die Grundlagen vermittelt.**<!-- more -->
 
-![swap_vortrag](/wp-content/uploads/2016/10/02_vortrag-121x300.png)
+![swap_vortrag](https://eigenbaukombinat.de/wp-content/uploads/2016/10/02_vortrag-121x300.png)
 
 **Vortrag: 5. November 11.00 – 12.30 Uhr **
 **Internetgrundlagen und Datenschutz**
@@ -24,7 +24,7 @@ Wieso weiß [facebook/amazon/google/twitter/>hier könnte deine Datenkrake stehe
 Die Standardeinstellungen, mit denen wir täglich surfen, sind inhärent unsicher und ermöglichen eine kinderleichte Überwachung unserer Aktivitäten. Die zugehörigen Mechanismen werden spätestens dann sichtbar, wenn man sich fragt: Wie funktioniert das Internet eigentlich?
 Dieser Vortrag will genau diese Frage beantworten, um anschließend auf zwei Formen des Datenschutzes einzugehen: der Sicherheit beim Surfen und dem Tracking. In Bezug auf den Browser, dem Tor zum Internet, soll besprochen werden, welche Komponenten durch Angreifende ausgenutzt werden, durch welche Einstellungen man die Angriffsfläche reduziert und schließlich die Sicherheit des Browsers zuverlässig evaluieren kann. Das Tracking beschäftigt sich dagegen mit den Spuren, die jede.r beim Surfen im Internet hinterlässt. Der Vortrag soll zeigen, welche Spuren anfallen und wie man die standardmäßige Überwachung einschränken kann.
 
-![swap_workshop](/wp-content/uploads/2016/10/03_workshop-293x300.png)
+![swap_workshop](https://eigenbaukombinat.de/wp-content/uploads/2016/10/03_workshop-293x300.png)
 **Workshop: 5. November 13.00-16.00Uhr **
 **Verschlüsselung im Alltag**
 

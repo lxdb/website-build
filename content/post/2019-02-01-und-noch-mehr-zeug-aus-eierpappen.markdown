@@ -20,7 +20,7 @@ Was ich mit den Abschnitten aus meinem letzten [Eierkarton-Projekt](/weniger-ech
 Das da:
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/01/IMG_20190120_121434.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/IMG_20190120_121434.jpg" >}}
 {{< /gallery >}}
 
 Einen Leuchtevorhang <3
@@ -52,8 +52,8 @@ So gehts:
 Die "Nasen" von den Eierpappen werden separiert und von ihren "Beinen" befreit.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/01/IMG_20190111_182823-e1548880318785.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/01/IMG_20190112_222907-e1548880343407.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/IMG_20190111_182823-e1548880318785.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/IMG_20190112_222907-e1548880343407.jpg" >}}
 {{< /gallery >}}
 
 
@@ -62,7 +62,7 @@ Die "Nasen" von den Eierpappen werden separiert und von ihren "Beinen" befreit.
 Dann werden sie 4 mal bis kurz unter dem Deckel eingeschnitten:
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/01/IMG_20190112_222925.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/IMG_20190112_222925.jpg" >}}
 {{< /gallery >}}
 
 
@@ -75,7 +75,7 @@ Aus jeder dieser 4 Seiten wird mit Hilfe der Nagelschere ein Blütenblatt...
 ... jaaaa ... das dauert nen Moment ...
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/01/IMG_20190112_222951.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/IMG_20190112_222951.jpg" >}}
 {{< /gallery >}}
 
 
@@ -96,14 +96,14 @@ Und dann perforieren.
 Dazu habe ich zuerst mit einem Nagel ein kleines Loch gemacht und dann mit der Rundzange das Loch vorsichtig vergrößert, bis die Blüten grade so über die LEDs gepasst haben.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/01/IMG_20190120_102935-e1548880767372.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/IMG_20190120_102935-e1548880767372.jpg" >}}
 {{< /gallery >}}
 
 
 Dran machen, anmachen und bestaunen! - Sogar Hainz freut sich.
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/01/IMG_20190120_121309-e1548879971903.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/01/IMG_20190120_121219-e1548880861472.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/IMG_20190120_121309-e1548879971903.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/IMG_20190120_121219-e1548880861472.jpg" >}}
 {{< /gallery >}}
 
 Ich habe die einzelnen LED-Fäden ungefähr halbiert hoch gebunden - gefiel mir besser. Die Zangen hängen unten dran, damit sich die Fäden etwas grade hängen - mittlerweile sind sie wieder ab.

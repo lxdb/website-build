@@ -17,8 +17,8 @@ In den letzten Wochen entstanden im Eigenbaukombinat vier Werkstattböcke. Diese
 
 Nach dem Entwurf der Böcke in QCad und Sketchup wurden alle Teile an der Kappsäge zugeschnitten. Anschließend wurden die Zapfen mit der japanischen Handzugsäge zurechtgesägt.
 
-[![2013-03-17_20-54-59_721](/wp-content/uploads/2013/04/2013-03-17_20-54-59_721-224x300.jpg)
-](/wp-content/uploads/2013/04/2013-03-17_20-54-59_721.jpg)
+[![2013-03-17_20-54-59_721](https://eigenbaukombinat.de/wp-content/uploads/2013/04/2013-03-17_20-54-59_721-224x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/2013-03-17_20-54-59_721.jpg)
 
 Besonders mühsam war im Anschluss das Ausstämmen der Zapfenlöcher. Hierfür wurde zuerst grob vorgebohrt und anschließend mit Stechbeitel und Klüfpel möglichst passgenau nachgearbeitet. Besonders hilfreich war hierbei die Hinterzange der Hobelbank, mit der die entsprechenden Werkstücke fixiert werden konnten.
 

@@ -43,8 +43,8 @@ Hier wurde mit dem maximalem möglichen Materialeinsatz einer 0.4mm Nozzle gedru
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5583.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5589.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5583.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5589.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -66,8 +66,8 @@ Für den K40-Lasercutter, der ja sehr verbreitet ist, haben wir nach vielen Jahr
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5585.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5587.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5585.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5587.jpg" >}}
 {{< /gallery >}}
 
 
@@ -89,6 +89,6 @@ Im letzten Grundkurs Holzwerken entstand diesmal eine einfache aber sehr stabile
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5625.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5625.jpeg" >}}
 {{< /gallery >}}
 

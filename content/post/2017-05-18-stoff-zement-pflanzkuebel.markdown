@@ -14,7 +14,7 @@ Als ich dann schaute, wie die gemacht werden, fand ich heraus, dass man dazu eig
 <!-- more -->
 
 
-Zuerst sollte man sich überlegen, [![](/wp-content/uploads/2017/05/DSC_0097-e1495141076344-300x159.jpg)
+Zuerst sollte man sich überlegen, [![](https://eigenbaukombinat.de/wp-content/uploads/2017/05/DSC_0097-e1495141076344-300x159.jpg)
 ](/stoff-zement-pflanzkuebel/dsc_0097/)welche Form und Größe man später haben möchte. Dann wählt man ein passendes Gefäß, hier Eimer und kleiner Blumenkasten. Darauf achten, dass man eine Folie unterlegt, man möchte ja keine Flächen betonieren. Außerdem sollten die Gefäße erhöht werden, damit der Stoff frei hängen kann. Achtung: der ist nass nicht nur schwerer sondern zieht sich ggf. auch noch etwas in die Länge. Vom Gewicht her war das Laken über dem Eimer schon grenzwertig, gerade wenn man nicht gleich die Mitte trifft; also lieber zu zweit arbeiten.
 
 Als nächstes legt man den Stoff über die Gefäße und schneidet ihn bei Bedarf auf die passende Länge zurecht.
@@ -25,7 +25,7 @@ Ich habe mich für ein altes kaputtes Baumwollbettlaken und ein altes Handtuch e
 
 
 
-[![](/wp-content/uploads/2017/05/DSC_0102-e1495142014245-300x245.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/05/DSC_0102-e1495142014245-300x245.jpg)
 ](/stoff-zement-pflanzkuebel/dsc_0102/)Bevor man die zementgetränkten Tücher auflegt, sollte man noch eine Folie zur Abdeckung der Gefäße verwenden. Nur für den Fall, dass man diese später wieder vom Beton lösen möchte.
 
 

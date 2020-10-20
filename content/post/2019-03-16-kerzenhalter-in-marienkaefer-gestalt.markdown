@@ -19,7 +19,7 @@ Die Anfertigungen von Holzarbeiten kann sehr vielseitig sein. Auch die Anfertigu
 <!-- more -->
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2017/12/PICT4644-1-e1552583984857.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4644-1-e1552583984857.jpg" >}}
 {{< /gallery >}}
 Käfer
 
@@ -56,10 +56,10 @@ Auf einer Wachstuchdecke oder einem gummierten Tischtuch (brandhemmend) in der K
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2017/12/PICT4642-1-e1552584012771.jpg" >}}
-{{< figure link="/wp-content/uploads/2017/12/PICT4567-2-e1543415883257.jpg" >}}
-{{< figure link="/wp-content/uploads/2017/12/PICT4633.jpg" >}}
-{{< figure link="/wp-content/uploads/2017/12/PICT4640.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4642-1-e1552584012771.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4567-2-e1543415883257.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4633.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4640.jpg" >}}
 {{< /gallery >}}
 
 

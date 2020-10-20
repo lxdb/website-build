@@ -15,10 +15,10 @@ Der in Halle ansässige Metallwarenhandel Otto Linke Nachfolger (Otto-Stomps-Str
 
 <!-- more -->
 
-![wp259f2008](/wp-content/uploads/2013/10/wp259f2008.gif)
+![wp259f2008](https://eigenbaukombinat.de/wp-content/uploads/2013/10/wp259f2008.gif)
 
 
 An dieser Stelle ein großes **Dankeschön**! Die ersten Schrauben wurden bereits in Projekten verbaut.
 
-![EBK-8616](/wp-content/uploads/2013/10/EBK-8616-300x200.jpg)
+![EBK-8616](https://eigenbaukombinat.de/wp-content/uploads/2013/10/EBK-8616-300x200.jpg)
 

@@ -39,8 +39,8 @@ Hier eine Auswahl bisheriger Patienten:
 <tbody style="font-size: 1.2em;" >
 <tr >
 
-<td style="width: 180px; vertical-align: top;" >[![IMG_2122](/wp-content/uploads/2013/12/IMG_2122-150x150.jpg)
-](/wp-content/uploads/2013/12/IMG_2122.jpg)
+<td style="width: 180px; vertical-align: top;" >[![IMG_2122](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_2122-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_2122.jpg)
 </td>
 
 <td style="vertical-align: top;" >[Weltmeister Transistororgel.](/reparatur-einer-weltmeister-to-2005-transistororgel/) Problem: Ausfall aller d-Tasten nach etwa 30 Minuten. Lösung: Finde den einen von 220 defekten Transistoren Baujahr 1960-irgendwas und tausche ihn aus. ;)
@@ -48,8 +48,8 @@ Hier eine Auswahl bisheriger Patienten:
 </tr>
 <tr >
 
-<td style="width: 180px; vertical-align: top;" >[![IMG_0432](/wp-content/uploads/2013/07/IMG_0432-150x150.jpg)
-](/wp-content/uploads/2013/07/IMG_0432.jpg)
+<td style="width: 180px; vertical-align: top;" >[![IMG_0432](https://eigenbaukombinat.de/wp-content/uploads/2013/07/IMG_0432-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/07/IMG_0432.jpg)
 </td>
 
 <td style="vertical-align: top;" >[Ein Doppelkassettenrekorder.](/reparatur-sony-doppel-kassettenrekorder/) Stromanschluss gebrochen, neu angelötet, geht wieder.
@@ -57,8 +57,8 @@ Hier eine Auswahl bisheriger Patienten:
 </tr>
 <tr >
 
-<td style="width: 180px; vertical-align: top;" >[![IMG_0434](/wp-content/uploads/2013/07/IMG_0434-150x150.jpg)
-](/wp-content/uploads/2013/07/IMG_0434.jpg)
+<td style="width: 180px; vertical-align: top;" >[![IMG_0434](https://eigenbaukombinat.de/wp-content/uploads/2013/07/IMG_0434-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/07/IMG_0434.jpg)
 </td>
 
 <td style=";vertical-align: top;" >Ein CD-Kassettenrekorder. Liest keine CDs mehr, Laser dekalibriert/Linse trüb. Leider für uns nichts zu machen.
@@ -66,8 +66,8 @@ Hier eine Auswahl bisheriger Patienten:
 </tr>
 <tr >
 
-<td style="width: 180px; vertical-align: top;" >[![IMG_0435](/wp-content/uploads/2013/07/IMG_0435-150x150.jpg)
-](/wp-content/uploads/2013/07/IMG_0435.jpg)
+<td style="width: 180px; vertical-align: top;" >[![IMG_0435](https://eigenbaukombinat.de/wp-content/uploads/2013/07/IMG_0435-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/07/IMG_0435.jpg)
 </td>
 
 <td style=";vertical-align: top;" >[Ein Canon MP510 Multifunktions-Drucker. ](/reparatur-canon-mp510-fehlercode-5010/)Scan-Einheit meldet Defekt beim Starten, Ursache war ein rausgerutschtes Flachbandkabel. Einmal zu oft fallengelassen? ;)
@@ -75,8 +75,8 @@ Hier eine Auswahl bisheriger Patienten:
 </tr>
 <tr >
 
-<td style="width: 180px; vertical-align: top;" >[![IMG_68570](/wp-content/uploads/2013/05/IMG_68570-150x150.jpg)
-](/wp-content/uploads/2013/05/IMG_68570.jpg)
+<td style="width: 180px; vertical-align: top;" >[![IMG_68570](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_68570-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_68570.jpg)
 </td>
 
 <td style=";vertical-align: top;" >[Ein Küchenmixer.](/ersatzteil-fur-den-mixer-tevion-md-12209-der-3d-drucker-im-einsatz/) Die Wellenkupplung war kaputt, da billiger Kunststoff und somit eine typische Sollbruchstelle. Eine neue Kupplung wurde für ca. 5 Cent auf dem 3D-Drucker gefertigt.
@@ -84,8 +84,8 @@ Hier eine Auswahl bisheriger Patienten:
 </tr>
 <tr >
 
-<td style="width: 180px; vertical-align: top;" >[![IMG_0493](/wp-content/uploads/2013/07/IMG_0493-150x150.jpg)
-](/wp-content/uploads/2013/07/IMG_0493.jpg)
+<td style="width: 180px; vertical-align: top;" >[![IMG_0493](https://eigenbaukombinat.de/wp-content/uploads/2013/07/IMG_0493-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/07/IMG_0493.jpg)
 </td>
 
 <td style=";vertical-align: top;" >[Aktenvernichter IDEAL.](/reparatur-aktenvernichter-ideal-crosscut-2201-b/) Komplett mit Papierschnipseln verklemmt, am Zahnrad zum Glück nur eine Zacke abgebrochen. Nach gründlicher Reinigung wieder einsatzbereit.

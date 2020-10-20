@@ -17,4 +17,3 @@ json = json + resp[i].startdate + ' ' + resp[i].starttime + ' - ' +  resp[i].end
   jQuery('#termin').html('<span style="color:white; padding:3px 5px 3px 5px; border-radius:4px; display:inline-block;"><span id="termin">' + json + '</span></span>');
 });
 </script>
-

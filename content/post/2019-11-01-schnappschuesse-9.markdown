@@ -40,8 +40,8 @@ Wer aus einzelnen Lamellen selber Tischplatten herstellen will, gern auch aus sc
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5526.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5536.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5526.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5536.jpg" >}}
 {{< /gallery >}}
 
 
@@ -63,9 +63,9 @@ Kokosnüsse aufschneiden, Füllung rein, und mit Restholz wieder zuleimen. Die O
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5605.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5607.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5611.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5605.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5607.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5611.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -87,6 +87,6 @@ Auch gutes Licht geht mal kaputt, für 2,50 EUR gibt es den Schalter aber als Er
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5598.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5598.jpeg" >}}
 {{< /gallery >}}
 

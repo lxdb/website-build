@@ -23,12 +23,12 @@ Wie man als leidgeprüfter Bahnfahrer weiß, sind außerdem die Daten bei größ
 
 Das Programm läuft auf einem [Raspberry Pi](http:/https://www.raspberrypi.org/), einem Einplatinencomputer, der für etwa 35 Euro zu haben ist. Als Betriebssystem habe ich [Raspbian](http:/https://www.raspbian.org/) gewählt, ein Debian-Derivat, das auf den Raspberry Pi zugeschnitten ist.
 
-[![raspi](/wp-content/uploads/2013/11/raspi-300x251.jpg)
-](/wp-content/uploads/2013/11/raspi.jpg).
+[![raspi](https://eigenbaukombinat.de/wp-content/uploads/2013/11/raspi-300x251.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/11/raspi.jpg).
 
 Und so sieht die Anzeige fertig montiert aus, die Kabelführung wird noch verbessert:
 
-[![anzeige](/wp-content/uploads/2013/11/anzeige-300x225.jpg)
-](/wp-content/uploads/2013/11/anzeige.jpg)
+[![anzeige](https://eigenbaukombinat.de/wp-content/uploads/2013/11/anzeige-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/11/anzeige.jpg)
 
 Der Sourcecode ist bei [GitHub](/github.com/Eigenbaukombinat/pynasa) zu finden.

@@ -19,8 +19,8 @@ Um diesem Wachstum gerecht zu werden und allen Mitgliedern vernünftige Arbeitsb
 Der Grundriss zeigt unsere neuen Räume. Grün sind die bisherigen Räume. Rot ist alles, was bald dazu kommt.
 
 
-[![grundriss2013_markiert](/wp-content/uploads/2013/08/grundriss2013_markiert-1024x716.png)
-](/wp-content/uploads/2013/08/grundriss2013_markiert.png)
+[![grundriss2013_markiert](https://eigenbaukombinat.de/wp-content/uploads/2013/08/grundriss2013_markiert-1024x716.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/grundriss2013_markiert.png)
 
 
 Derzeit sind wir fleißig am renovieren und ausbauen. Es müssen Wände verputzt und gestrichen, Boden verlegt und Möbel gebaut werden. Wir hoffen mit einem Großteil der Arbeiten bis Ende August fertig zu sein. Auch bis dahin sind unsere Werkstätten uneingeschränkt nutzbar.

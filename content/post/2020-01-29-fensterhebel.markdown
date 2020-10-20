@@ -7,6 +7,8 @@ type: post
 url: /fensterhebel/
 categories:
 - Fertige Projekte
+cover:
+  image: https://eigenbaukombinat.de/wp-content/uploads/2020/01/Hebel-1.png
 ---
 
 
@@ -23,7 +25,7 @@ Für ein schwer erreichbares Badfenster, habe ich diesen Mechanismus entworfen, 
 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2020/01/Hebel-1.png" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/01/Hebel-1.png" >}}
 {{< /gallery >}}
 
 
@@ -40,7 +42,7 @@ Funktionsweise
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2020/01/path3542.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/01/path3542.png" >}}
 {{< /gallery >}}
 
 
@@ -79,7 +81,7 @@ Nach der Konstruktion in [FreeCAD](https://freecadweb.org/?lang=de), habe ich di
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2020/01/text4049.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/01/text4049.png" >}}
 {{< /gallery >}}
 Schnitt: Gelenk Hebel
 
@@ -96,7 +98,7 @@ Für die Gelenke habe ich 4mm Messingstifte verwendet. Die Gleitlager haben 4,2 
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2020/01/DSCN8111.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/01/DSCN8111.jpg" >}}
 {{< /gallery >}}
 
 
@@ -112,7 +114,7 @@ In den Gelenken ist genug Reibung, damit das Fenster in jeder Zwischenstellung g
 
 
 
-Zum Anpassen und Nachbauen gibt es [hier](/wp-content/uploads/2020/01/Fensterhebel.fcstd) die [FreeCAD](https://freecadweb.org/?lang=de) Datei zum Download! (Tipp zum Anpassen der Maße: Unter /Mechanismus/Hebelskizze werden die Gelenkpositionen und Hebellängen festgelegt. Die Einzelteile passen sich dann automatisch an.)
+Zum Anpassen und Nachbauen gibt es [hier](https://eigenbaukombinat.de/wp-content/uploads/2020/01/Fensterhebel.fcstd) die [FreeCAD](https://freecadweb.org/?lang=de) Datei zum Download! (Tipp zum Anpassen der Maße: Unter /Mechanismus/Hebelskizze werden die Gelenkpositionen und Hebellängen festgelegt. Die Einzelteile passen sich dann automatisch an.)
 
 
 
@@ -121,14 +123,3 @@ Zum Anpassen und Nachbauen gibt es [hier](/wp-content/uploads/2020/01/Fensterheb
 
 
 Erstellt mit FreeCAD Version 0.18.4
-
-
-
-
-
-
-
-
-
-
-

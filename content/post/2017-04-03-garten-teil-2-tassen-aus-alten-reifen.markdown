@@ -21,7 +21,7 @@ Links sind unsere neuen Nutzpflanzen: Brombeeren (ohne Stacheln), Himbeere, Erdb
 In der Mitte eine Gartenyucca und Flieder in weiß und violett.
 Rechts sind Lilien.
 
-[![](/wp-content/uploads/2017/04/DSC_0196-e1491565575874.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/04/DSC_0196-e1491565575874.jpg)
 ](/garten-teil-2-tassen-aus-alten-reifen/dsc_0196/)
 
 Die Nutzpflanzen setzen wird dann in das, am Vortag gebaute, Hochbeet.
@@ -43,7 +43,7 @@ Ein wenig ekelig wird es bei alten verrosteten Reifen, in denen sich dann Wasser
 
 Update:
 Im nächsten Schritt haben wir uns die weiße Tasse vorgenommen.
-[![](/wp-content/uploads/2017/04/IMG_20170405_120441_690-1-1024x1024.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/04/IMG_20170405_120441_690-1-1024x1024.jpg)
 ](/garten-teil-2-tassen-aus-alten-reifen/img_20170405_120441_690-2/)
 
 Wir wollten unsere Tasse ähnlich einem klassischen Zwiebelmuster gestalten.
@@ -51,6 +51,6 @@ Unsere Umsetzung erfolge mit einem Stück Gardine und blauer Farbe.
 Für den Henkel probierten wir die Variante mit einem Stück Gartenschlauch.
 Wir probierten aus welche Henkelform am Besten geeignet sein könnte. Wir wählten die Variante mit kleinem Kringel am Ende. Danach schnitten wir den Schlauch auf Länge zu. Zur besseren Befestigung erhitzten wir den Schlau mit einem Heißluftföhn und drückten die Enden im Schraubstock zusammen.
 
-[![](/wp-content/uploads/2017/04/DSC_0218-1-1024x576.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/04/DSC_0218-1-1024x576.jpg)
 ](/garten-teil-2-tassen-aus-alten-reifen/dsc_0218-2/)
 Abschließend versahen wir unsere Tasse noch mit einem Goldrand und bepflanzten sie.

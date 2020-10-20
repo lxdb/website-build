@@ -16,7 +16,7 @@ categories:
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/03/Jugend-hackt_2.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/Jugend-hackt_2.jpg" >}}
 {{< /gallery >}}
 Jugend hackt in Halle - 2018 [CC BY 4.0 Lisa Krug (Jugend hackt)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -33,7 +33,7 @@ Das Eigenbaukombinat ist mit seiner Ausstattung und Infrastruktur aus verschiede
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/03/Jugend-hackt_3.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/Jugend-hackt_3.jpg" >}}
 {{< /gallery >}}
 Jugend hackt in Halle - 2018 [CC BY 4.0 Lisa Krug (Jugend hackt)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -44,7 +44,7 @@ Neben der praktischen Umsetzung der Projekte, ist ein Ziel der Veranstaltung die
 Ein weiterer Höhepunkt der Veranstaltung war die Keynote von Marco Gergele. Der hallesche Software-Entwickler sprach über die Potenziale von Technologie für zivilgesellschaftliches Engagement und stellte die App “Wegeheld” vor, mit der das Radfahren in der Stadt sicherer gemacht werden soll.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/03/Jugend-hackt_4.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/Jugend-hackt_4.jpg" >}}
 {{< /gallery >}}
 Jugend hackt in Halle - 2018 [CC BY 4.0 Lisa Krug (Jugend hackt)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -78,13 +78,13 @@ Weitere Infos findest du auf [jugendhackt.org](https://jugendhackt.org/)
 Auch für die finanzielle Unterstützung in 2018 bedanken wir uns herzlichst bei der Landeszentrale für politische Bildung, der Stadt Halle, der Stadtmarketing Halle GmbH, der Firma Papenburg und dem Python Software Verband e.V.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/03/Jugend-hackt_Bbanner_Logos.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/Jugend-hackt_Bbanner_Logos.png" >}}
 {{< /gallery >}}
 
 Programmleitung:
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/03/Jugend-hackt_Programmleitung_Logos.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/Jugend-hackt_Programmleitung_Logos.png" >}}
 {{< /gallery >}}
 
 

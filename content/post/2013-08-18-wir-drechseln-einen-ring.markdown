@@ -19,5 +19,5 @@ Zwetschge ist ein äußerst edles, hartes Holz, welches sich hervorragend auch f
 
 Das Resultat kann sich sehen lassen:
 
-[![IMG_9052](/wp-content/uploads/2013/05/IMG_9052-300x225.jpg)
-](/wp-content/uploads/2013/05/IMG_9052.jpg)
+[![IMG_9052](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_9052-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_9052.jpg)

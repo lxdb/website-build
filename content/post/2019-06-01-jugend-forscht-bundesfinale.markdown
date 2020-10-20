@@ -25,9 +25,9 @@ Vom 16. bis 19. Mai 2019 fand in Chemnitz das Bundesfinale von Jugend forscht st
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/05/WhatsApp_Image_2019-05-29_at_12.01.17.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/05/WhatsApp_Image_2019-05-29_at_12.00.54.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/05/WhatsApp_Image_2019-05-29_at_12.01.32.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/05/WhatsApp_Image_2019-05-29_at_12.01.17.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/05/WhatsApp_Image_2019-05-29_at_12.00.54.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/05/WhatsApp_Image_2019-05-29_at_12.01.32.jpeg" >}}
 {{< /gallery >}}
 
 

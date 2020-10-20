@@ -20,5 +20,5 @@ Der Workshop findet am Samstag von 10 - 13 Uhr in unserem Fotostudio statt und k
 
 Bitte bringt euer eigenes Kameraequipment mit.
 
-![EBK Foto](/wp-content/uploads/2016/04/EBK-Foto-300x300.png)
+![EBK Foto](https://eigenbaukombinat.de/wp-content/uploads/2016/04/EBK-Foto-300x300.png)
 

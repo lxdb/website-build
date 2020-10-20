@@ -14,8 +14,8 @@ tags:
 
 Leider war eine der Motorbefestigungen meines X525 Quadcopter Rahmens bei einer unsanften Landung gebrochen. Ersatzteile kann man nur aus China bestellen, was leider 3-8 Wochen dauert, oder in Deutschland zu absolut überhöhten Preisen kaufen.
 
-[caption id="attachment_1185" align="aligncenter" width="300"][![Entschuldigung für die schlechte Qualität](/wp-content/uploads/2013/02/WP_001018-300x225.jpg)
-](/wp-content/uploads/2013/02/WP_001018.jpg) Die gebrochene Motorbefestigung.[/caption]
+[caption id="attachment_1185" align="aligncenter" width="300"][![Entschuldigung für die schlechte Qualität](https://eigenbaukombinat.de/wp-content/uploads/2013/02/WP_001018-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/WP_001018.jpg) Die gebrochene Motorbefestigung.[/caption]
 
 Also musste schnell Abhilfe geschaffen werden, damit ich am Wochenende wieder fliegen kann.<!-- more -->
 
@@ -29,6 +29,6 @@ Das Ergebnis gefällt mir besser als die originalen und stabiler ist es auch: 
 
 Wenn sich die Halter bewähren und wir eine Kühlung für die CNC Fräse gebaut haben, soll die Halterung auch nochmal aus Aluminium gefertigt werden.
 
-**Alle die ebenfalls auf Nachbau-Motorhalterungen für den X525 Frame angewiesen sind, können sich **[**hier**](/wp-content/uploads/2013/02/X525Mount-by-Eigenbaukombinat.de_.dxf)** das DXF File runterladen und nachfräsen.**
+**Alle die ebenfalls auf Nachbau-Motorhalterungen für den X525 Frame angewiesen sind, können sich **[**hier**](https://eigenbaukombinat.de/wp-content/uploads/2013/02/X525Mount-by-Eigenbaukombinat.de_.dxf)** das DXF File runterladen und nachfräsen.**
 
 

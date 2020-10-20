@@ -15,7 +15,7 @@ tags:
 - lecker
 ---
 
-![](/wp-content/uploads/2017/11/IMG_20171115_001349-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/11/IMG_20171115_001349-300x225.jpg)
 
 
 Gerade frisch aus dem DDDrucker gefallen: der erste EBK-Keksausstecher der Welt!

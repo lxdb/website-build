@@ -29,7 +29,7 @@ Unsere Kontodaten für eine Überweisung sind:
 **BIC:** NOLADE21HAL
 **Bank:** Saalesparkasse
 
-Wie bei den Sachspenden ist deine Spende steuerabzugsfähig. Bei Spenden per Überweisung gilt eine Sonderregelung: Du kannst dir die [Bestätigung für den Steuerabzug](/wp-content/uploads/2016/05/kleinspende.pdf) selber ausdrucken, wenn der Spendenbetrag im Jahr 200 Euro nicht überschreitet.
+Wie bei den Sachspenden ist deine Spende steuerabzugsfähig. Bei Spenden per Überweisung gilt eine Sonderregelung: Du kannst dir die [Bestätigung für den Steuerabzug](https://eigenbaukombinat.de/wp-content/uploads/2016/05/kleinspende.pdf) selber ausdrucken, wenn der Spendenbetrag im Jahr 200 Euro nicht überschreitet.
 
 **Fördermitglied werden**
 Eine Fördermitgliedschaft ist im Wesentlichen eine monatliche Geldspende. Der Mitgliedsbeitrag kann ab fünf Euro pro Monat von dir gewählt werden und wird bequem per Lastschrift am Anfang des Monats eingezogen. Auch bei der Fördermitgliedschaft gilt: Der Mitgliedsbeitrag ist steuerlich absetzbar.

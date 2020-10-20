@@ -11,7 +11,7 @@ Das Eigenbaukombinat befindet sich in der Landsberger Straße 3 in Halle (Saale)
 
 Das Gebäude erkennst Du am farbenfrohen Bild:
 
-![](/wp-content/uploads/2019/05/20161109_ebk_front2.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2019/05/20161109_ebk_front2.jpg)
 
 
 Unsere Räume sind leider nicht barrierefrei. Wenn Treppensteigen für dich ein Problem ist, [kontaktiere uns](/kontakt/) bitte, bevor du uns zum ersten Mal besuchst.

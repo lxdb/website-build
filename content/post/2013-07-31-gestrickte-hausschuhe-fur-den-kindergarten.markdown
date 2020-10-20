@@ -15,8 +15,8 @@ Beim diesjährigen Wollefest in Leipzig ([http:/https://www.leipziger-wolle-fest
 
 <!-- more -->
 
-[caption id="attachment_3558" align="alignnone" width="300"][![Kindergarten-Hausschuhe](/wp-content/uploads/2013/06/IMG_69222-300x225.jpg)
-](/wp-content/uploads/2013/06/IMG_69222.jpg) Kindergarten-Hausschuhe[/caption]
+[caption id="attachment_3558" align="alignnone" width="300"][![Kindergarten-Hausschuhe](https://eigenbaukombinat.de/wp-content/uploads/2013/06/IMG_69222-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/06/IMG_69222.jpg) Kindergarten-Hausschuhe[/caption]
 
 Das Ganze geht natürlich auch als Strickfilz-Variante (man nimmt Schurwolle, strickt die Schuhe und schmeisst sie dann in die Waschmaschine beim normalen 40°-Waschgang. Danach ist das Strickstück gefilzt und geschrumpft). Da ist es aber schwieriger die richtige Größe zu stricken, da der Schuh beim Waschen um _ungefähr_ 30% einläuft.
 

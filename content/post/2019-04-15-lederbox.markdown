@@ -27,7 +27,7 @@ Mit diesem personalisierten Geschenk wollte ich mich mal wieder mit Leder besch�
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/04/IMG_9001.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/04/IMG_9001.jpg" >}}
 {{< /gallery >}}
 
 
@@ -47,7 +47,7 @@ Die Zigarrenkiste wurde von allen Beschlägen befreit und mit 80er Schleifpapier
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/04/IMG_9002.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/04/IMG_9002.jpg" >}}
 {{< /gallery >}}
 Prägestempel in Acrylglas
 
@@ -68,7 +68,7 @@ Da mir die Prägung bei Tests nicht tief genug war und das dünne Leder nicht ge
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/04/IMG_9003.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/04/IMG_9003.jpg" >}}
 {{< /gallery >}}
 Testfräsung
 
@@ -89,7 +89,7 @@ Dem Kleber 30 Minuten zum Abbinden gelassen, und fertig war die Prägung!
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/04/IMG_9004.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/04/IMG_9004.jpg" >}}
 {{< /gallery >}}
 
 
@@ -108,7 +108,7 @@ Das nächste Mal könnte man die Außenkanten des Prägestempels noch mehr abrun
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/04/IMG_9005.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/04/IMG_9005.jpg" >}}
 {{< /gallery >}}
 
 
@@ -128,7 +128,7 @@ Das Leder wurde über die Kanten nach innen geschlagen und dort festgeleimt.
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/04/IMG_9006.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/04/IMG_9006.jpg" >}}
 {{< /gallery >}}
 
 
@@ -147,7 +147,7 @@ Die Nägel an den Ecken helfen einem möglichen Verzug entgegen zu wirken. Mit e
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/04/IMG_9007.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/04/IMG_9007.jpg" >}}
 {{< /gallery >}}
 
 
@@ -166,7 +166,7 @@ Der untere Teil der Zigarrenkiste wurde von mir auf dieselbe Weise mit Leder ver
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/04/IMG_9008.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/04/IMG_9008.jpg" >}}
 {{< /gallery >}}
 
 
@@ -185,7 +185,7 @@ Scharniere und ein Verschluss aus Messing von einem großen chinesischen Versend
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/04/IMG_9009.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/04/IMG_9009.jpg" >}}
 {{< /gallery >}}
 
 
@@ -204,7 +204,7 @@ Noch einmal mit Lederpflege behandeln und fertig ist das personalisierte Geschen
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/04/IMG_9010.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/04/IMG_9010.jpg" >}}
 {{< /gallery >}}
 
 

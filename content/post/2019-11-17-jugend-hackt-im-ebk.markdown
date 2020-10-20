@@ -10,15 +10,17 @@ categories:
 - Jugend hackt
 - JUNGHACKER
 - Veranstaltungen
+cover:
+  image: https://jugendhackt.org/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-1-678x452.jpg
 ---
 
 
 
 
 
-Vom 8. bis 10. November 2019 fand Jugend hackt in Halle (Saale) statt. 
-Ein Hackathon für Jugendliche zwischen 12 und 18 Jahren. Bereits zum 
-dritten Mal kamen 35 Jugendliche aus Halle und dem ganzen Bundesgebiet  zu uns ins Eigenbaukombinat. 
+Vom 8. bis 10. November 2019 fand Jugend hackt in Halle (Saale) statt.
+Ein Hackathon für Jugendliche zwischen 12 und 18 Jahren. Bereits zum
+dritten Mal kamen 35 Jugendliche aus Halle und dem ganzen Bundesgebiet  zu uns ins Eigenbaukombinat.
 
 
 
@@ -34,7 +36,7 @@ dritten Mal kamen 35 Jugendliche aus Halle und dem ganzen Bundesgebiet  zu uns i
 
 
 
-Unterstützt wurden die Teilnehmerinnen und Teilnehmer von 15 Mentorinnen und Mentoren, die in sechs Projektgruppen kräftig mitgedacht haben. Darunter viele Ehrenamtliche aus dem EBK sowie externe Menschen. 
+Unterstützt wurden die Teilnehmerinnen und Teilnehmer von 15 Mentorinnen und Mentoren, die in sechs Projektgruppen kräftig mitgedacht haben. Darunter viele Ehrenamtliche aus dem EBK sowie externe Menschen.
 
 
 
@@ -43,7 +45,7 @@ Unterstützt wurden die Teilnehmerinnen und Teilnehmer von 15 Mentorinnen und Me
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-1-.jpg" >}}
+{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-1-678x452.jpg" >}}
 {{< /gallery >}}
 
 Brainstorming am Freitag (CC BY 2.0, Jugend hackt, Foto: Manuel Schmuck)
@@ -79,7 +81,7 @@ Die Gruppe „[PlantGO](https://gitlab.com/jugendhackt/plant-go)“ entwickelte 
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-5-.jpg" >}}
+{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-5-678x452.jpg" >}}
 {{< /gallery >}}
 Projektgruppe ChangeBox (CC BY 4.0, Jugend hackt, Foto: Manuel Schmuck)
 
@@ -114,7 +116,7 @@ Darüber hinaus haben die Jugendlichen viele Ideen zu weiteren Themen umgesetzt.
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-2-.jpg" >}}
+{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-2-678x452.jpg" >}}
 {{< /gallery >}}
 Projektgruppe Scook (CC BY 2.0, Jugend hackt, Foto: Manuel Schmuck)
 
@@ -141,7 +143,7 @@ Mit dem [Sticker-Verdichter](https://www.youtube.com/watch?v=YD3Sp2Qo4qI&list=PL
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Abschlussbericht_Jugend-hackt-Halle-2019-4-.jpg" >}}
+{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/10/Jugend-hackt-Halle-2019-4-678x452.jpg" >}}
 {{< /gallery >}}
 Projektgruppe Sticker-Verdichter (CC BY 2.0, Jugend hackt, Foto: Manuel Schmuck)
 
@@ -207,7 +209,7 @@ Am Samstag standen außerdem viele Lightning Talks auf dem Plan und wir sind gan
 
 
 
-Unsere Mitmachwerkstatt bietet mit ihrer Ausstattung und Infrastruktur aus den verschiedenen Werkstätten den perfekten Ort, um gemeinsam an kreativen Ideen und Visionen für die digitale Gesellschaft zu arbeiten und entsprechend des Mottos von Jugend hackt „mit Code die Welt zu verbessern“.  Auch die neuen Räume konnten wir in diesem Jahr sehr gut nutzen, um dort Projektgruppen unterzubringen. Damit konnte der Betrieb in den Werkstätten wie gehabt weiterlaufen. 
+Unsere Mitmachwerkstatt bietet mit ihrer Ausstattung und Infrastruktur aus den verschiedenen Werkstätten den perfekten Ort, um gemeinsam an kreativen Ideen und Visionen für die digitale Gesellschaft zu arbeiten und entsprechend des Mottos von Jugend hackt „mit Code die Welt zu verbessern“.  Auch die neuen Räume konnten wir in diesem Jahr sehr gut nutzen, um dort Projektgruppen unterzubringen. Damit konnte der Betrieb in den Werkstätten wie gehabt weiterlaufen.
 
 
 
@@ -215,7 +217,7 @@ Unsere Mitmachwerkstatt bietet mit ihrer Ausstattung und Infrastruktur aus den v
 
 
 
-Wir freuen uns, dass wir mit Jugend hackt das Eigenbaukombinat wieder für ein Wochenende "besetzen" durften und möchten uns ganz herzlich bei allen Helferinnen und Helfern bedanken! Und natürlich auch bei all denen, die das EBK deshalb im oberen Stockwerk nur mit Einschränkungen nutzen konnten. 
+Wir freuen uns, dass wir mit Jugend hackt das Eigenbaukombinat wieder für ein Wochenende "besetzen" durften und möchten uns ganz herzlich bei allen Helferinnen und Helfern bedanken! Und natürlich auch bei all denen, die das EBK deshalb im oberen Stockwerk nur mit Einschränkungen nutzen konnten.
 
 
 
@@ -238,7 +240,7 @@ Wir freuen uns, dass wir mit Jugend hackt das Eigenbaukombinat wieder für ein W
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Jugend-hackt-Halle.gif" >}}
+{{< figure link="https://jugendhackt.org/wp-content/uploads/2019/10/Jugend-hackt-Halle.gif" >}}
 {{< /gallery >}}
 
 
@@ -254,4 +256,3 @@ Für die finanzielle Unterstützung bedanken wir uns bei unserem Kooperationspar
 {{< gallery caption-effect="fade" >}}
 {{< figure link="https://jugendhackt.org/wp-content/uploads/2019/11/Moderation-Sonntag-Abschlusspräsentation.jpg" >}}
 {{< /gallery >}}
-

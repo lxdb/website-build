@@ -23,11 +23,11 @@ Zur Ausstattung gehören, insbesondere dank der Förderung der [anstiftung](/ans
 
 
 
-  * [![](/wp-content/uploads/2019/09/IMG_4220.jpg)
-](/wp-content/uploads/2019/09/IMG_4220.jpg)  * [![](/wp-content/uploads/2019/09/IMG_4281.jpg)
-](/wp-content/uploads/2019/09/IMG_4281.jpg)  * [![](/wp-content/uploads/2019/08/IMG_3899-1.jpg)
-](/wp-content/uploads/2019/08/IMG_3899-1.jpg)  * [![](/wp-content/uploads/2019/08/IMG_3905-1.jpg)
-](/wp-content/uploads/2019/08/IMG_3905-1.jpg)  * [![](/wp-content/uploads/2019/08/IMG_3906-1.jpg)
-](/wp-content/uploads/2019/08/IMG_3906-1.jpg)  * [![](/wp-content/uploads/2019/08/IMG_3880-1.jpg)
-](/wp-content/uploads/2019/08/IMG_3880-1.jpg)
+  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4220.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4220.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4281.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4281.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3899-1.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3899-1.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3905-1.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3905-1.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3906-1.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3906-1.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3880-1.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3880-1.jpg)
 

@@ -13,5 +13,5 @@ tags:
 
 Pünktlich zur kalten Jahreszeit hat uns eine Spende von Honeywell erreicht. So können wir drahtlos unsere Heizungen regeln und immer pünktlich zu den Öffnungszeiten die Räume heizen.<!-- more -->
 
-[![IMG_1740](/wp-content/uploads/2013/11/IMG_1740-1024x680.jpg)
-](/wp-content/uploads/2013/11/IMG_1740.jpg)
+[![IMG_1740](https://eigenbaukombinat.de/wp-content/uploads/2013/11/IMG_1740-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/11/IMG_1740.jpg)

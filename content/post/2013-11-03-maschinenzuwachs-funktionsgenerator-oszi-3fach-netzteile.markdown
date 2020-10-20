@@ -24,7 +24,7 @@ Nachwuchs! Wir begrüßen unsere Neuzugänge im Elektronikbereich:
 
 <!-- more -->
 
-[![IMG_1556](/wp-content/uploads/2013/10/IMG_1556-1024x680.jpg)
-](/wp-content/uploads/2013/10/IMG_1556.jpg)
+[![IMG_1556](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1556-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1556.jpg)
 
 Unser Dank geht an die Spender!

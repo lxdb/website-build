@@ -15,8 +15,8 @@ Der Ausbau schreitet voran: Dank vieler fleißiger Hände wurde in der letzten W
 
 Man sieht oben unsere Materialsammlung und -vorräte, wie die ersten Dosen entstehen und unten den künftigen Hauptraum vom Elektronikbereich mit rund 60m² nach dem ersten Anstrich. Die Fußbödenbeläge fehlen noch, folgen aber etwas später.
 
-[![IMG_0353_1](/wp-content/uploads/2015/11/IMG_0353_1-1024x362.jpg)
-](/wp-content/uploads/2015/11/IMG_0353_1.jpg)
+[![IMG_0353_1](https://eigenbaukombinat.de/wp-content/uploads/2015/11/IMG_0353_1-1024x362.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/11/IMG_0353_1.jpg)
 
 In den letzten beiden Fotos ist die Trockenbauwand im Handarbeitsbereich zu sehen und René beim Putzen des Bodens im neuen Fotostudio.
 

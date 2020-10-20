@@ -11,7 +11,7 @@ categories:
 
 Die "Grande Dame" unter den kleinen Oberfräsen und ein echter Workaholic: Die OF-900 von Festool. Klein, relativ leicht, und unkaputtbar.
 
-[![IMG_9041](/wp-content/uploads/2013/05/IMG_9041-300x300.jpg)
-](/wp-content/uploads/2013/05/IMG_9041.jpg)
+[![IMG_9041](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_9041-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_9041.jpg)
 
 Mit 8mm Spannzange ausgestattet passen alle üblichen Fräser hinein. Ein Parallelanschlag und eine Tiefeneinstellung sind natürich auch mit an Bord.

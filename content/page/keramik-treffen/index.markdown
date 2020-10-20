@@ -93,10 +93,10 @@ Fragen gerne per Matrix-Chat in die Keramik-Gruppe!
 </table>
 
 
-  * [![](/wp-content/uploads/2019/09/IMG_4245.jpg)
-](/wp-content/uploads/2019/09/IMG_4245.jpg)  * [![](/wp-content/uploads/2019/09/IMG_4915_1.jpg)
-](/wp-content/uploads/2019/09/IMG_4915_1.jpg)  * [![](/wp-content/uploads/2019/09/IMG_3989.jpg)
-](/wp-content/uploads/2019/09/IMG_3989.jpg)  * [![](/wp-content/uploads/2019/09/IMG_4918_1.jpg)
-](/wp-content/uploads/2019/09/IMG_4918_1.jpg)  * [![](/wp-content/uploads/2019/09/IMG_4927_1.jpg)
-](/wp-content/uploads/2019/09/IMG_4927_1.jpg)
+  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4245.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4245.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4915_1.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4915_1.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_3989.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_3989.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4918_1.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4918_1.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4927_1.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4927_1.jpg)
 

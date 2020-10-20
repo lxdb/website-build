@@ -32,37 +32,37 @@ Außerdem hat die Video-Gruppe hat eine kurze Dokumentation vom heutigen Tag ang
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/11/IMG_0289.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0289.jpg" >}}
  
-{{< figure link="/wp-content/uploads/2019/11/IMG_0295.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0295.jpg" >}}
  
-{{< figure link="/wp-content/uploads/2019/11/IMG_0297.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0297.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/IMG_0315.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0315.jpg" >}}
  
-{{< figure link="/wp-content/uploads/2019/11/IMG_0303.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0303.jpg" >}}
  
-{{< figure link="/wp-content/uploads/2019/11/IMG_0290.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0290.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/IMG_0325_1.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0325_1.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/IMG_0326_1.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0326_1.jpg" >}}
  
-{{< figure link="/wp-content/uploads/2019/11/IMG_0307.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0307.jpg" >}}
  
-{{< figure link="/wp-content/uploads/2019/11/IMG_0309.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0309.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/IMG_0300.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0300.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/IMG_0318.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0318.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/IMG_0319_1.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0319_1.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/IMG_0322_1.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0322_1.jpg" >}}
  
-{{< figure link="/wp-content/uploads/2019/11/IMG_0312.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0312.jpg" >}}
  
-{{< figure link="/wp-content/uploads/2019/11/IMG_0316.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/IMG_0316.jpg" >}}
 {{< /gallery >}}
 
 

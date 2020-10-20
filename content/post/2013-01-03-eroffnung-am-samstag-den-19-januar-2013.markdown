@@ -15,6 +15,6 @@ Endlich ist es soweit!
 
 Zwischen 10 und 18 Uhr haben Sie die Möglichkeit, unsere Werkstatt und unser Labor zu besichtigen. Wir bieten Ihnen einen Überblick über unsere Werkzeuge und Maschinen, unsere Projekte und unsere Zukunftspläne.
 
-Die Einladung als .pdf zum Download gibt es [hier](/wp-content/uploads/2013/01/einladung.pdf).
+Die Einladung als .pdf zum Download gibt es [hier](https://eigenbaukombinat.de/wp-content/uploads/2013/01/einladung.pdf).
 
 Hinweise zur Anfahrt sind [hier](/kontakt/anfahrt/) zu finden. 

@@ -14,17 +14,17 @@ Das Material ist 10mm Pappelsperrholz, ich habe etwa anderthalb Platten zu je 12
 Eine Platte kostet im Toom ca 15 EUR. Gefräst wurde mit einem 3mm diamantverzahnten Fräser, Fräszeit ca eine Stunde denke ich, eher etwas weniger.
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2013/02/rbbogen_1.png" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2013/02/rbbogen_1.png" >}}
 {{< /gallery >}}
 
 Breite der Front ist unten 52cm, die Türme sind 30cm hoch, die Seiten 22cm. Zum optischen Größenvergleich steht ein Eurostück an der Burg. 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2013/02/ritterburg1.jpg" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2013/02/ritterburg1.jpg" >}}
 {{< /gallery >}}
 
 Man kann alle Teile einfach zusammenstecken und wieder zerlegen, falls man sie dann doch mal wegräumen möchte.
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2013/02/ritterburg2.jpg" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2013/02/ritterburg2.jpg" >}}
 {{< /gallery >}}

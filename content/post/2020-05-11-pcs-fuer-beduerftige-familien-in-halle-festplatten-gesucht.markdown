@@ -7,6 +7,8 @@ type: post
 url: /pcs-fuer-beduerftige-familien-in-halle-festplatten-gesucht/
 categories:
 - Fertige Projekte
+cover:
+  image: https://eigenbaukombinat.de/wp-content/uploads/2020/05/IMG_6555_small.jpg
 ---
 
 
@@ -48,10 +50,10 @@ Da wir vor ein paar Monaten eine größere Spende ausgedienter Desktop-PCs erhal
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2020/05/IMG_6553_small.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/05/IMG_6553_small.jpg" >}}
 {{< /gallery >}}  
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2020/05/IMG_6555_small.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/05/IMG_6555_small.jpg" >}}
 {{< /gallery >}}  
 
 
@@ -69,6 +71,3 @@ Nun haben wir eine weitere Spende von 13 Monitoren erhalten (an dieser Stelle ei
 
 
 Für 6 weitere PCs fehlen uns nun noch Festplatten. Wer noch eine oder viele brauchbare SATA-Festplatte(n) mit min. 500GB Speicherplatz abzugeben hat, kann sich gerne [per E-Mail](mailto:kontakt@eigenbaukombinat.de) melden.
-
-
-

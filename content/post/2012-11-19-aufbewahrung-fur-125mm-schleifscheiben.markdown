@@ -15,26 +15,26 @@ Zuerst geht es wie immer ans Messen: Die Schleifscheiben haben einen Durchmesser
 
 
 Grundlage bildet wieder ein Stück MDF 19mm, diesmal mit den Maßen 420 mm x 500 mm. 
-Für die Halterung der Schleifscheiben nehme ich diesmal Rundstab Buche in 8 mm, aus dem ich nicht sechs, sondern zwölf rund 110 mm lange Stäbchen schneide.[(Download als DXF)](/wp-content/uploads/2013/02/aufbewahrung-schleifscheiben-125mm_0.dxf)
+Für die Halterung der Schleifscheiben nehme ich diesmal Rundstab Buche in 8 mm, aus dem ich nicht sechs, sondern zwölf rund 110 mm lange Stäbchen schneide.[(Download als DXF)](https://eigenbaukombinat.de/wp-content/uploads/2013/02/aufbewahrung-schleifscheiben-125mm_0.dxf)
 
-[![1](/wp-content/uploads/2013/02/1-300x268.png)
-](/wp-content/uploads/2013/02/1.png)
+[![1](https://eigenbaukombinat.de/wp-content/uploads/2013/02/1-300x268.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/1.png)
 
 Die Löcher im Grundbrett bohren wir wieder ca 15mm tief vor und leimen die Stäbchen ein. WICHTIG: Den korrekten Sitz der Stäbchen immer wieder mit einer Schleifscheibe prüfen und gegebenenfalls korrigieren!
 So sieht das fertige Ergebnis dann mit meiner Sammlung an Schleifscheiben aus. In der Mitte ist sogar noch Platz für den Handschleifklotz und die Ersatzschleifteller. 
 
-[![2](/wp-content/uploads/2013/02/21-300x225.jpg)
-](/wp-content/uploads/2013/02/21.jpg)
+[![2](https://eigenbaukombinat.de/wp-content/uploads/2013/02/21-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/21.jpg)
 
 Seitenansicht: Ich habe noch einen Falz an beiden Längsseiten angebracht, da die Einschubnuten nur ca. 15mm hoch sind. Also mussten ein paar Millimeter weg, damit das 19mm MDF Brettchen auch ins Regal passt.
 
-[![3](/wp-content/uploads/2013/02/31-300x200.jpg)
-](/wp-content/uploads/2013/02/31.jpg)
+[![3](https://eigenbaukombinat.de/wp-content/uploads/2013/02/31-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/31.jpg)
 
 Hier dann im Trofast-Schrank zusammen mit seinem großen Bruder.
 
-[![4](/wp-content/uploads/2013/02/4-300x225.jpg)
-](/wp-content/uploads/2013/02/4.jpg)
+[![4](https://eigenbaukombinat.de/wp-content/uploads/2013/02/4-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/4.jpg)
 
   
 

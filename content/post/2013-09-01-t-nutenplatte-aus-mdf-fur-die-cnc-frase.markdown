@@ -18,13 +18,13 @@ Diese Version unserer T-Nutenplatte habe ich für M8 Schlossschrauben konzipiert
 
 **KONSTRUKTION**
 
-Der Kopf einer M8 Schlossschraube misst in der Regel 21mm im Durchmesser, der direkt darunterliegenge Vierkantschaft etwas weniger als 9mm. Um eine passende T-Nut zu erzeugen werde ich einfach zwei MDF-Bretter aufeinanderleimen ([DXF-Datei](/wp-content/uploads/2013/08/nutenplatte.dxf)).
+Der Kopf einer M8 Schlossschraube misst in der Regel 21mm im Durchmesser, der direkt darunterliegenge Vierkantschaft etwas weniger als 9mm. Um eine passende T-Nut zu erzeugen werde ich einfach zwei MDF-Bretter aufeinanderleimen ([DXF-Datei](https://eigenbaukombinat.de/wp-content/uploads/2013/08/nutenplatte.dxf)).
 
-[![nutenplatte skizze](/wp-content/uploads/2013/08/nutenplatte-skizze-300x148.png)
-](/wp-content/uploads/2013/08/nutenplatte-skizze.png)
+[![nutenplatte skizze](https://eigenbaukombinat.de/wp-content/uploads/2013/08/nutenplatte-skizze-300x148.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/nutenplatte-skizze.png)
 
-[![IMG_1121](/wp-content/uploads/2013/08/IMG_1121-300x199.jpg)
-](/wp-content/uploads/2013/08/IMG_1121.jpg)
+[![IMG_1121](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_1121-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_1121.jpg)
 
 Da ich aus Bequemlichkeit auch gern mal im Baumarkt zuschneiden lasse, ist man darauf angewiesen, sich nach dem kleinsten Maß zu richten, was meist bei den üblichen Plattenaufteilsägen aus Sicherheitsgründen bei 100mm liegt.
 

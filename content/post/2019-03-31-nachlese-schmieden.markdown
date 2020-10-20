@@ -15,18 +15,18 @@ Parallel zum Schwei√ükurs wurde zum 19.01.2019 die Schmiede zum ersten Mal entz√
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/03/IMG_20190119_141127.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/03/IMG_20190119_142627.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/03/IMG_20190119_142806.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/03/IMG_20190119_143240.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/03/20190119_150318_HDR-e1552913830184.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/03/20190119_143243-e1552913893710.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/03/IMG_20190119_140531.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/03/IMG_20190119_143133_1.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/03/IMG_20190119_143335.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/03/20190119_143101-e1552913855739.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/03/20190119_144023_HDR-e1552913910934.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/03/20190119_144100_HDR-e1552913876569.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/IMG_20190119_141127.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/IMG_20190119_142627.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/IMG_20190119_142806.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/IMG_20190119_143240.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/20190119_150318_HDR-e1552913830184.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/20190119_143243-e1552913893710.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/IMG_20190119_140531.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/IMG_20190119_143133_1.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/IMG_20190119_143335.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/20190119_143101-e1552913855739.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/20190119_144023_HDR-e1552913910934.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/20190119_144100_HDR-e1552913876569.jpg" >}}
 {{< /gallery >}}
 
 

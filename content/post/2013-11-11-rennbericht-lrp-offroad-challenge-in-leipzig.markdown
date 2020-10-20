@@ -15,8 +15,8 @@ Nach dem erfolgreichen Aufbau meines [Buggys](/ein-wettbewerbs-offroader-entsteh
 
 <!-- more -->
 
-[![DSCF6097](/wp-content/uploads/2013/10/DSCF6097-1024x768.jpg)
-](/wp-content/uploads/2013/10/DSCF6097.jpg)
+[![DSCF6097](https://eigenbaukombinat.de/wp-content/uploads/2013/10/DSCF6097-1024x768.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/DSCF6097.jpg)
 
 Vor Beginn der Veranstaltung konnte frei trainiert werden, was für mich auch dringend Not tat, denn so eine Indoor-Piste ist drastisch schmaler als ein Parkplatz. Schon nach wenigen Runden hatte ich mich das erste mal eingehakt und das Hinterrad hing nur noch an der oberen Schwinge. Kurz den Akkuschrauber gezückt und fünf Minuten später war alles wieder in Ordnung. Dieses Schauspiel sollte sich in dieser Kurve aber noch zweimal wiederholen. Für den nächsten Lauf würde ich mir allerdings wünschen, dass die dort tragend verbaute Bierbank etwas besser geschützt wird. Beim dritten Mal hat es mir sogar die Dämpferkappe abgehoben, sodass ich diesen spontan neu befüllen müsste. Netterweise hat mir ein Konkurrent ein wenig Öl überlassen.
 
@@ -26,8 +26,8 @@ Während des Laufes hatten sich alle originalen Sicherungsklammern der Karosseri
 
 Der **zweite Vorlauf** ging dann an mich, da mein Gegner mit Akkuproblemen ausfiel. Zwischen den Läufen fand immer das übliche Spiel statt: Akku wechseln, Akku laden und Schrauben kontrollieren und nachziehen.
 
-[![DSCF6107](/wp-content/uploads/2013/10/DSCF6107-1024x768.jpg)
-](/wp-content/uploads/2013/10/DSCF6107.jpg)
+[![DSCF6107](https://eigenbaukombinat.de/wp-content/uploads/2013/10/DSCF6107-1024x768.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/DSCF6107.jpg)
 
 Im **dritten Vorlauf** wurde das Rennen schon knapper und die Fahrfehler weniger. Das Motorritzel allerdings drehte dann nach zwei Rennminuten frei und ich bin ohne Vortrieb liegen geblieben. Nach dem Lauf habe ich erst gemerkt, dass die Laufbuchse für die Hinterachsschwinge fehlte. Diese hat wohl das dreimalige Abreißen des Radess nicht so einfach hingenommen. Ich habe dann einfach einen O-Ring eingesetzt (siehe Bild). Dadurch war das Spiel durch die fehlende Buchse erstmal weg.
 
@@ -37,8 +37,8 @@ Das **zweite A-Finale** sollte endlich defektfrei laufen. Wir haben uns bis zur 
 
 Im **dritten A-FInale** waren wir die ganze Zeit auf einer Höhe und ich konnte mit nur einer halben Sekunde Vorsprung gewinnen.
 
-[![DSCF6098](/wp-content/uploads/2013/10/DSCF6098-1024x768.jpg)
-](/wp-content/uploads/2013/10/DSCF6098.jpg)
+[![DSCF6098](https://eigenbaukombinat.de/wp-content/uploads/2013/10/DSCF6098-1024x768.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/DSCF6098.jpg)
 
 In der Gesamtwertung war ich damit Zweiter. Da mein Gegner erlaubterweise aber einen nicht ganz reglementskonformen Buggy am Start hatte, durften wir uns beide auf das Siegertreppchen stellen.
 

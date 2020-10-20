@@ -24,6 +24,6 @@ David Rauh
 Anschrift wie oben  
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)
 
-[Aktuelle Satzung](/wp-content/uploads/2020/05/satzung-2019-09.pdf) (Stand: September 2019)  
+[Aktuelle Satzung](https://eigenbaukombinat.de/wp-content/uploads/2020/05/satzung-2019-09.pdf) (Stand: September 2019)  
   
 Vereinsregister: Amtsgericht Stendal, VR 3085

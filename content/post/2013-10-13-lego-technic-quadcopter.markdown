@@ -17,27 +17,27 @@ Da die Struktur doch sehr "unsteif" war, musste mit CFK-Stäben "nachgeholfen" w
 
 <!-- more -->
 
-[![IMG_1304](/wp-content/uploads/2013/10/IMG_1304-1024x682.jpg)
-](/wp-content/uploads/2013/10/IMG_1304.jpg)
+[![IMG_1304](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1304-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1304.jpg)
 
 Lustigerweise passen die Bohrungen in der Motorhalterung perfekt ins Lego-Raster.
 
-[![IMG_1309](/wp-content/uploads/2013/10/IMG_1309-1024x682.jpg)
-](/wp-content/uploads/2013/10/IMG_1309.jpg)
+[![IMG_1309](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1309-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1309.jpg)
 
 An eine Befestigungsmöglichkeit für den Akku wurde beim Bau leider nicht gedacht.
 
-[![IMG_1311](/wp-content/uploads/2013/10/IMG_1311-1024x682.jpg)
-](/wp-content/uploads/2013/10/IMG_1311.jpg)
+[![IMG_1311](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1311-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1311.jpg)
 Gleich hebt er ab...
-[![IMG_1314](/wp-content/uploads/2013/10/IMG_1314-1024x682.jpg)
-](/wp-content/uploads/2013/10/IMG_1314.jpg)
+[![IMG_1314](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1314-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1314.jpg)
 
 ... er fliegt, er fliegt!!
-[![IMG_1318](/wp-content/uploads/2013/10/IMG_1318-1024x682.jpg)
-](/wp-content/uploads/2013/10/IMG_1318.jpg)
+[![IMG_1318](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1318-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1318.jpg)
 
 Nach einer unsanften Landung wieder alles fest zusammenstecken, und weiter gehts!
 
-[![IMG_1323](/wp-content/uploads/2013/10/IMG_1323-1024x682.jpg)
-](/wp-content/uploads/2013/10/IMG_1323.jpg)
+[![IMG_1323](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1323-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1323.jpg)

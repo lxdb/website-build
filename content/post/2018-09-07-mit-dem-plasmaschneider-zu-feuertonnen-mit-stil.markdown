@@ -18,7 +18,7 @@ Es stellte sich raus, dass solche mit Deckel sich besser eignen, da diese nicht 
 Da die vorhandenen Feuertonnen lackiert waren, musste diese erst mal mit Brennmaterial gefüllt werden und ausbrennen.
 
 
-[![](/wp-content/uploads/2017/05/DSC_0125-e1495139514911-194x300.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/05/DSC_0125-e1495139514911-194x300.jpg)
 ](/mit-dem-plasmaschneider-zu-feuertonnen-mit-stil/dsc_0125-2/)Nach dem diese abgekühlt waren, konnte es dann mit dem Cut40 Plasmaschneider  los gehen.
 Zunächst ist eine passende Umgebung zu finden, in der im großem Umkreis kein brennbares Material befindet , da der Funkenflug sehr stark ist, stärker noch als beim Schweißen.
 
@@ -27,7 +27,7 @@ Zunächst ist eine passende Umgebung zu finden, in der im großem Umkreis kein b
 
 
 
-Die ersten Tests zeigten, dass die [![](/wp-content/uploads/2017/05/DSC_0122-e1495139180111-300x220.jpg)
+Die ersten Tests zeigten, dass die [![](https://eigenbaukombinat.de/wp-content/uploads/2017/05/DSC_0122-e1495139180111-300x220.jpg)
 ](/mit-dem-plasmaschneider-zu-feuertonnen-mit-stil/dsc_0122/)Freihandmethode für Anfänger eher ungeeignet ist. Daher wurde eine Schablone aus Holz anfertigt mit der es dann deutlich besser ging.
 (links mit Schablone und etwas Übung, rechts erster Freihandversuch)
 

@@ -43,8 +43,8 @@ Hier einige Fakten zum Tisch
  	  * Der ausgehärtete Lack verträgt laut Angaben des Herstellers Temperaturen von -20°C  bis +90°C.
 
 
-![](/wp-content/uploads/2017/11/MG_8021-200x300.jpg)
-![](/wp-content/uploads/2017/11/MG_8022-300x200.jpg)
-![](/wp-content/uploads/2017/11/MG_8023-200x300.jpg)
-![](/wp-content/uploads/2017/11/MG_8024-1-200x300.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/11/MG_8021-200x300.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/11/MG_8022-300x200.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/11/MG_8023-200x300.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/11/MG_8024-1-200x300.jpg)
 

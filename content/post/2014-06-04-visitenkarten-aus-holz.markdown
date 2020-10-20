@@ -19,13 +19,13 @@ Ich hab mich für das in Europa verbreitete Standardformat von 85 x 55mm entschi
 
 Schöner ist dann Flugzeugsperrholz in 1mm oder 2mm Dicke, welches leider rund 40 EUR/m² kostet. Da landet man mit etwas Verschnitt schnell bei 0.30 EUR/Stück nur für das Holz. Die reine Fräszeit pro Rohling beträgt dafür weniger als eine Minute.
 
-[![IMG_0749](/wp-content/uploads/2014/06/IMG_0749-1024x767.jpg)
-](/wp-content/uploads/2014/06/IMG_0749.jpg)
+[![IMG_0749](https://eigenbaukombinat.de/wp-content/uploads/2014/06/IMG_0749-1024x767.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/IMG_0749.jpg)
 
 Für die fertigen Rohlinge fertigt man eine Vorlage für den Lasercutter im SVG-Format an. Für die Vorderseite habe ich die Standard-Schrift aus QCAD genommen, die eine einfache Linienschrift ist. Die Rückseite ziert unser Logo samt Schriftzug mit URL. Das fertige Ergebnis sieht dann zum Beispiel so aus:
 
-[![businesscard](/wp-content/uploads/2014/06/businesscard-1024x767.jpg)
-](/wp-content/uploads/2014/06/businesscard.jpg)
+[![businesscard](https://eigenbaukombinat.de/wp-content/uploads/2014/06/businesscard-1024x767.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/businesscard.jpg)
 
 Da normale Windowsschriftarten nur als Kontur vorliegen, ist für eine gefüllte Schrift das Programm Inkscape mit zusätzlichem [hatch fill plugin](http://wiki.evilmadscientist.com/Hatch_fill) erforderlich. Dadurch steigt die Zeit auf dem Lasercutter auf rund 5 Minuten pro Visitenkarte.
 

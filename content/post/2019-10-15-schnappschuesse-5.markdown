@@ -40,7 +40,7 @@ Ein Brennofen, es ist ein Brennofen!!! (Mist, jetzt hab ich es doch verraten.)
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5008.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5008.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -62,8 +62,8 @@ Wir haben von der GISA insgesamt 20 Tische gespendet bekommen. Dadurch können w
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_4941.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_4940.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_4941.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_4940.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -85,7 +85,7 @@ Wir haben dank der Unterstützung der Anstiftung einen Kompressor anschaffen kö
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_4939.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_4939.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -115,8 +115,8 @@ Spontan kam dann auch noch eine Wartungsschnittstelle zum Vorschein, was die woh
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_4896.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_4897.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_4898.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_4896.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_4897.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_4898.jpeg" >}}
 {{< /gallery >}}
 

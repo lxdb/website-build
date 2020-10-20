@@ -21,19 +21,19 @@ Im einzelnen handelt es sich um folgende vier Maschinen:
 **Dürkopp Adler Industrienähmaschine**
 
 
-[![Dürkopp Adler Industrienähmaschine](/wp-content/uploads/2013/05/EBK-Nähmaschinen-6-300x200.jpg)
-](/wp-content/uploads/2013/05/EBK-Nähmaschinen-6.jpg)****
+[![Dürkopp Adler Industrienähmaschine](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-6-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-6.jpg)****
 
 
 **Singer Sattlernähmaschine**
 
 
-[![Singer Sattlernähmaschine](/wp-content/uploads/2013/05/EBK-Nähmaschinen-4-300x200.jpg)
-](/wp-content/uploads/2013/05/EBK-Nähmaschinen-4.jpg)[![Singer Sattlernähmaschine](/wp-content/uploads/2013/05/EBK-Nähmaschinen-5-200x300.jpg)
-](/wp-content/uploads/2013/05/EBK-Nähmaschinen-5.jpg)
+[![Singer Sattlernähmaschine](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-4-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-4.jpg)[![Singer Sattlernähmaschine](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-5-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-5.jpg)
 
-[![Singer Sattlernähmaschine](/wp-content/uploads/2013/05/EBK-Nähmaschinen-2-200x300.jpg)
-](/wp-content/uploads/2013/05/EBK-Nähmaschinen-2.jpg)
+[![Singer Sattlernähmaschine](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-2-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-2.jpg)
 
 
 **Phoenix Haushaltsnähmaschine**
@@ -41,8 +41,8 @@ Im einzelnen handelt es sich um folgende vier Maschinen:
 
 
 
-**[![Phoenix Haushaltsnähmaschine](/wp-content/uploads/2013/05/EBK-Nähmaschinen-3-300x200.jpg)
-](/wp-content/uploads/2013/05/EBK-Nähmaschinen-3.jpg) **
+**[![Phoenix Haushaltsnähmaschine](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-3-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-3.jpg) **
 
 
 
@@ -52,8 +52,8 @@ Im einzelnen handelt es sich um folgende vier Maschinen:
 
 
 
-[![Frobana Durchnähmaschine](/wp-content/uploads/2013/05/EBK-Nähmaschinen-1-300x200.jpg)
-](/wp-content/uploads/2013/05/EBK-Nähmaschinen-1.jpg)
+[![Frobana Durchnähmaschine](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-1-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/EBK-Nähmaschinen-1.jpg)
 
 
  Für alle die nähen wollen, es aber noch nicht können, wird es in Zukunft auch Kurse und Workshops zum Thema geben. Behaltet einfach unsere [Termine-Seite](/aktuelle-termine/) im Auge.

@@ -25,7 +25,7 @@ Da Ringe aus dem 3D-Drucker sich großer Beliebtheit erfreuen, möchte ich ansta
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/image-3.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/image-3.png" >}}
 {{< /gallery >}}
 
 
@@ -55,21 +55,21 @@ Durch die Parameter am Anfang der Datei kann einfach der gewünschte Ring einges
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/image-2.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/image-2.png" >}}
 {{< /gallery >}}
 18mm Innenradius, 1 Reihe, 2mm hoch, 11 Facetten, ohne mittleren Steg.
 
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/image-1.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/image-1.png" >}}
 {{< /gallery >}}
 18mm Innenradius, 2 Reihen, jeweils 5mm hoch, 12 Facetten ringsum, mittleren Steg mit einer Höhe von 30% von 5mm, und ohne Zusatzradius.
 
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/image.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/image.png" >}}
 {{< /gallery >}}
 3 Reihen mit Facetten, jede Reihe 3mm hoch (also insgesamt 9mm), 40 Facetten ringsum mit einem Extraradius von 0.15mm für mehr Plastizität.
 

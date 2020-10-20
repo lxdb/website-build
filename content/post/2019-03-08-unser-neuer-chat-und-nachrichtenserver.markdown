@@ -39,15 +39,15 @@ Die Angabe der zusätzlichen Daten hilft anderen Benutzer*innen, euch im Matrix-
 Zunächst unten auf "Konto erstellen" tippen. Im nun folgenden Formular die Option **"Benutzerdefinierte Server-Optionen"** wählen und als **"Homeserver URL" /matrix.eigenbaukombinat.de** eingeben. Die Einstellung für den "Identity Server" bleibt wie sie ist.
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-19-34-30«.png" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-19-34-30«.png" >}}
 {{< /gallery >}}
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-20-01-01«.png" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-20-01-01«.png" >}}
 {{< /gallery >}}
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-20-10-20«.png" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-20-10-20«.png" >}}
 {{< /gallery >}}
 
 Nachdem Benutzername, Passwort und Passwortbestätigung ausgefüllt sind muss mit dem Button "Konto erstellen" bestätigt werden. Im nun folgenden Formular kann optional eine E-Mail Adresse sowie eine Telefonnummer eingegeben werden. Hier also entweder etwas eingeben und "Absenden" wählen, oder auf "Überspringen" tippen.
@@ -59,20 +59,20 @@ Nachdem Benutzername, Passwort und Passwortbestätigung ausgefüllt sind muss mi
 In der Browser-Variante auf "Konto erstellen" klicken. In der Desktop-App verbirgt sich die Funktion hier dem Link "Create account" am unteren Rand.
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-19-39-19«.png" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-19-39-19«.png" >}}
 {{< /gallery >}}
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-19-38-49«.png" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-19-38-49«.png" >}}
 {{< /gallery >}}
 
 Im folgenden Formular auf den rechten Kasten (Erweitert /Other) klicken, dann als "Homeserver URL" /matrix.eigenbaukombinat.de eintragen. Die Einstellung für den "Identity Server" bleibt wie sie ist.
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-19-54-09«.png" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-19-54-09«.png" >}}
 {{< /gallery >}}
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-20-11-53«.png" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-20-11-53«.png" >}}
 {{< /gallery >}}
 
 Nachdem man den Button "Nächstes" geklickt hat, Benutzername, Passwort und Passwortbestätigung ausfüllen (optional E-Mail und Telefonummer angeben) und mit dem Button "Registrieren" bestätigen.

@@ -57,7 +57,7 @@ Als wichtige Optionen sollte noch die Bandbreite (hier 80mm) und die DPI-Zahl im
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/printer-config.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/printer-config.png" >}}
 {{< /gallery >}}
 
 
@@ -107,7 +107,7 @@ Wenn alles passend eingestellt ist kann es endlich ans Drucken gehen! Mit der St
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/libreoffice.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/libreoffice.png" >}}
 {{< /gallery >}}
 
 
@@ -123,7 +123,7 @@ Und hier das Ergebnis direkt aus Writer:
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5172b.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5172b.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -153,7 +153,7 @@ Es gibt im Drucker zwei voreingestellte Schriftarten: 12x24 Pixel, und 9x17 Pixe
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5176b.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5176b.jpg" >}}
 {{< /gallery >}}
 
 
@@ -208,7 +208,7 @@ Diese Befehlt schreibt ESC+"!"+den Bit-Code für FontB (sonst bleibt alles norma
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5174b.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5174b.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -279,7 +279,7 @@ Bedeutung: ESC + k + Nummer des Barcodes (hier für EAN13 67dec = 43h) + 13 Ziff
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5175b.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5175b.jpg" >}}
 {{< /gallery >}}
 
 
@@ -301,7 +301,7 @@ Natürlich können auch direkt Ascii-Dateien per cat auf den Drucker gegeben wer
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5178b.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5178b.jpg" >}}
 {{< /gallery >}}
 
 
@@ -391,7 +391,7 @@ Und ausgedruckt dann so:
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5182b.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5182b.jpg" >}}
 {{< /gallery >}}
 
 
@@ -405,7 +405,7 @@ Es gibt natürlich viele verschiedene Tools um Logos und ASCII aus Schriftarten 
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/Screenshot-from-2019-10-11-22-45-45.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/Screenshot-from-2019-10-11-22-45-45.png" >}}
 {{< /gallery >}}
 
 
@@ -420,7 +420,7 @@ Leider sind die höheren ASCII-Zeichen offenbar nicht im Standard-Zeichensatz de
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5179b.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5179b.jpg" >}}
 {{< /gallery >}}
 
 

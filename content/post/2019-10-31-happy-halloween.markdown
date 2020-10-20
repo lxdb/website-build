@@ -25,11 +25,11 @@ Heute aus dem Lasercutter: Halloween-Deko aus Moosgummi. Mal eben schnell eine V
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/lightburn.png" >}}
-{{< figure link="/wp-content/uploads/2019/10/openbuilds.png" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5711.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5713.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5712.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/lightburn.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/openbuilds.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5711.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5713.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5712.jpg" >}}
 {{< /gallery >}}
 
 

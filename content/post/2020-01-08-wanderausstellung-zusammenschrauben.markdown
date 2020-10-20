@@ -7,6 +7,8 @@ type: post
 url: /wanderausstellung-zusammenschrauben/
 categories:
 - Veranstaltungen
+cover:
+  image: https://eigenbaukombinat.de/wp-content/uploads/2020/01/ausstellung_bild_1.jpg
 ---
 
 
@@ -55,17 +57,17 @@ Die Ausstellung „zusammen schrauben“ soll einerseits die verschiedenen Bedeu
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2020/01/ausstellung_bild_1.jpg" >}}
-{{< figure link="/wp-content/uploads/2020/01/ausstellung_bild_3.jpg" >}}
-{{< figure link="/wp-content/uploads/2020/01/ausstellung_bild_4.jpg" >}}
-{{< figure link="/wp-content/uploads/2020/01/ausstellung_bild_logo.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/01/ausstellung_bild_1.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/01/ausstellung_bild_3.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/01/ausstellung_bild_4.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/01/ausstellung_bild_logo.jpg" >}}
 {{< /gallery >}}
 
 
 
 
 
-Besucher*innen, die selbst aus der „Repair- oder Maker-Szene“ kommen oder selbst reparieren und heimwerken, sollen sich in den Botschaften zum einen wiederfinden, aber auch etwas über „Gleichgesinnte“ erfahren. 
+Besucher*innen, die selbst aus der „Repair- oder Maker-Szene“ kommen oder selbst reparieren und heimwerken, sollen sich in den Botschaften zum einen wiederfinden, aber auch etwas über „Gleichgesinnte“ erfahren.
 
 
 
@@ -82,6 +84,3 @@ Besucher*innen, die mit Reparieren und Selbermachen eher wenig Berührung haben,
 
 
 Die Ausstellung wird voraussichtlich bis Ende Januar 2020 während der Öffnungszeiten im Eigenbaukombinat zu bewundern sein und zieht dann weiter zum Makerspace Leipzig.
-
-
-

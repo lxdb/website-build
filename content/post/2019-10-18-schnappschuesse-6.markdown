@@ -32,7 +32,7 @@ Wieder ein paar kurze Eindrücke aus dem Eigenbaukombinat, die es nicht zeitnah 
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/rastersiebdruck.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/rastersiebdruck.jpg" >}}
 {{< /gallery >}}
 
 
@@ -70,9 +70,9 @@ Dank der reichhaltigen Erfahrung von Reinhard an der Drechselbank, die er gern a
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_4829.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_4835.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_4833.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_4829.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_4835.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_4833.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -102,15 +102,15 @@ Dabei kam auch gleich ein kleiner Reiselötkolben zum Einsatz, der sich hier ger
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5165.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5165.jpeg" >}}
 {{< /gallery >}}
 Der Mikrotaster in der Mitte streikt.  
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5168.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5168.jpeg" >}}
 {{< /gallery >}}
 Nach dem Auslöten...  
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5170.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5170.jpeg" >}}
 {{< /gallery >}}
 Hier der Reiselötkolben im Einsatz.
 
@@ -133,7 +133,7 @@ Hier der Reiselötkolben im Einsatz.
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5079.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5078.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5079.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5078.jpeg" >}}
 {{< /gallery >}}
 

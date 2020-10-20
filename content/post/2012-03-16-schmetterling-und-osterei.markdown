@@ -10,7 +10,7 @@ categories:
 ---
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2013/02/IMG_62991.jpg" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_62991.jpg" >}}
 {{< /gallery >}}
 
 

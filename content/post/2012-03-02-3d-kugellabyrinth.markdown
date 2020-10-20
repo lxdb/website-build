@@ -19,14 +19,14 @@ Das Gemeine ist, dass man schnell die Orientierung verliert wo oben und unten is
 Muss man also ausprobieren und sich merken. :)
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2013/02/IMG_62990.jpg" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_62990.jpg" >}}
 {{< /gallery >}}
 
 Das Material ist 5mm Birke Multiplex, gefräst mit einem 2mm Fräser. Die Teile können einfach ineinander gesteckt und verleimt werden.
 
 PS: Vielleicht schreibe ich mal einen Generator, der mir die Teile automatisch erzeugt, dann baue ich bestimmt auch einen 8^3 Würfel. Der aktuelle ist mit ca 13cm Kantenlänge ja noch recht handhabbar. :-)
 
-***UPDATE* Mai 2013:** Auf Wunsch [hier die Vorlage als DXF](/wp-content/uploads/2012/03/kugellabyrinth-3x3.dxf). Leider kann man den Weg der Kugel nicht gut erkennen, war damals eine ziemliche Puzzlelei, das im Kopf hinzubekommen. Aber wenn man 15 Minuten konzentriert draufstarrt, dann klappt es irgendwie. Zumindest sollte man aber erkennen, wie die Einzelteile zusammengebaut werden sollen.
+***UPDATE* Mai 2013:** Auf Wunsch [hier die Vorlage als DXF](https://eigenbaukombinat.de/wp-content/uploads/2012/03/kugellabyrinth-3x3.dxf). Leider kann man den Weg der Kugel nicht gut erkennen, war damals eine ziemliche Puzzlelei, das im Kopf hinzubekommen. Aber wenn man 15 Minuten konzentriert draufstarrt, dann klappt es irgendwie. Zumindest sollte man aber erkennen, wie die Einzelteile zusammengebaut werden sollen.
 
 Ansonsten liegt der Trick natürlich darin, dass die Löcher zur Kugel passen müssen. Und jene, durch die sie nicht durchgehen soll, minimal kleiner sind, damit man es optisch nicht unterscheiden kann. ;)
 

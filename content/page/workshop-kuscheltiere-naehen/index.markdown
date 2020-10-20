@@ -62,8 +62,8 @@ url: /workshop-kuscheltiere-naehen/
 <td style="width: 20%; text-align: right;" >**INHALT**
 </td>
 
-<td style="text-align: left;" >In diesem Workshop wird nach kurzer Einführung in die Benutzung der Nähmaschine ein einfaches Kuscheltier gefertigt. Basierend auf einigen Vorlagen kann individuell ein neues Familienmitglied gestaltet und zusammengenäht werden.[![elli](/wp-content/uploads/2014/01/elli-150x150.jpg)
-](/wp-content/uploads/2014/01/elli.jpg)Es steht nur eine begrenzte Zahl an Nähmaschinen zu Verfügung. Mitbringen einer eigenen Maschine ist erwünscht. Stoffe, Garne, Füllmaterial und auch eine Auswahl an weiteren Dekomaterialien werden zur Verfügung gestellt. Eigene Materialien sind auch immer willkommen.
+<td style="text-align: left;" >In diesem Workshop wird nach kurzer Einführung in die Benutzung der Nähmaschine ein einfaches Kuscheltier gefertigt. Basierend auf einigen Vorlagen kann individuell ein neues Familienmitglied gestaltet und zusammengenäht werden.[![elli](https://eigenbaukombinat.de/wp-content/uploads/2014/01/elli-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/01/elli.jpg)Es steht nur eine begrenzte Zahl an Nähmaschinen zu Verfügung. Mitbringen einer eigenen Maschine ist erwünscht. Stoffe, Garne, Füllmaterial und auch eine Auswahl an weiteren Dekomaterialien werden zur Verfügung gestellt. Eigene Materialien sind auch immer willkommen.
 </td>
 </tr>
 <tr >

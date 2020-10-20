@@ -22,4 +22,4 @@ categories:
   10. Redet miteinander!
 
 
-[Download als PDF.](/wp-content/uploads/2013/02/zehngebote.pdf)
+[Download als PDF.](https://eigenbaukombinat.de/wp-content/uploads/2013/02/zehngebote.pdf)

@@ -39,15 +39,15 @@ im Internet nicht finden können - zumindest nicht zu einem angemessenen Preis
 1. Die Einzeladern wollen erst freigelegt werden, also mit viel Geduld und
 ein wenig Heißluft den Mantel des Mogami entfernt, sehr sehr mühselig...
 
-[![Der Anfang#](/wp-content/uploads/2014/06/Der-Anfang-1024x761.jpg)
-](/wp-content/uploads/2014/06/Der-Anfang.jpg)
+[![Der Anfang#](https://eigenbaukombinat.de/wp-content/uploads/2014/06/Der-Anfang-1024x761.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/Der-Anfang.jpg)
 
 2. Stunden später:
 Zwei mal etwas über sechs Meter "entmantelte" und entzwirbelte Einzeladern
 Daneben ein erster Flechtversuch mit den "überschüssigen" blauen Adern:
 
-[![Ausgangsmaterial](/wp-content/uploads/2014/06/Ausgangsmaterial-1024x727.jpg)
-](/wp-content/uploads/2014/06/Ausgangsmaterial.jpg)
+[![Ausgangsmaterial](https://eigenbaukombinat.de/wp-content/uploads/2014/06/Ausgangsmaterial-1024x727.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/Ausgangsmaterial.jpg)
 
 3. Das eigentliche Flechten:
 Geflochten wird rund mit 4 Strängen, das Muster ist recht einfach:
@@ -56,15 +56,15 @@ hindurch und über _einen_ zurück geführt - immer im Wechsel zwischen rechts u
 Hier mein Arbeitsplatz - improvisiert aber gut zu bedienen. Die zunächst noch
 sehr langen Einzelstränge habe ich ich in kleinen Zip-Tüten aufgerollt.
 
-[![High-End-Braiding-Workstation](/wp-content/uploads/2014/06/High-End-Braiding-Workstation-1024x738.jpg)
-](/wp-content/uploads/2014/06/High-End-Braiding-Workstation.jpg)
+[![High-End-Braiding-Workstation](https://eigenbaukombinat.de/wp-content/uploads/2014/06/High-End-Braiding-Workstation-1024x738.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/High-End-Braiding-Workstation.jpg)
 
 Die Stecker sind dann schnell enstprechend der Pinbelegung angelötet.
 
 ** Das Endergebnis:**
 
-[![Totale](/wp-content/uploads/2014/06/Totale-1024x682.jpg)
-](/wp-content/uploads/2014/06/Totale.jpg)
+[![Totale](https://eigenbaukombinat.de/wp-content/uploads/2014/06/Totale-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/Totale.jpg)
 
-[![Nahaufnahme](/wp-content/uploads/2014/06/Nahaufnahme-1024x682.jpg)
-](/wp-content/uploads/2014/06/Nahaufnahme.jpg) Nachmachen ausdrücklich erwünscht!
+[![Nahaufnahme](https://eigenbaukombinat.de/wp-content/uploads/2014/06/Nahaufnahme-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/Nahaufnahme.jpg) Nachmachen ausdrücklich erwünscht!

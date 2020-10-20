@@ -29,24 +29,24 @@ Und so weiter. Dabei wird immer an der gleichen Stelle verdoppelt, wodurch an di
 
 Wenn das Sechseck groß genug ist (bei mir reichten 5 Reihen), muss aus dem Sechseck ein Fünfeck werden. Man nimmt zunächst das Garn, das man zum Vernähen nehmen will (in meinem Beispiel war's weiß). Hat man gerade bei der fünften Reihe und 30 Maschen aufgehört, passt das besonders gut, dann wird jede sechste Masche verdoppelt, fünfmal. Bei 36 Maschen muss man nur ein bisschen schummeln (jede siebte Masche, fünfmal), bei 42 wird es ungünstiger, zur Not überspringt man eine Masche irgendwo. Am Ende hat man schließlich ein Fünfeck.
 
-[![IMG_83141_klein](/wp-content/uploads/2015/02/IMG_83141_klein-300x199.jpg)
-](/wp-content/uploads/2015/02/IMG_83141_klein.jpg)
+[![IMG_83141_klein](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_83141_klein-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_83141_klein.jpg)
 
 Auf diese Weise macht man noch elf Fünfecke.
 
-[caption id="attachment_8737" align="aligncenter" width="300"][![IMG_83137_klein](/wp-content/uploads/2015/02/IMG_83137_klein-300x300.jpg)
-](/wp-content/uploads/2015/02/IMG_83137_klein.jpg) Hier in der zweifarbigen Variante...[/caption]
+[caption id="attachment_8737" align="aligncenter" width="300"][![IMG_83137_klein](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_83137_klein-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_83137_klein.jpg) Hier in der zweifarbigen Variante...[/caption]
 
 Jetzt müssen die Fünfecke nur noch miteinander vernäht werden. Man nimmt ein Fünfeck als Pol und näht zunächst an die fünf Seiten fünf weitere Fünfecke.
 
-[![IMG_2777_klein](/wp-content/uploads/2015/02/IMG_2777_klein-300x200.jpg)
-](/wp-content/uploads/2015/02/IMG_2777_klein.jpg)
+[![IMG_2777_klein](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_2777_klein-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_2777_klein.jpg)
 
 
 
 Das macht man genauso für den anderen Pol. Dabei muss man, wenn man, wie ich, sechs Farben gewählt hat, aufpassen, dass am Ende nicht zwei gleiche Farben aufeinandertreffen. Die beiden Halbkugeln werden dann, leicht versetzt, nach und nach miteinander vernäht. Die letzte Kante bleibt offen zum Stopfen, danach kann auch sie geschlossen werden. Die vielen Garnenden versäubern ist wie immer das Lästigste, aber dann ist er fertig:
 
-[![IMG_2870_klein](/wp-content/uploads/2015/02/IMG_2870_klein-300x300.jpg)
-](/wp-content/uploads/2015/02/IMG_2870_klein.jpg)
+[![IMG_2870_klein](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_2870_klein-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_2870_klein.jpg)
 
 Alle Interessierten sind herzlich eingeladen bei unseren Handarbeitstreffen vorbeizuschauen, die alle zwei Wochen im Eigenbaukombinat stattfinden. Das nächste findet am 23. Februar statt.

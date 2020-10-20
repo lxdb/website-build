@@ -23,23 +23,23 @@ Da die Klammern wie 3-Beinige Elefanten aussehen, haben wir sie liebevoll "Lötf
 
 Der Erlös kommt vollständig unserem Verein zu Gute.
 
-[caption id="attachment_7642" align="aligncenter" width="898"][![Bildschirmfoto 2014-06-23 um 00.41.22](/wp-content/uploads/2014/06/Bildschirmfoto-2014-06-23-um-00.41.22.png)
-](/wp-content/uploads/2014/06/Bildschirmfoto-2014-06-23-um-00.41.22.png) DXF-Entwurf in QCAD [Download](/wp-content/uploads/2014/06/klammerv1.dxf) Lizenz: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)[/caption]
+[caption id="attachment_7642" align="aligncenter" width="898"][![Bildschirmfoto 2014-06-23 um 00.41.22](https://eigenbaukombinat.de/wp-content/uploads/2014/06/Bildschirmfoto-2014-06-23-um-00.41.22.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/Bildschirmfoto-2014-06-23-um-00.41.22.png) DXF-Entwurf in QCAD [Download](https://eigenbaukombinat.de/wp-content/uploads/2014/06/klammerv1.dxf) Lizenz: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)[/caption]
 
-[caption id="attachment_7643" align="aligncenter" width="625"][![Lötfant Nr. 1 frisch gefräst](/wp-content/uploads/2014/06/loetefant1-1024x768.jpg)
-](/wp-content/uploads/2014/06/loetefant1.jpg) Lötfant Nr. 1 frisch gefräst[/caption]
+[caption id="attachment_7643" align="aligncenter" width="625"][![Lötfant Nr. 1 frisch gefräst](https://eigenbaukombinat.de/wp-content/uploads/2014/06/loetefant1-1024x768.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/loetefant1.jpg) Lötfant Nr. 1 frisch gefräst[/caption]
 
-[caption id="attachment_7644" align="aligncenter" width="625"][![loetefant2](/wp-content/uploads/2014/06/loetefant2-1024x768.jpg)
-](/wp-content/uploads/2014/06/loetefant2.jpg) Fertig gefräst und mit Feder versehen.[/caption]
+[caption id="attachment_7644" align="aligncenter" width="625"][![loetefant2](https://eigenbaukombinat.de/wp-content/uploads/2014/06/loetefant2-1024x768.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/loetefant2.jpg) Fertig gefräst und mit Feder versehen.[/caption]
 
-[caption id="attachment_7648" align="aligncenter" width="625"]![loetefant6](/wp-content/uploads/2014/06/loetefant6-1024x768.jpg)
+[caption id="attachment_7648" align="aligncenter" width="625"]![loetefant6](https://eigenbaukombinat.de/wp-content/uploads/2014/06/loetefant6-1024x768.jpg)
 Beide Lötfanten mit Grundplatte.[/caption]
 
-[caption id="attachment_7646" align="aligncenter" width="625"][![loetefant4](/wp-content/uploads/2014/06/loetefant4-1024x768.jpg)
-](/wp-content/uploads/2014/06/loetefant4.jpg) Erster Test mit kleinen Kabeln.[/caption]
+[caption id="attachment_7646" align="aligncenter" width="625"][![loetefant4](https://eigenbaukombinat.de/wp-content/uploads/2014/06/loetefant4-1024x768.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/loetefant4.jpg) Erster Test mit kleinen Kabeln.[/caption]
 
-[caption id="attachment_7647" align="aligncenter" width="625"][![loetefant5](/wp-content/uploads/2014/06/loetefant5-1024x768.jpg)
-](/wp-content/uploads/2014/06/loetefant5.jpg) Auch kleine Platinen werden sicher festgehalten.[/caption]
+[caption id="attachment_7647" align="aligncenter" width="625"][![loetefant5](https://eigenbaukombinat.de/wp-content/uploads/2014/06/loetefant5-1024x768.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/loetefant5.jpg) Auch kleine Platinen werden sicher festgehalten.[/caption]
 
 Und hier noch ein kleines Video:
 

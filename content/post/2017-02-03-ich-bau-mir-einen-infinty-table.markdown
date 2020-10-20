@@ -16,7 +16,7 @@ tags:
 
 Wenn ihr wissen möchtet, wie das funktioniert findet ihr nachfolgend eine Schritt für Schritt Anleitung.
 
-[![](/wp-content/uploads/2017/01/Bearbeitung1-1024x618.png)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/01/Bearbeitung1-1024x618.png)
 ](/ich-bau-mir-einen-infinty-table/bearbeitung1/)
 
 <!-- more -->
@@ -53,7 +53,7 @@ Nach dem dann alles ca. 1 Monat fröhlich meine Küche blockierte, entschied ich
 ###### Habe ich von diesem "Elektronikkram" alles was ich brauche und wird das auch funktionieren?
 
 
-[![](/wp-content/uploads/2017/01/DSC_0113-1024x576.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/01/DSC_0113-1024x576.jpg)
 ](/ich-bau-mir-einen-infinty-table/dsc_0113/)
 
 Mit freundlicher Unterstützung von Menschen aus dem Eigenbaukombinat, die mehr von Elektronik verstehen als ich, machten wir also gemeinsam erst mal einen Testaufbau.
@@ -68,7 +68,7 @@ Beim Plan die Kabel zu verlegen, fiel auf dass, wenn es hübsch sein soll, ich d
 [gallery ids="11670,11671"]
 
 Die Leisten habe ich weil es schnell gehen musste und die Dübelfräsen für die kleinen Leisten zu groß waren, einfach zusammen getackert. Das ist nicht schön aber erfüllt seinen Zweck.
-[![](/wp-content/uploads/2017/01/DSC_0124-300x169.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/01/DSC_0124-300x169.jpg)
 ](/ich-bau-mir-einen-infinty-table/dsc_0124/)
 
 
@@ -82,7 +82,7 @@ Tisch                           Holzplatte             
 
 Dann konnten wir das Kabel durch den Spiegel ziehen.
 
-[![](/wp-content/uploads/2017/01/DSC_0129-1024x576.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/01/DSC_0129-1024x576.jpg)
 ](/ich-bau-mir-einen-infinty-table/dsc_0129/)
 
 Anschließend mussten die Kabel vom Netzteil und vom Microcontroller an den LED Streifen gelötet werden.
@@ -95,12 +95,12 @@ Als nächstes konnte ich den LED Streifen einkleben.
 
 Damit die Glasplatte nicht auf den Holzleisten rutscht, habe ich Klebepunkte dazwischen platziert.
 
-[![](/wp-content/uploads/2017/01/DSC_0139-300x169.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/01/DSC_0139-300x169.jpg)
 ](/ich-bau-mir-einen-infinty-table/dsc_0139/)
 
 Die Kabel wurden alle zusammen in einer Plastikbox verstaut, damit sie nicht so lose runter hängen.
 
-[![](/wp-content/uploads/2017/01/DSC_0140-300x169.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/01/DSC_0140-300x169.jpg)
 ](/ich-bau-mir-einen-infinty-table/dsc_0140/)
 
 Letzter Test vorm finalen Zusammensetzen.

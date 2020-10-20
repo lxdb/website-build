@@ -11,29 +11,29 @@ categories:
 
 Nachdem ich beim Osterfräsen mit dem CNC-Fieber angesteckt wurde, habe ich als nächstes Projekt eine kleine Lampe im Kopf gehabt.<!-- more --> Der Einfachheit halber beschränke ich mich hier auf ein Teelicht als Lichtquelle. Sicher lässt sich aber auch eine Fassung am Grund der Lampe anbringen! Hier der Entwurf in QCAD:
 
-[![FabianLentz_QCAD_Windlicht](/wp-content/uploads/2013/04/FabianLentz_QCAD_Windlicht-300x157.jpg)
-](/wp-content/uploads/2013/04/FabianLentz_QCAD_Windlicht.jpg)
+[![FabianLentz_QCAD_Windlicht](https://eigenbaukombinat.de/wp-content/uploads/2013/04/FabianLentz_QCAD_Windlicht-300x157.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/FabianLentz_QCAD_Windlicht.jpg)
 
 Frisch ausgefräst sehen die fünf Teile dann so aus:
-[![IMG_68326](/wp-content/uploads/2013/03/IMG_68326-300x199.jpg)
-](/wp-content/uploads/2013/03/IMG_68326.jpg)
+[![IMG_68326](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68326-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68326.jpg)
 
 Jetzt beginnt die Puzzlearbeit mit dem farbigen Transparentpapier und dem Bastelkleber. Bekleben kann man es natürlich je nach Geschmack. Wie man sieht braucht man nicht viel Transparentpapier. Es würde sicherlich noch für 5 - 6 weitere Lampen reichen ;)
-[![IMG_68341](/wp-content/uploads/2013/03/IMG_68341-300x199.jpg)
-](/wp-content/uploads/2013/03/IMG_68341.jpg)
+[![IMG_68341](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68341-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68341.jpg)
 
 ... endlich geschafft.
-[![IMG_68355](/wp-content/uploads/2013/03/IMG_68355-300x199.jpg)
-](/wp-content/uploads/2013/03/IMG_68355.jpg)
+[![IMG_68355](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68355-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68355.jpg)
 
 Fertig zusammengeklebt sieht es dann so aus:
-[![IMG_68361](/wp-content/uploads/2013/03/IMG_68361-300x300.jpg)
-](/wp-content/uploads/2013/03/IMG_68361.jpg)
+[![IMG_68361](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68361-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68361.jpg)
 
 
 
-[![IMG_68373](/wp-content/uploads/2013/03/IMG_68373-300x300.jpg)
-](/wp-content/uploads/2013/03/IMG_68373.jpg)
+[![IMG_68373](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68373-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68373.jpg)
 
 Materialkosten:
 

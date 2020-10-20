@@ -14,13 +14,13 @@ Im Baumarkt stehen immer diese tollen Monster, wir brauchen eine kleinere und pr
 
 Prototyp V1: Schnittbreite knapp unter 60cm. Wir verwenden eine 80cm Festool Führungsschiene... Skizze und Fotos folgen.
 
-Es gibt zwei Hintergrundplatten, die über Anschlagleisten miteinander verbunden werden. Auf die untere Anschlagleiste wird das Holz (dunkelbraun) aufgelegt. Die Führungsschiene (grün) wird wegen der höheren Stabilität auf eine Holzschiene (weiß) geschraubt (M6 Muttern in der Führungsschiene, Schrauben von unten).[![plattensaege v1 1](/wp-content/uploads/2013/03/plattensaege-v1-1-300x189.png)
-](/wp-content/uploads/2013/03/plattensaege-v1-1.png)
+Es gibt zwei Hintergrundplatten, die über Anschlagleisten miteinander verbunden werden. Auf die untere Anschlagleiste wird das Holz (dunkelbraun) aufgelegt. Die Führungsschiene (grün) wird wegen der höheren Stabilität auf eine Holzschiene (weiß) geschraubt (M6 Muttern in der Führungsschiene, Schrauben von unten).[![plattensaege v1 1](https://eigenbaukombinat.de/wp-content/uploads/2013/03/plattensaege-v1-1-300x189.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/plattensaege-v1-1.png)
 
 Die Säge läuft dann auf der Führungsschiene von oben nach unten, da das Holz unten angepresst wird. In der Detailaufnahme sieht man nochmals die angedeutete Skala, an der man das Holz anlegt, sowie die über das Holz erhabene "Brücke" samt Führungsschiene.
 
-[![plattensaege v1 2](/wp-content/uploads/2013/03/plattensaege-v1-2-300x189.png)
-](/wp-content/uploads/2013/03/plattensaege-v1-2.png)
+[![plattensaege v1 2](https://eigenbaukombinat.de/wp-content/uploads/2013/03/plattensaege-v1-2-300x189.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/plattensaege-v1-2.png)
 
 **Links**
 

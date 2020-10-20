@@ -28,5 +28,5 @@ Wie immer treffen wir gegen 19h und fangen gemeinsam an, das Essen vorzubereiten
 
 Um die Mengen etwas planen zu können, tragt Euch doch bitte [hier ins dudle](https://dudle.inf.tu-dresden.de/Septemberkochen_im_EBK/) ein.
 
-[![](/wp-content/uploads/2018/10/IMG_20180922_103906-1024x1024.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2018/10/IMG_20180922_103906-1024x1024.jpg)
 ](/koch-und-kennenlernabend-im-oktober-kohl-rote-beete-kichererbsen-und-schokolade/img_20180922_103906/)

@@ -60,8 +60,8 @@ tags:
 </td>
 
 <td style="text-align: left;" >Hier treffen wir uns zum Erfahrungsaustauch über's CNC-Fräsen. Es geht um Software wie LinuxCNC, QCad und Co. und auch Hardware, Materialien und Ideen, die man gemeinsam umsetzen möchte.
-[![](/wp-content/uploads/2014/07/IMG_0835-1024x682.jpg)
-](/wp-content/uploads/2014/07/IMG_0835.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2014/07/IMG_0835-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/07/IMG_0835.jpg)
 </td>
 
 <td >

@@ -14,9 +14,9 @@ tags:
 Am 01.04.2017 fand unser erster Arbeitseinsatz im Garten statt.
 Dank einigen freiwilligen Helfern konnten Steine, Müll und Unkraut entfernt werden und wir bauten aus alten Holzteilen Pflanzkübel.
 
-<!-- more -->[![](/wp-content/uploads/2017/04/DSC_0079a-1024x441.jpg)
+<!-- more -->[![](https://eigenbaukombinat.de/wp-content/uploads/2017/04/DSC_0079a-1024x441.jpg)
 ](/unser-garten-wird-schoen-teil-1/dsc_0079a/)Zu Beginn war der Garten voller vertrockneter Sträucher und wilden Brombeerranken.
-[![](/wp-content/uploads/2017/04/DSC_0095a-1024x408.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/04/DSC_0095a-1024x408.jpg)
 ](/unser-garten-wird-schoen-teil-1/dsc_0095a/)Am Ende des Tages steht uns eine schöne freie Fläche zur Verfügung die wir jetzt kreativ gestalten können. Noch fix eine Bank hingestellt und schon kann man schon Mal gemütlich sitzen.
 
 [gallery size="medium" ids="11861,11862,11857,11858,11859,11860" link="file"]

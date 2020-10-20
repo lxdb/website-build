@@ -68,8 +68,8 @@ categories:
 
 <td style="text-align: left;" >Selbstgenähte Sachen sind ja toll, aber du kannst sowas nicht? Quatsch! Wir zeigen dir wie es geht. Hier lernst du den Umgang mit der Nähmaschine und Grundtechniken des Nähens anhand verschiedener leichter Projekte.
 
-Im zweiten Kurs für nicht mehr ganz so blutige Anfänger nähen wir eine (Kinder-)Schürze:[![IMG_5086](/wp-content/uploads/2015/07/IMG_5086-200x300.jpg)
-](/wp-content/uploads/2015/07/IMG_5086.jpg)
+Im zweiten Kurs für nicht mehr ganz so blutige Anfänger nähen wir eine (Kinder-)Schürze:[![IMG_5086](https://eigenbaukombinat.de/wp-content/uploads/2015/07/IMG_5086-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/07/IMG_5086.jpg)
 </td>
 </tr>
 <tr >

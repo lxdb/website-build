@@ -28,8 +28,8 @@ Gerade in Altbauwohnungen mit Raumhöhen von häufig mehr als drei Metern gibt e
 Wir bauen also einen "Hochschrank" - unter der Decke - am besten in einer Ecke.
 
 So soll das Ganze am Ende aussehen:
-[![Gesamtansicht](/wp-content/uploads/2013/02/Gesamtansicht-300x248.jpg)
-](/wp-content/uploads/2013/02/Gesamtansicht.jpg)
+[![Gesamtansicht](https://eigenbaukombinat.de/wp-content/uploads/2013/02/Gesamtansicht-300x248.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/Gesamtansicht.jpg)
 
 **Was braucht man alles:**
 
@@ -56,8 +56,8 @@ gebohrt werden, bei den Griffen kommt es natürlich auf die Befestigungsart sel
 Der nächste Schritt ist die **Vorbereitung der Wandbefestigung.**
 
 Hier sieht man den inneren Aufbau:
-[![Innenaufbau Hochschrank](/wp-content/uploads/2013/02/IMG_0560-199x300.jpg)
-](/wp-content/uploads/2013/02/IMG_0560.jpg)
+[![Innenaufbau Hochschrank](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_0560-199x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_0560.jpg)
 
 Es braucht eine Leiste hochkant - für die Befestigung der Scharniere bzw. der Tür. Hier reicht eine 15mm dicke und ca. 35mm breite Leiste, die Schrauben für die
 Befestigung der Scharniere sind recht kurz.
@@ -96,8 +96,8 @@ Damit gewinnt man einen tollen Stauraum für all die Sachen, die man nur selten
 - Schlagbohrmaschine für die Wand
 
 Wer ungern lackiert, kann auch diese Variante bauen:
-[![IMG_0557](/wp-content/uploads/2013/02/IMG_0557-300x199.jpg)
-](/wp-content/uploads/2013/02/IMG_0557.jpg)
+[![IMG_0557](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_0557-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_0557.jpg)
 
 Mit ein bisschen Stoff-Meterware und ein wenig Nähgeschick kann man
 statt der Türen einfach einen Vorhang verwenden - auch schick :-)

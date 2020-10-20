@@ -19,13 +19,13 @@ Für meine Tasche, die ungefähr 30 cm breit ist, habe ich mit einer Luftmaschen
 
 Als nächstes wurde die Tasche einmal von unten nach oben um ein Drittel gefaltet und an den Seiten links und rechts zusammengenäht, man erahnt es hier:
 
-[![IMG_2866_klein](/wp-content/uploads/2015/02/IMG_2866_klein-200x300.jpg)
-](/wp-content/uploads/2015/02/IMG_2866_klein.jpg)
+[![IMG_2866_klein](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_2866_klein-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_2866_klein.jpg)
 
 Das Band zum Umhängen wird extra gehäkelt und dann von außen angenäht. Es besteht aus sieben festen Maschen pro Reihe und ist passend zu meiner kleinen Größe 109 cm lang.
 
-[![IMG_2863_klein](/wp-content/uploads/2015/02/IMG_2863_klein-300x300.jpg)
-](/wp-content/uploads/2015/02/IMG_2863_klein.jpg)
+[![IMG_2863_klein](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_2863_klein-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/02/IMG_2863_klein.jpg)
 
 Ganz wichtig waren mir die Fransen aus buntem Garn, einfach an der unterste Reihe mit Weberknoten befestigt. Knopf dran. Fertig!
 

@@ -15,16 +15,16 @@ Das alte Heft eines Schraubendrehers hat nach vielen Jahrzehnten ausgedient. Zum
 
 Hier das alte und neue Heft im Vergleich:
 
-[![IMG_8531](/wp-content/uploads/2013/04/IMG_8531-300x300.jpg)
-](/wp-content/uploads/2013/04/IMG_8531.jpg)
+[![IMG_8531](https://eigenbaukombinat.de/wp-content/uploads/2013/04/IMG_8531-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/IMG_8531.jpg)
 
 Der Schraubendreher wird zuerst in der Hobelbank fixiert, dann gibt es ein paar sanfte Schläge mit dem Gummihammer, um das Heft zu fixieren. Es war auch schon in der passenden Größe vorgebohrt, sodass sich der Aufwand in Grenzen hält.
-[![IMG_8529](/wp-content/uploads/2013/04/IMG_8529-200x300.jpg)
-](/wp-content/uploads/2013/04/IMG_8529.jpg)
+[![IMG_8529](https://eigenbaukombinat.de/wp-content/uploads/2013/04/IMG_8529-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/IMG_8529.jpg)
 
 Jetzt mit neuem Heft wieder voll einsatzbereit:
-[![IMG_8527](/wp-content/uploads/2013/04/IMG_8527-186x300.jpg)
-](/wp-content/uploads/2013/04/IMG_8527.jpg)
+[![IMG_8527](https://eigenbaukombinat.de/wp-content/uploads/2013/04/IMG_8527-186x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/IMG_8527.jpg)
 
 Kosten: 0.60 EUR für das Heft.
 

@@ -27,20 +27,20 @@ So hab ichs gemacht:
   * gedruckt.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/02/3D-Modell-300x169.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/3D-Modell-300x169.jpg" >}}
 {{< /gallery >}}
 3D-Modell
 
 Dauer für den Druck war ca. eine Stunde und das Modellieren richtet sich nach euren Skills. Ging aber in dem Fall auch recht fix.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/02/IMG_20190202_094700-e1549209754145-225x300.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/IMG_20190202_094700-e1549209754145-225x300.jpg" >}}
 {{< /gallery >}}
 
 ziemlich schlechtes Bild von "Vorher" Ich hatte den Duschkopf mit einer "Kleben-statt-Bohren"-Halterung angebracht. Da war aber der Winkel ungünstig und ich hab mir regelmäßig das Bad geflutet.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/02/IMG_20190202_181048-e1549209799173-225x300.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/IMG_20190202_181048-e1549209799173-225x300.jpg" >}}
 {{< /gallery >}}
 Duschkopfhalter in Aktion (Symbolbild)
   

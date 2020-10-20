@@ -40,15 +40,15 @@ Der Schnappverschluss B&M IXON IQ ist leider beim Herunterfallen kaputtgegangen.
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5668.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5668.jpeg" >}}
 {{< /gallery >}}
 Frisch gedruckt.  
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5677.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5677.jpeg" >}}
 {{< /gallery >}}
 Vergleich mit dem Original  
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5680.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5680.jpg" >}}
 {{< /gallery >}}
 Passt!
 
@@ -71,7 +71,7 @@ Auch ein Toaster, eigentlich nur ein großer Heizwiderstand, kann mal kaputtgehe
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5665.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5665.jpg" >}}
 {{< /gallery >}}
 
 
@@ -93,6 +93,6 @@ Unser AudioVideo-Bereich bekommt eine Canon M50 als Zuwachs. Diese wird für all
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5684.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5684.jpg" >}}
 {{< /gallery >}}
 

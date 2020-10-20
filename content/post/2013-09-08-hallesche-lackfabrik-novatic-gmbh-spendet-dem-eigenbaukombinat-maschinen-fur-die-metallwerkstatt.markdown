@@ -19,13 +19,13 @@ Neue Maschinen für unsere Metallwerkstatt!
 
 Die [Hallesche Lackfabrik novatic GmbH](http:/https://www.novatic.com/) hatte noch ein paar Metallbearbeitungsmaschinen übrig und hat sie uns kurzerhand gespendet. Hierfür möchten wir uns an dieser Stelle herzlich bedanken! Die Maschinen bilden einen entscheidenden Beitrag für den Aufbau unserer Metallwerkstatt.
 
-![novatix](/wp-content/uploads/2013/09/novatix.jpg)
+![novatix](https://eigenbaukombinat.de/wp-content/uploads/2013/09/novatix.jpg)
 
 
 <!-- more -->
 
 Insgesamt haben wir drei Maschinen bekommen:[
-](/wp-content/uploads/2013/09/Foto-2.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/09/Foto-2.jpg)
 
 
 

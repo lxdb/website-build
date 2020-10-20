@@ -19,20 +19,20 @@ Dann folgt ein Lochmuster. Man kann es komplizierter machen, aber ein ganz einfa
 
 In der nächsten Reihe wird das Loch, also der Überschlag, um 2 Maschen versetzt. Dann wieder die Rückseite links stricken und das Ganze von vorn. Nach etwa 7 cm reicht es, dann noch 4 Reihen glatt rechts und locker abketten.
 
-[caption id="attachment_7607" align="aligncenter" width="365"][![IMG_0300](/wp-content/uploads/2014/06/IMG_0300-300x200.jpg)
-](/wp-content/uploads/2014/06/IMG_0300-e1403257624103.jpg) Das fertig gestrickte Stück[/caption]
+[caption id="attachment_7607" align="aligncenter" width="365"][![IMG_0300](https://eigenbaukombinat.de/wp-content/uploads/2014/06/IMG_0300-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/IMG_0300-e1403257624103.jpg) Das fertig gestrickte Stück[/caption]
 
 Zuletzt braucht man nur noch einen einfachen Haargummi, die gibt es überall zu kaufen, und näht das gestrickte Stück zusammengerafft drumrum.
 
-[caption id="attachment_7609" align="aligncenter" width="300"][![IMG_0303](/wp-content/uploads/2014/06/IMG_0303-300x200.jpg)
-](/wp-content/uploads/2014/06/IMG_0303-e1403257683433.jpg) Haargummi einnähen...[/caption]
+[caption id="attachment_7609" align="aligncenter" width="300"][![IMG_0303](https://eigenbaukombinat.de/wp-content/uploads/2014/06/IMG_0303-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/IMG_0303-e1403257683433.jpg) Haargummi einnähen...[/caption]
 
 Zum Schluss noch beide Enden zusammennähen, Faden verstecken und verschenken!
 
-[caption id="attachment_7610" align="aligncenter" width="300"][![IMG_0306](/wp-content/uploads/2014/06/IMG_0306-300x300.jpg)
-](/wp-content/uploads/2014/06/IMG_0306-e1403257700173.jpg) ... fertig![/caption]
+[caption id="attachment_7610" align="aligncenter" width="300"][![IMG_0306](https://eigenbaukombinat.de/wp-content/uploads/2014/06/IMG_0306-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/IMG_0306-e1403257700173.jpg) ... fertig![/caption]
 
-[caption id="attachment_7593" align="aligncenter" width="300"][![gestrickter Haargummi](/wp-content/uploads/2014/06/IMG_71522-300x300.jpg)
-](/wp-content/uploads/2014/06/IMG_71522-e1403257715908.jpg) Mit Lace-Garn wird es noch filigraner.[/caption]
+[caption id="attachment_7593" align="aligncenter" width="300"][![gestrickter Haargummi](https://eigenbaukombinat.de/wp-content/uploads/2014/06/IMG_71522-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/06/IMG_71522-e1403257715908.jpg) Mit Lace-Garn wird es noch filigraner.[/caption]
 
 Und wem das jetzt zu schnell ging, der kann gerne bei unserem [regelmäßig stattfindenden Handarbeitstreff](/wolle-treffen/) vorbeikommen.

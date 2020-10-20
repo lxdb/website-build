@@ -57,7 +57,7 @@ Gesteuert werden soll die gesamte Elektonik über einen Arduino Mikrocontroller 
 
 Angefangen haben wir mit einem Pappmodell um die Dimensionen und die Aufbaureihenfolge abschätzen zu können:
 
-[caption id="attachment_1056" align="alignnone" width="231"][![Pennypusher - Modell](/wp-content/uploads/2013/02/Pennydoku-1-231x300.jpg)
-](/wp-content/uploads/2013/02/Pennydoku-1.jpg) Pennypusher - Modell[/caption]
+[caption id="attachment_1056" align="alignnone" width="231"][![Pennypusher - Modell](https://eigenbaukombinat.de/wp-content/uploads/2013/02/Pennydoku-1-231x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/Pennydoku-1.jpg) Pennypusher - Modell[/caption]
 
 In den nächsten Wochen folgen weitere Beiträge die den weiteren Aufbau dokumentieren.

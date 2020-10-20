@@ -17,8 +17,8 @@ Der Austausch der Turbine an sich war dann relativ einfach. Das Problem war eher
 
 Hier sehen wir den Blick auf das geöffnete Gehäuse und die eingebaute Turbine. Wenn man genau hinsieht kann man auch das ausgeschlagene Lager erkennen.
 
-[![IMG_0160](/wp-content/uploads/2015/10/IMG_0160-300x225.jpg)
-](/wp-content/uploads/2015/10/IMG_0160.jpg)
+[![IMG_0160](https://eigenbaukombinat.de/wp-content/uploads/2015/10/IMG_0160-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/10/IMG_0160.jpg)
 
 Nach insgesamt ca. 2-3 Stunden war der Tausch dann vollbracht und der Werkstattsauger tut wieder. Es war nicht die erste Reparatur, und es wird wohl auch nicht die letzte gewesen sein. ;)
 

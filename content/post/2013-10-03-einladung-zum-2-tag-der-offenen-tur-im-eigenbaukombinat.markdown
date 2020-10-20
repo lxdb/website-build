@@ -18,7 +18,7 @@ Zwei anstrengende Monate liegen hinter uns - in den letzten Wochen haben wir uns
 
 
 
-![grundriss2013_markiert](/wp-content/uploads/2013/08/grundriss2013_markiert.png)
+![grundriss2013_markiert](https://eigenbaukombinat.de/wp-content/uploads/2013/08/grundriss2013_markiert.png)
 Bisherige Räume (grün)  |  Neue Räume (rot)
 
 

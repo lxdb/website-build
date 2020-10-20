@@ -19,14 +19,14 @@ Und wieder mal hat die Werkstatt Equipment-Nachwuchs bekommen. Innerhalb einer W
 
 Für Einsteiger und weiches Holz ausreichend, man stößt jedoch bei hartem Holz schnell an Grenzen.
 
-[caption id="attachment_3139" align="aligncenter" width="500"][![Drechselbank Einhell DB1000/350](/wp-content/uploads/2013/05/IMG_1926-4-1024x682.jpg)
-](/wp-content/uploads/2013/05/IMG_1926-4.jpg) Drechselbank Einhell DB1000/350[/caption]
+[caption id="attachment_3139" align="aligncenter" width="500"][![Drechselbank Einhell DB1000/350](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_1926-4-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_1926-4.jpg) Drechselbank Einhell DB1000/350[/caption]
 
 Ein **DDR-Eigenbau** - stabil und hoher Drehmoment, braucht aber noch ein wenig Aufbereitung um optisch ansprechend zu sein. Hat aber hohen Drehmoment und ist sehr laufruhig.
 
 
-[![DDR-Eigenbau Drechselbank](/wp-content/uploads/2013/05/IMG_1927-4-682x1024.jpg)
-](/wp-content/uploads/2013/05/IMG_1927-4.jpg)
+[![DDR-Eigenbau Drechselbank](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_1927-4-682x1024.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_1927-4.jpg)
 
 
 Ein paar Drechseleisen und eine Planscheibe sind auch schon da. Wer jedoch noch weiteres Werkzeug hat - wir würden uns sehr darüber freuen :-)

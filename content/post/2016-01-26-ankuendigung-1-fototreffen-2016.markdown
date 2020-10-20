@@ -9,7 +9,7 @@ categories:
 - Veranstaltungen
 ---
 
-![](/wp-content/uploads/2016/01/FotoTreff-1024x576.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2016/01/FotoTreff-1024x576.jpg)
 
 
 Am 27. Januar ab 20:00 Uhr findet das erste [Foto-Treffen](/foto-treffen/) in den neuen Räumen des Eigenbaukombinats [in der Landsberger Straße 3](/anfahrt/) statt. Eingeladen sind alle, die sich für Fotografie, analog oder digital, Kameras oder Bildbearbeitung interessieren und sich mit Gleichgesinnten austauschen möchten.<!-- more -->

@@ -15,14 +15,14 @@ Leser unserer Seite haben sich vielleicht gewundert, warum in den letzten Wochen
 
 Unter anderem mussten wir unseren Ultimaker, den 3D-Drucker, zusammenbauen. So sieht er im fertig zusammengebauten Zustand aus ...
 
-![ultimaker_zusammengebaut](/wp-content/uploads/2013/01/ultimaker_zusammengebaut-287x300.jpg)
+![ultimaker_zusammengebaut](https://eigenbaukombinat.de/wp-content/uploads/2013/01/ultimaker_zusammengebaut-287x300.jpg)
 
 
 
 
 ... und das sind die Ergebnisse der ersten Testdrucke.
 
-![ultimaker_beispiele](/wp-content/uploads/2013/01/ultimaker_beispiele-300x155.jpg)
+![ultimaker_beispiele](https://eigenbaukombinat.de/wp-content/uploads/2013/01/ultimaker_beispiele-300x155.jpg)
 
 
 Ab der Eröffnung wird der Ultimaker Mitgliedern zur Verfügung stehen.

@@ -39,7 +39,7 @@ Hier das Resultat:
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/04/bild-wordpress-10.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/04/bild-wordpress-10.png" >}}
 {{< /gallery >}}
 
 

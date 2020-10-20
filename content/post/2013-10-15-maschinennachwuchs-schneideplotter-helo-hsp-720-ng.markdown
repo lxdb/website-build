@@ -17,8 +17,8 @@ Ab sofort steht allen Mitgliedern eine neue Maschine zur Verfügung: Ein Schneid
 
 Wir haben bereits einen kleineren Vorrat an Klebefolie in verschiedenen Farben, Maskierfolie zum Airbrushen sowie Transferfolie und Transferpapier. Sobald wir eine Transferpresse für T-Shirts haben, lassen sich mit geeigneten Flock- oder Flexfolien auch eigene T-Shirts produzieren.
 
-[![IMG_71350](/wp-content/uploads/2013/10/IMG_71350-300x200.jpg)
-](/wp-content/uploads/2013/10/IMG_71350.jpg)
+[![IMG_71350](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_71350-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_71350.jpg)
 
 Hier ein paar Impressionen unserer ersten Experimente:
 

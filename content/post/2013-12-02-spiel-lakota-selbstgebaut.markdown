@@ -16,8 +16,8 @@ Ich war letztens mal wieder im Spielzeugladen und habe dabei ein interessantes S
 
 **SPIELREGELN**
 
-Spielmaterial: 60 Holzstäbchen und eine runde Ablage. Das selbstgestrickte Säckchen zur Aufbewahrung ist optional. In der Mitte des Tisches platziert man die Ablagefläche. Die Stäbchen werden auf die Spieler aufgeteilt, dann wird reihum gezogen.[![IMG_71092](/wp-content/uploads/2013/05/IMG_71092-1024x767.jpg)
-](/wp-content/uploads/2013/05/IMG_71092.jpg)
+Spielmaterial: 60 Holzstäbchen und eine runde Ablage. Das selbstgestrickte Säckchen zur Aufbewahrung ist optional. In der Mitte des Tisches platziert man die Ablagefläche. Die Stäbchen werden auf die Spieler aufgeteilt, dann wird reihum gezogen.[![IMG_71092](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_71092-1024x767.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_71092.jpg)
 
 Ein Zug besteht darin, entweder
 
@@ -43,14 +43,14 @@ Zu den Ablegeregeln kann man viel schreiben ([hier findet man auch die Original-
 
 Für das Spiel benötigt man Spielhölzchen ca. 7cm lang, aus 10mm Kiefer-Quadratleiste. Fünf Leisten zu je 1 EUR im Baumarkt ergeben etwa 65 Spielklötzchen (rund 13 aus einer Leiste plus kleiner Rest/Sägeblattverschnitt).
 
-Die Ecken und Kanten der Hölzchen werden nach dem Zuschnitt auf Länge noch mittels Tellerschleifer und Handschleifklotz angefast bzw. abgerundet.[![IMG_71094](/wp-content/uploads/2013/05/IMG_71094-1024x682.jpg)
-](/wp-content/uploads/2013/05/IMG_71094.jpg)
+Die Ecken und Kanten der Hölzchen werden nach dem Zuschnitt auf Länge noch mittels Tellerschleifer und Handschleifklotz angefast bzw. abgerundet.[![IMG_71094](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_71094-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_71094.jpg)
 
 Als Spielfläche fräse ich mir einen Kreis mit einem Durchmesser von 24cm aus 4mm Birke Multiplex. Um das Spiel einfacher oder schwieriger zu gestalten kann man diesen z.B. einfach um ein paar Zentimeter vergrößern (einfacher) oder verkleinern (schwieriger).
 
 Hier sieht man das Spielbrett in der Endphase. Da ist es dann schon sehr schwer noch einen guten Zug zu machen, ohne dem Gegner den Sieg zu schenken. ;)
 
-[![IMG_71095](/wp-content/uploads/2013/05/IMG_71095-1024x767.jpg)
-](/wp-content/uploads/2013/05/IMG_71095.jpg)
+[![IMG_71095](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_71095-1024x767.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_71095.jpg)
 
 Jetzt aber viel Spaß beim Nachbauen und Spielen!

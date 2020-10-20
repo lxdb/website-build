@@ -10,6 +10,8 @@ categories:
 - Verein
 tags:
 - Garten
+cover:
+  image: https://eigenbaukombinat.de/wp-content/uploads/2020/05/IMG_6533.jpg
 ---
 
 
@@ -26,13 +28,13 @@ Der Winter hat seine Spuren hinterlassen, nun ist es an der Zeit unserem Garten 
 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2020/05/IMG_6533.jpg" >}}
-  {{< figure link="/wp-content/uploads/2020/05/IMG_6544.jpg" >}}
-  {{< figure link="/wp-content/uploads/2020/05/IMG_6542.jpg" >}}
-  {{< figure link="/wp-content/uploads/2020/05/IMG_6543.jpg" >}}
-  {{< figure link="/wp-content/uploads/2020/05/IMG_6534.jpg" >}}
-  {{< figure link="/wp-content/uploads/2020/05/IMG_6537.jpg" >}}
-  {{< figure link="/wp-content/uploads/2020/05/IMG_6541.jpg" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/05/IMG_6533.jpg" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/05/IMG_6544.jpg" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/05/IMG_6542.jpg" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/05/IMG_6543.jpg" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/05/IMG_6534.jpg" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/05/IMG_6537.jpg" >}}
+  {{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2020/05/IMG_6541.jpg" >}}
 {{< /gallery >}}
 
 
@@ -54,6 +56,3 @@ Folgende Ideen wandern gerade im Kopf herum:
 
 
 Her mit den Ideen, und her mit den helfenden Händen! :)
-
-
-

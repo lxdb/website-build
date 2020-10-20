@@ -9,8 +9,8 @@ url: /gutscheine-und-individuelle-termine/
 **Geschenkgutscheine**
 Für unsere Kurse bieten wir auch Gutscheine an. Ein Gutschein kostet 35 Euro und gilt für einen beliebigen Kurs mit diesem Preis. Die dekorativen Gutscheine aus 4 mm dickem Birke Multiplex sind unbeschränkt gültig und beliebig übertragbar.
 
-[![EBKMIX-4](/wp-content/uploads/2013/06/EBKMIX-4-300x200.jpg)
-](/wp-content/uploads/2013/06/EBKMIX-4.jpg)
+[![EBKMIX-4](https://eigenbaukombinat.de/wp-content/uploads/2013/06/EBKMIX-4-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/06/EBKMIX-4.jpg)
 
 Um einen Gutschein zu erhalten, [kontaktiere den Vorstand](mailto:vorstand@eigenbaukombinat.de?subject=Bestellung Geschenkgutschein). Der Gutschein muss im Allgemeinen abgeholt werden, kann aber in Ausnahmefällen auch versendet werden. Bitte beachte, dass es unter Umständen bis zu einer Woche dauern kann, bis der Gutschein fertig ist.
 

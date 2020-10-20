@@ -19,8 +19,8 @@ Diese Woche hatten wir eine große orangene Kiste zu Besuch im Eigenbaukombinat:
 
 Nähere Informationen zur Idee: [http:/https://www.watterott.com/de/blog/Wanderkiste](http:/https://www.watterott.com/de/blog/Wanderkiste)
 
-[![Watterott Wanderkiste](/wp-content/uploads/2013/05/963868_186578531498845_335396614_o-300x225.jpg)
-](/wp-content/uploads/2013/05/963868_186578531498845_335396614_o.jpg)
+[![Watterott Wanderkiste](https://eigenbaukombinat.de/wp-content/uploads/2013/05/963868_186578531498845_335396614_o-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/963868_186578531498845_335396614_o.jpg)
 
 Leider hat die Kiste noch kein Logbuch, so wissen wir leider nicht, wo sie schon vorher war. Wir sind uns jedoch ziemlich sicher, dass sie schon mal zu Besuch im [Fablab München](http:/https://www.fablab-muenchen.de/) war. Wir sind gespannt ob die Kiste in ein paar Monaten noch einmal bei uns vorbeikommt und welche der von uns eingelegten Artikel dann noch darin sind.
 
@@ -89,13 +89,13 @@ Leider hat die Kiste noch kein Logbuch, so wissen wir leider nicht, wo sie schon
 
 Wir hätten noch einen Quadcopter Frame und ein Modellbau-Ladegerät mit in die Kiste gepackt, aber diese war leider voll :-/
 
-[![EBKMIX-8](/wp-content/uploads/2013/06/EBKMIX-8-150x150.jpg)
-](/wp-content/uploads/2013/06/EBKMIX-8.jpg)
+[![EBKMIX-8](https://eigenbaukombinat.de/wp-content/uploads/2013/06/EBKMIX-8-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/06/EBKMIX-8.jpg)
 
 
 
 Und so sah die Kiste während des Packvorganges (der sehr stark an Tetris erinnerte) aus:
 
-[![EBKMIX-7](/wp-content/uploads/2013/06/EBKMIX-7-150x150.jpg)
-](/wp-content/uploads/2013/06/EBKMIX-7.jpg) [![EBKMIX-6](/wp-content/uploads/2013/06/EBKMIX-6-150x150.jpg)
-](/wp-content/uploads/2013/06/EBKMIX-6.jpg)
+[![EBKMIX-7](https://eigenbaukombinat.de/wp-content/uploads/2013/06/EBKMIX-7-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/06/EBKMIX-7.jpg) [![EBKMIX-6](https://eigenbaukombinat.de/wp-content/uploads/2013/06/EBKMIX-6-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/06/EBKMIX-6.jpg)

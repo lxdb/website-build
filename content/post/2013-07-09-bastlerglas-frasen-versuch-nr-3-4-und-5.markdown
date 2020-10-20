@@ -28,8 +28,8 @@ Anfangs lief es auch super. Der Fräser klang etwas bemüht, daher die Drehzahle
 
 Hier das traurige Ergebnis:
 
-[![IMG_0355](/wp-content/uploads/2013/06/IMG_0355-1024x680.jpg)
-](/wp-content/uploads/2013/06/IMG_0355.jpg)
+[![IMG_0355](https://eigenbaukombinat.de/wp-content/uploads/2013/06/IMG_0355-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/06/IMG_0355.jpg)
 
 Und noch der Fräser im Vorher/Nachher Vergleich:
 
@@ -47,10 +47,10 @@ Der nächste Versuch erfolgt dann mit Bastlerglas als Opferunterlage, auch das b
 
 Und hier das Ergebnis:
 
-[![IMG_0362](/wp-content/uploads/2013/06/IMG_0362-1024x680.jpg)
-](/wp-content/uploads/2013/06/IMG_0362.jpg)
+[![IMG_0362](https://eigenbaukombinat.de/wp-content/uploads/2013/06/IMG_0362-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/06/IMG_0362.jpg)
 
-Detailaufnahme: [![IMG_0363](/wp-content/uploads/2013/06/IMG_0363-1024x682.jpg)
-](/wp-content/uploads/2013/06/IMG_0363.jpg)
+Detailaufnahme: [![IMG_0363](https://eigenbaukombinat.de/wp-content/uploads/2013/06/IMG_0363-1024x682.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/06/IMG_0363.jpg)
 
 Problem hoffentlich vorerst gelöst. :)

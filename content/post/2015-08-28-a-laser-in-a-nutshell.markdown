@@ -18,18 +18,18 @@ Im Wesentlichen habe ich für das Projekt zwei Herausforderungen erkannt: das An
 
 Der zweite Teil des Projektes begann mit der Wahl einer passenden Gravurvorlage und die Transformation in eine Vektorgrafik. Da ich im Vorfeld schon einige Test-Motive auf „Opferholz“ getestet habe, war mir bewusst, dass es einfaches Motiv, also eines ohne zu große Details, sein musste. Kurz zur Erklärung: Aufgrund der Dicke des Holzes kann es passieren, dass der Fokus des Lasers „im Material“ liegt, der Strahl dadurch eine unerwünscht breite „Spur“ zieht und es zu einer „unsauberen“ Verbrennung kommt. Bevor die richtige Lasergravur begann, musste vorher noch der Laserkopf in der gewünschten Startposition justiert werden. Dann ging es los.
 
-[![Lotus2](/wp-content/uploads/2015/08/Lotus2-300x200.jpg)
-](/wp-content/uploads/2015/08/Lotus2.jpg)
+[![Lotus2](https://eigenbaukombinat.de/wp-content/uploads/2015/08/Lotus2-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/08/Lotus2.jpg)
 
 Durch mehrfaches, langsames Abfahren bei geringer Intensität und relativ niedriger Spannung des Laser-Cutters wurde mein Motiv in das Nussholz gebrannt. Nach etwa vier Durchgängen habe ich nochmals vorsichtig über die Gravur geschliffen, um die wenigen unsauber gelaserten Randstellen nachzubessern. Als Letztes folgte eine Oberflächenversiegelung mit Hartwachsöl.
 
-[![Lotus3](/wp-content/uploads/2015/08/Lotus3-300x160.jpg)
-](/wp-content/uploads/2015/08/Lotus3.jpg)
+[![Lotus3](https://eigenbaukombinat.de/wp-content/uploads/2015/08/Lotus3-300x160.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/08/Lotus3.jpg)
 
 Ich denke, dass das Endergebnis sehr professionell wirkt und sich wirklich sehen lassen kann.
 
-[![Lotus1](/wp-content/uploads/2015/08/Lotus1-300x206.jpg)
-](/wp-content/uploads/2015/08/Lotus1.jpg)
+[![Lotus1](https://eigenbaukombinat.de/wp-content/uploads/2015/08/Lotus1-300x206.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/08/Lotus1.jpg)
 
 **Material und Kosten:**
 

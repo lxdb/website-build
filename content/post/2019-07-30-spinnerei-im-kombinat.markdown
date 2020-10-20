@@ -32,21 +32,21 @@ So wurde das letzte Handarbeitstreffen mit meiner Unterstützung in einen Spinn-
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/07/IMG_1026.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/IMG_1026.jpg" >}}
 {{< /gallery >}}
 Mit dem Doppeltritt-Spinnrad von Henkys war Björn sehr glücklich.
 
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/07/IMG_1022.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/IMG_1022.jpg" >}}
 {{< /gallery >}}
 Nachdem das Ashford-Spinnrad repariert war, lief's bei Jara wie am Schnürchen.
 
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/07/IMG_1028.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/IMG_1028.jpg" >}}
 {{< /gallery >}}
 Ein fertiges Knäul!
 

@@ -16,8 +16,8 @@ So soll sie aussehen, ein relativ einfaches Rahmengestell aus 4x8cm Fichte-Leimb
 
 <!-- more -->
 
-Hier sieht man das Untergestell ohne Sitzfläche besser. Auf eine Querverstrebung unter der Sitzfläche habe ich verzichtet, da die Konstruktion auch so schon sehr massiv und stabil ist.[![sitzbank klein gestell](/wp-content/uploads/2013/02/sitzbank-klein-gestell-300x225.png)
-](/wp-content/uploads/2013/02/sitzbank-klein-gestell.png)
+Hier sieht man das Untergestell ohne Sitzfläche besser. Auf eine Querverstrebung unter der Sitzfläche habe ich verzichtet, da die Konstruktion auch so schon sehr massiv und stabil ist.[![sitzbank klein gestell](https://eigenbaukombinat.de/wp-content/uploads/2013/02/sitzbank-klein-gestell-300x225.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/sitzbank-klein-gestell.png)
 
 **Zuschnittliste**
 
@@ -40,8 +40,8 @@ Ich verweise an dieser Stelle auf das Standardwerk: [Der Möbelbau - Fritz Spann
 
 Die Nutklötzchen hab ich aus 12mm Birke Multiplex gefertigt (da war ich faul und hab die CNC-Fräse die Arbeit machen lassen). Die Nuten selbst sind dann in passender Höhe mittels der Lamellofräse angebracht worden. Damit die insgesamt vier Nutklötzchen auch halten, habe ich Einschraubgewinde von unten in die Sitzfläche eingelassen und dann die Klötzchen mit M6 Flachkopfschrauben befestigt. Der Kopf der Schraube verdeckt im Bild leider das Langloch im Nutklötzchen.
 
-[caption id="attachment_1318" align="aligncenter" width="300"][![Sitzbank von unten: Hier sieht man ein Nutzklötzchen in seiner Nut.](/wp-content/uploads/2013/02/IMG_67771-300x200.jpg)
-](/wp-content/uploads/2013/02/IMG_67771.jpg) Sitzbank von unten: Hier sieht man ein Nutklötzchen.[/caption]
+[caption id="attachment_1318" align="aligncenter" width="300"][![Sitzbank von unten: Hier sieht man ein Nutzklötzchen in seiner Nut.](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_67771-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_67771.jpg) Sitzbank von unten: Hier sieht man ein Nutklötzchen.[/caption]
 
 Nachdem also Grundgestell und Sitzflächenbefestigung erledigt sind, geht es jetzt um den Sitzkomfort. Natürlich hab ich die Sitzbank auch ohne Polsterung probegesessen. Lange hält man es aber auf einem puren Stück Holz nicht aus. Daher war der nächste Schritt konsequenterweise die Befestigung eines Polsters in Form von Schaumstoff, sowie der Überzug mit einem Möbelstoff. Dazu wird zuerst der Schaumstoff auf die Größe der Sitzfläche zugeschnitten und dann die Kanten mit einem Cuttermesser etwas abgerundet. Der Schaumstoff selbst wird üblicherweise auf die Sitzfläche geklebt, und dann zusätzlich mit einem Vliesstoff überzogen, damit der Möbelstoff nicht direkt auf dem Schaumstoff reibt. Dann kann der Möbelstoff straff aufgezogen werden und wird auf der Rückseite mit reichlich Klammern festgetackert.
 
@@ -49,7 +49,7 @@ Auf das Aufkleben des Schaumstoffes hab ich für diesen Prototyp verzichtet. Dur
 
 Nun noch ein paar Filzgleiter unter die Füße kleben und schon ist die Sitzbank fertig:
 
-[caption id="attachment_1319" align="aligncenter" width="300"][![Sitzbank fertig.](/wp-content/uploads/2013/02/IMG_67784-300x199.jpg)
-](/wp-content/uploads/2013/02/IMG_67784.jpg) Sitzbank endlich fertig.[/caption]
+[caption id="attachment_1319" align="aligncenter" width="300"][![Sitzbank fertig.](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_67784-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_67784.jpg) Sitzbank endlich fertig.[/caption]
 
-Achso, für die Skizzen habe ich übrigens [Google Sketchup](http:/https://www.sketchup.com/) benutzt. Einen Einführungskurs dazu wollen wir demnächst auch anbieten, falls Interesse besteht. [Hier gibt es noch die Sketchup Datei zum Download.](/wp-content/uploads/2013/02/sitzbank-klein.skp)
+Achso, für die Skizzen habe ich übrigens [Google Sketchup](http:/https://www.sketchup.com/) benutzt. Einen Einführungskurs dazu wollen wir demnächst auch anbieten, falls Interesse besteht. [Hier gibt es noch die Sketchup Datei zum Download.](https://eigenbaukombinat.de/wp-content/uploads/2013/02/sitzbank-klein.skp)

@@ -95,5 +95,5 @@ Lieber nicht im Sonntags-Anzug erscheinen. Schürze oder Kittel schaden nicht, m
 </tr>
 </tbody>
 </table>
-[![Flaschenschneiden](/wp-content/uploads/2016/05/Flaschenschneiden.jpg)
-](/wp-content/uploads/2016/05/Flaschenschneiden.jpg)
+[![Flaschenschneiden](https://eigenbaukombinat.de/wp-content/uploads/2016/05/Flaschenschneiden.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2016/05/Flaschenschneiden.jpg)

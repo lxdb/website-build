@@ -44,15 +44,15 @@ Zunächst jedoch eine Auswahl der Bilder aus dem **Vor**zustand
 
 
 
-![](/wp-content/uploads/2017/12/PICT4164-1-300x260.jpg)
- ![](/wp-content/uploads/2017/12/PICT4162-1-300x275.jpg)
- ![](/wp-content/uploads/2017/12/PICT4159-1-300x295.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4164-1-300x260.jpg)
+ ![](https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4162-1-300x275.jpg)
+ ![](https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4159-1-300x295.jpg)
 
 
-![](/wp-content/uploads/2017/12/PICT4154-1-233x300.jpg)
- ![](/wp-content/uploads/2017/12/PICT4152-1-264x300.jpg)
- ![](/wp-content/uploads/2017/12/PICT4150-1-232x300.jpg)
- ![](/wp-content/uploads/2017/12/PICT4149-1-265x300.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4154-1-233x300.jpg)
+ ![](https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4152-1-264x300.jpg)
+ ![](https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4150-1-232x300.jpg)
+ ![](https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4149-1-265x300.jpg)
 
 
 

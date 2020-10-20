@@ -17,5 +17,5 @@ Wir danken der Firma Würth und ihrer Niederlassung in der Delitzscher Straße i
 Beide werden ab sofort das Eigenbaukombinat bereichern und stehen den Mitgliedern zur Verfügung.
 <!-- more -->
 
-[![IMG_1398](/wp-content/uploads/2013/10/IMG_1398-300x224.jpg)
-](/wp-content/uploads/2013/10/IMG_1398.jpg)
+[![IMG_1398](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1398-300x224.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1398.jpg)

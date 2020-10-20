@@ -97,10 +97,10 @@ Fragen gerne per [Matrix-Chat](/unser-neuer-chat-und-nachrichtenserver/) in die 
 </table>
 
 
-  * [![](/wp-content/uploads/2019/09/IMG_4220.jpg)
-](/wp-content/uploads/2019/09/IMG_4220.jpg)  * [![](/wp-content/uploads/2019/08/IMG_3906.jpg)
-](/wp-content/uploads/2019/08/IMG_3906.jpg)  * [![](/wp-content/uploads/2019/08/IMG_3899-2.jpg)
-](/wp-content/uploads/2019/08/IMG_3899-2.jpg)  * [![](/wp-content/uploads/2019/08/IMG_3880-3.jpg)
-](/wp-content/uploads/2019/08/IMG_3880-3.jpg)  * [![](/wp-content/uploads/2019/09/IMG_4281.jpg)
-](/wp-content/uploads/2019/09/IMG_4281.jpg)
+  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4220.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4220.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3906.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3906.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3899-2.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3899-2.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3880-3.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/08/IMG_3880-3.jpg)  * [![](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4281.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/09/IMG_4281.jpg)
 

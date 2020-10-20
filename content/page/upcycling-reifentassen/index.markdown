@@ -64,8 +64,8 @@ url: /upcycling-reifentassen/
 
 <td style="text-align: left;" >In diesem Kurs zeigen wir euch, wie ihr aus alten Reifen wunderschöne Pflanztassen machen könnt, um euren Garten /Balkon zu verschönern.
 In der Kursgebühr sind ein Reifen pro Teilnehmer, den wir für euch beschaffen, sowie bis zu zwei Dosen Farbe und alle sonstigen nötigen Arbeitsmaterialien enthalten. Wenn ihr uns bis 2 Tage vorher Bescheid gebt, besorgen wir die Sprayfarben nach euren Wünschen.
-Zur Gestaltung der Tassen mit Muster, bringt euch bitte geplante Schablonen mit. Bitte zieht keine guten Sachen an, die Reifen sind schmutzig und wir arbeiten mit Farbe.[![](/wp-content/uploads/2017/04/IMG_20170405_120441_690-1-1024x1024.jpg)
-](/wp-content/uploads/2017/04/IMG_20170405_120441_690-1-e1491565329636.jpg)
+Zur Gestaltung der Tassen mit Muster, bringt euch bitte geplante Schablonen mit. Bitte zieht keine guten Sachen an, die Reifen sind schmutzig und wir arbeiten mit Farbe.[![](https://eigenbaukombinat.de/wp-content/uploads/2017/04/IMG_20170405_120441_690-1-1024x1024.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2017/04/IMG_20170405_120441_690-1-e1491565329636.jpg)
 </td>
 </tr>
 <tr >

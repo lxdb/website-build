@@ -23,4 +23,4 @@ Die aufliegende Tasche zum Transport von Spielzeug habe ich auf der Industrien�
 
 [gallery ids="6252,6233,6232,6249,6248,6250,6251" link="file"]
 
-[Hier gibt es die Maße zum Download.](/wp-content/uploads/2013/12/Lauflernwagen_Maße.pdf)
+[Hier gibt es die Maße zum Download.](https://eigenbaukombinat.de/wp-content/uploads/2013/12/Lauflernwagen_Maße.pdf)

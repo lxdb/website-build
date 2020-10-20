@@ -67,8 +67,8 @@ categories:
 
 <td style="padding: 5px; text-align: left;" >Schlösser öffnen ohne Schlüssel: Lockpicking. Das große Geheimnis des Schlossöffnens ist, dass es leicht ist. Jeder kann lernen, wie man Schlösser öffnet. In unserem Lockpickingkurs erhaltet ihr einen Einblick in das gewaltlose und zerstörungsfreie Öffnen einfacher Schlösser mit Hilfe entsprechender Werkzeuge.Die Veranstaltung ist auch für Jugendliche geeignet.
 
-[![Lockpicking](/wp-content/uploads/2015/05/Lockpicking_IMG_5006_klein-1024x683.jpg)
-](/wp-content/uploads/2015/05/Lockpicking_IMG_5006_klein.jpg)
+[![Lockpicking](https://eigenbaukombinat.de/wp-content/uploads/2015/05/Lockpicking_IMG_5006_klein-1024x683.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/05/Lockpicking_IMG_5006_klein.jpg)
 </td>
 </tr>
 <tr >

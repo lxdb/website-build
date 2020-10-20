@@ -53,7 +53,7 @@ Familie: Kugelige Kopffüßler
 
 **Horst mit Beute:**
 
-[![Horst mit Beute](/wp-content/uploads/2013/05/Horst-mit-Beute-300x218.jpg)
-](/wp-content/uploads/2013/05/Horst-mit-Beute.jpg)
+[![Horst mit Beute](https://eigenbaukombinat.de/wp-content/uploads/2013/05/Horst-mit-Beute-300x218.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/Horst-mit-Beute.jpg)
 
 

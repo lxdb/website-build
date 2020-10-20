@@ -15,8 +15,8 @@ Dieses Oberteil mit einem Wikinger-Zopfmuster habe ich je für meine Tochter und
 
 <!-- more -->
 
-[![IMG_0774](/wp-content/uploads/2013/08/IMG_0774-200x300.jpg)
-](/wp-content/uploads/2013/08/IMG_0774.jpg)
+[![IMG_0774](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0774-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0774.jpg)
 Eine kurze Anleitung dazu:
 Zuerst das Kind ausmessen und eine Maschenprobe machen.
 
@@ -25,8 +25,8 @@ Das Strickstück ist recht gerade, nur eine Abnahme an der Taille, man kann es u
 Am Anfang strickt man 4 Krausrippen, dann beginnt das Muster, rechts und links wird glatt gestrickt, für das Zopfmuster sind es pro Strang 2 Maschen rechts, der Hintergrund des Musters ist links gestrickt, die Rückseite immer so, wie die Maschen kommen.
 Das Zopfmuster in der Mitte sind 20 bzw. 24 Maschen: Am Anfang sind es 20, sobald man die erste Überkreuzung machen will, werden an den Kreuzungspunkten beidseitig je eine Masche zugenommen und dann mit diesen 24 Maschen weitergestrickt. Durch das Zunehmen der Maschen zieht sich das Gestrick nicht so zusammen.
 
-[caption id="attachment_4645" align="aligncenter" width="300"][![Zopfmuster im Detail](/wp-content/uploads/2013/08/IMG_706461-300x300.jpg)
-](/wp-content/uploads/2013/08/IMG_706461.jpg) Zopfmuster im Detail[/caption]
+[caption id="attachment_4645" align="aligncenter" width="300"][![Zopfmuster im Detail](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_706461-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_706461.jpg) Zopfmuster im Detail[/caption]
 
 Die Abnahmen am Arm wurden mit 3 Maschen abketten, dann 2 und dann 1 gemacht. Für den Ausschnitt wurden 2 Stränge nach aussen gezogen, indem sie den Rand bilden, dann kommt eine linke Masche, die mit der nächstäußeren Masche in jeder zweiten Reihe zusammengestrickt wird.
 

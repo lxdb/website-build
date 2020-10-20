@@ -119,17 +119,17 @@ MicroSD-Kartenleser: CS, DI, DO, CLK, GND, 5V (+ weitere, die wir nicht benutzen
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5164_b.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5164_b.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_5163_b.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5163_b.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_5161_b.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5161_b.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_5160_b.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5160_b.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_5158_b.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5158_b.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/Screenshot-from-2019-10-05-01-12-07.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/Screenshot-from-2019-10-05-01-12-07.png" >}}
 {{< /gallery >}}
 
 
@@ -167,7 +167,7 @@ Nach einem Einsatz über 4 Tage gibt es einen Haufen an Messwerten, die wir mit 
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/Screenshot-from-2019-10-09-04-03-26.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/Screenshot-from-2019-10-09-04-03-26.png" >}}
 {{< /gallery >}}
 
 

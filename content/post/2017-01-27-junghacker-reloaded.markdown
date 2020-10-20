@@ -24,15 +24,15 @@ Beispielsweise baute ein Teilnehmer eine Art Wetterkontrollmaschine und ein ande
 
 3D-Modellierung mit Blender:
 
-[![IMG_1719](/wp-content/uploads/2017/01/IMG_1719-1024x683.jpg)
-](/wp-content/uploads/2017/01/IMG_1719.jpg)
+[![IMG_1719](https://eigenbaukombinat.de/wp-content/uploads/2017/01/IMG_1719-1024x683.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2017/01/IMG_1719.jpg)
 
 Löten Grundlagen:
 Hier lernen Kinder die Grundlagen des Lötens und können das erworbene Wissen dann zur Umsetzung ihrer eigenen Ideen nutzen.
 Hier Entwurf von Designmöbeln (im Bild ein Stuhl aus Drahtgeflecht):
 
-[![IMG_1753](/wp-content/uploads/2017/01/IMG_1753-1024x683.jpg)
-](/wp-content/uploads/2017/01/IMG_1753.jpg)
+[![IMG_1753](https://eigenbaukombinat.de/wp-content/uploads/2017/01/IMG_1753-1024x683.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2017/01/IMG_1753.jpg)
 
 Für den Einsteiger in die Programmierung gibt es den Scratch-Kurs.
 Schnell und einfach lernt man dabei, wie man sein eigenes Spiel erstellen kann. Mit diesem Basiswissen können sich die Teilnehmer dann kreativ austoben.

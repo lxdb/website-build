@@ -18,40 +18,40 @@ Als Material hab ich mir Birke Multiplex 12mm Dicke ausgesucht, damit es stabil 
 
 <!-- more -->
 
-Dies ist der Entwurf, gezeichnet mit QCad ([hier die DXF-Datei zum Download](/wp-content/uploads/2013/08/kamishibai.dxf), und hier [das PDF](/wp-content/uploads/2013/08/kamishibai.pdf)):
+Dies ist der Entwurf, gezeichnet mit QCad ([hier die DXF-Datei zum Download](https://eigenbaukombinat.de/wp-content/uploads/2013/08/kamishibai.dxf), und hier [das PDF](https://eigenbaukombinat.de/wp-content/uploads/2013/08/kamishibai.pdf)):
 
-[![Kamishibai-Vorschau](/wp-content/uploads/2013/08/Kamishibai-Vorschau-300x111.png)
-](/wp-content/uploads/2013/08/Kamishibai-Vorschau.png)Den Bildausschnitt habe ich bewusst etwas kleiner als DIN A3 gewählt. Nachdem das Material eingespannt und die [CNC-Fräse](/cnc-frase-bzt-pf-1410p/) mit den nötigen Daten gefüttert wurde, hatte ich auch schon bald die fertigen Teile des Kamishibai in der Hand.
-[![IMG_0918](/wp-content/uploads/2013/08/IMG_0918-300x200.jpg)
-](/wp-content/uploads/2013/08/IMG_0918.jpg)
+[![Kamishibai-Vorschau](https://eigenbaukombinat.de/wp-content/uploads/2013/08/Kamishibai-Vorschau-300x111.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/Kamishibai-Vorschau.png)Den Bildausschnitt habe ich bewusst etwas kleiner als DIN A3 gewählt. Nachdem das Material eingespannt und die [CNC-Fräse](/cnc-frase-bzt-pf-1410p/) mit den nötigen Daten gefüttert wurde, hatte ich auch schon bald die fertigen Teile des Kamishibai in der Hand.
+[![IMG_0918](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0918-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0918.jpg)
 
-[![IMG_0923](/wp-content/uploads/2013/08/IMG_0923-300x200.jpg)
-](/wp-content/uploads/2013/08/IMG_0923.jpg)
+[![IMG_0923](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0923-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0923.jpg)
 
-[![IMG_0926](/wp-content/uploads/2013/08/IMG_0926-300x200.jpg)
-](/wp-content/uploads/2013/08/IMG_0926.jpg)
+[![IMG_0926](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0926-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0926.jpg)
 
-Nachdem alles ordentlich abgeschliffen und geölt wurde, konnte ich auch schon die ersten Teile miteinander verkleben. Das zugeschnittene 10x15 mm Vierkantholz passte nach ein paar Nachbearbeitungen mittels Tellerschleifer perfekt in die dafür vorgesehenen Nuten auf der Rückseite des Rahmens:[![IMG_0936](/wp-content/uploads/2013/08/IMG_0936-300x200.jpg)
-](/wp-content/uploads/2013/08/IMG_0936.jpg)
+Nachdem alles ordentlich abgeschliffen und geölt wurde, konnte ich auch schon die ersten Teile miteinander verkleben. Das zugeschnittene 10x15 mm Vierkantholz passte nach ein paar Nachbearbeitungen mittels Tellerschleifer perfekt in die dafür vorgesehenen Nuten auf der Rückseite des Rahmens:[![IMG_0936](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0936-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0936.jpg)
 
-[![IMG_0959](/wp-content/uploads/2013/08/IMG_0959-300x200.jpg)
-](/wp-content/uploads/2013/08/IMG_0959.jpg)
+[![IMG_0959](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0959-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0959.jpg)
 
 Zuletzt mussten noch die Schaniere angebracht werden, was sich als recht heikel erwiesen hat. Ein Fehler und die beiden Türen würden nicht mehr schließen. Um mir das deshalb etwas zu erleichtern, habe ich die Markierungen alle mit der Standbohrmaschine vorgebohrt, damit nachher jede Schraube an der ihr angedachten Position sitzt:
 
-[![IMG_0962](/wp-content/uploads/2013/08/IMG_0962-300x200.jpg)
-](/wp-content/uploads/2013/08/IMG_0962.jpg)
+[![IMG_0962](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0962-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0962.jpg)
 
 
 (Die Türen gehen nach vorne auf,damit man es einfach hinstellen kann)
 
 
 Nach ein paar Tests mit ähnlichem Material haben wir dann den Elektrotacker für gut befunden, um die Rückwand "einfach" festzunageln. 2-3 Nägel pro Seite haben genügt und es sitzt bombenfest!
-[![IMG_0967](/wp-content/uploads/2013/08/IMG_0967-300x200.jpg)
-](/wp-content/uploads/2013/08/IMG_0967.jpg)
+[![IMG_0967](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0967-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0967.jpg)
 
-Hier nun das fertige Kamishibai. Ich hoffe es wird seinen Zweck erfüllen, es ist nämlich nicht für mich, sondern ein Geschenk. Vielleicht komme ich irgendwann noch dazu, den Beitrag um ein paar  Bilder ergänzen, die das Ganze in Aktion zeigen. :)[![IMG_0969](/wp-content/uploads/2013/08/IMG_0969-300x200.jpg)
-](/wp-content/uploads/2013/08/IMG_0969.jpg)Materialkosten:
+Hier nun das fertige Kamishibai. Ich hoffe es wird seinen Zweck erfüllen, es ist nämlich nicht für mich, sondern ein Geschenk. Vielleicht komme ich irgendwann noch dazu, den Beitrag um ein paar  Bilder ergänzen, die das Ganze in Aktion zeigen. :)[![IMG_0969](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0969-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_0969.jpg)Materialkosten:
 
 
 
@@ -66,15 +66,15 @@ Ohne Arbeitszeit, die mich ja nichts kostet, liegt man bei ca. 30 Euro.
 
 ***UPDATE***
 
-Hier noch [die DXF-Datei zum Herunterladen](/wp-content/uploads/2013/08/kamishibai.dxf). Man kann sie z.B. mit [QCad](http:/https://www.qcad.org) öffnen.
+Hier noch [die DXF-Datei zum Herunterladen](https://eigenbaukombinat.de/wp-content/uploads/2013/08/kamishibai.dxf). Man kann sie z.B. mit [QCad](http:/https://www.qcad.org) öffnen.
 
 Ansonsten noch zwei Screenshots aus dieser Datei, damit man die Maße und den Aufbau noch etwas besser erkennen kann. Alle Maßangaben in Millimetern.
 
-[![kam teil1](/wp-content/uploads/2013/08/kam-teil1-300x171.png)
-](/wp-content/uploads/2013/08/kam-teil1.png)
+[![kam teil1](https://eigenbaukombinat.de/wp-content/uploads/2013/08/kam-teil1-300x171.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/kam-teil1.png)
 
-[![kam teil2](/wp-content/uploads/2013/08/kam-teil2-300x135.png)
-](/wp-content/uploads/2013/08/kam-teil2.png)
+[![kam teil2](https://eigenbaukombinat.de/wp-content/uploads/2013/08/kam-teil2-300x135.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/kam-teil2.png)
 
 
 

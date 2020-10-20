@@ -67,8 +67,8 @@ PLA und ABS sind der Grundstoff, aus dem deine Ideen wachsen. Du willst mehr üb
 Bringe deine Projekte mit. Unser gut ausgestatteter 3D-Druckbereich steht dir an diesem Tag zur Verfügung. Gäste und Besucher sind herzlich willkommen!
 
 
-[![3ddrucker3_3](/wp-content/uploads/2014/04/3ddrucker3_3.jpg)
-](/wp-content/uploads/2014/04/3ddrucker3_3.jpg)
+[![3ddrucker3_3](https://eigenbaukombinat.de/wp-content/uploads/2014/04/3ddrucker3_3.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/04/3ddrucker3_3.jpg)
 
 Fragen gerne per E-Mail an [3ddruck@eigenbaukombinat.de](mailto:3ddruck@eigenbaukombinat.de)
 </td>

@@ -18,13 +18,13 @@ Am 09. Juni fand im Eigenbaukombinat zum dritten Mal der [Grundkurs Holzwerken](
 
 Nach der kurzen theoretischen Einführung in die Eigenschaften von Holz ging es gleich mit dem praktischen Beispiel eines Kinderhockers mit  den Maßen 30 x 30 x 30cm zur Sache.<!-- more -->
 
-[![IMG_9368](/wp-content/uploads/2013/06/IMG_9368-300x300.jpg)
-](/wp-content/uploads/2013/06/IMG_9368.jpg)
+[![IMG_9368](https://eigenbaukombinat.de/wp-content/uploads/2013/06/IMG_9368-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/06/IMG_9368.jpg)
 
-Ausgehend von der schon vorhandenen Skizze ([DXF-Datei hier](/wp-content/uploads/2013/06/kinderhocker.dxf))...
+Ausgehend von der schon vorhandenen Skizze ([DXF-Datei hier](https://eigenbaukombinat.de/wp-content/uploads/2013/06/kinderhocker.dxf))...
 
-[![kinderhocker screenshot](/wp-content/uploads/2013/06/kinderhocker-screenshot.png)
-](/wp-content/uploads/2013/06/kinderhocker-screenshot.png)
+[![kinderhocker screenshot](https://eigenbaukombinat.de/wp-content/uploads/2013/06/kinderhocker-screenshot.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/06/kinderhocker-screenshot.png)
 
 ... konnte man direkt die Zuschnittliste erstellen:
 

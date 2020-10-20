@@ -19,7 +19,7 @@ Ziel dieses Projektes war es einen kleinen tragbaren Lautsprecher für den Einsa
 Der Gehäuserahmen wurde mit Tauch- und Kappsäge zugeschnitten und mit Lamello Dübeln zusammengeleimt.
 
 
-![2013-02-04_21-21-49_815](/wp-content/uploads/2013/02/2013-02-04_21-21-49_815-300x224.jpg)
+![2013-02-04_21-21-49_815](https://eigenbaukombinat.de/wp-content/uploads/2013/02/2013-02-04_21-21-49_815-300x224.jpg)
 
 
 
@@ -35,8 +35,8 @@ Nach dem Aufleimen und bündig Fräsen der Front, wurden alle Kanten und Ecken a
 
 
 
- [![exzenterschleifer_bei_der_arbeit](/wp-content/uploads/2013/03/exzenterschleifer_bei_der_arbeit-300x300.jpg)
-](/wp-content/uploads/2013/03/exzenterschleifer_bei_der_arbeit.jpg)
+ [![exzenterschleifer_bei_der_arbeit](https://eigenbaukombinat.de/wp-content/uploads/2013/03/exzenterschleifer_bei_der_arbeit-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/exzenterschleifer_bei_der_arbeit.jpg)
 
 
 

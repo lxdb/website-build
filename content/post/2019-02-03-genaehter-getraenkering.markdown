@@ -23,7 +23,7 @@ Wie in jeder Großraum-WG lassen Menschen überall ihre Flaschen stehen und kein
 Seit "neulich" gibt es ein neues Medium, um seine Flasche zu markieren: genäht!
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/02/IMG_20181023_154045-e1549057038298.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/IMG_20181023_154045-e1549057038298.jpg" >}}
 {{< /gallery >}}
 
 
@@ -52,14 +52,14 @@ So gehts:
   * Das Volumenvlies wird auf die Rückseite einer der beiden Stoffteile gebügelt
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/02/IMG_20181023_145111.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/IMG_20181023_145111.jpg" >}}
 {{< /gallery >}}
 
   * Die beiden Stoffteile mit der jeweils rechten Seite aufeinander stecken und einen Kreis ausschneiden. Der zweite Kreis in der Mitte wird erstmal nur markiert.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/02/IMG_20181023_145456-e1549057693396.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/02/IMG_20181023_145552-e1549057717255.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/IMG_20181023_145456-e1549057693396.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/IMG_20181023_145552-e1549057717255.jpg" >}}
 {{< /gallery >}}
 
   * Jetzt wäre ein guter Zeitpunkt, mit der Nähmaschine oder Freihand, die beiden Stoffkreise wieder voneinander zu trennen und in den Teil mit dem Volumenvlies seinen Namen zu sticken. (Gibt kein Bild dazu, sorry)
@@ -67,7 +67,7 @@ So gehts:
   * Den Ring einmal durch sich selber wenden.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/02/IMG_20181023_150053-e1549057940589.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/IMG_20181023_150053-e1549057940589.jpg" >}}
 {{< /gallery >}}
 
 Jetzt wirds spannend:  
@@ -77,20 +77,20 @@ Jetzt wirds spannend:
   * Beim Zunähen eine Wendeöffnung lassen und wenn man fertig mit nähen ist, den Ring wenden.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/02/IMG_20181023_151907-e1549057999564.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/02/IMG_20181023_152033-e1549058046561.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/IMG_20181023_151907-e1549057999564.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/IMG_20181023_152033-e1549058046561.jpg" >}}
 {{< /gallery >}}
 
   * Die Wendeöffnung schließen, alles schön aufbügeln und nochmal knappkantig (scheint heute mein Lieblingswort zu sein...) absteppen.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/02/IMG_20181023_152548.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/IMG_20181023_152548.jpg" >}}
 {{< /gallery >}}
 
 Und fertig:
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/02/IMG_20181023_154020-e1549058256349.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/02/IMG_20181023_154020-e1549058256349.jpg" >}}
 {{< /gallery >}}
 
 

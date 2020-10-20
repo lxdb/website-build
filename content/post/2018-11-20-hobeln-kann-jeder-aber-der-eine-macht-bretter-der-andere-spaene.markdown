@@ -24,7 +24,7 @@ Nach langer Pause gab es endlich wieder einen Aufbaukurs Holzwerken, bei dem wie
 
 
 
-Da Individualismus auch die Kreativität fördern kann, gab es gleich mehrere Holzsorten (Kirsch, Nuss, Ahorn und Buche) und drei Schablonen zur Auswahl. Außerdem habe ich dieses Mal die Möglichkeit zur freien Konturform gegeben. Nach der Auswahl des jeweiligen Wunschstückes (Ahorn ist in der Vorrunde leider ausgeschieden) haben wir mit Besäum- und Zuschnitten der Hölzer begonnen, wobei unsere Formatkreissäge zum Einsatz kam. Dank Sägeblatt für Längsschnitte ging das ziemlich schnell, präzise und elegant. ![](/wp-content/uploads/2018/11/DSCN3155-300x225.jpg)
+Da Individualismus auch die Kreativität fördern kann, gab es gleich mehrere Holzsorten (Kirsch, Nuss, Ahorn und Buche) und drei Schablonen zur Auswahl. Außerdem habe ich dieses Mal die Möglichkeit zur freien Konturform gegeben. Nach der Auswahl des jeweiligen Wunschstückes (Ahorn ist in der Vorrunde leider ausgeschieden) haben wir mit Besäum- und Zuschnitten der Hölzer begonnen, wobei unsere Formatkreissäge zum Einsatz kam. Dank Sägeblatt für Längsschnitte ging das ziemlich schnell, präzise und elegant. ![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3155-300x225.jpg)
 
 
 
@@ -35,19 +35,19 @@ Mit den nun angepassten Holzstücken ging es an der Abrichte- und Dickenhobelmas
 
 
 
-![](/wp-content/uploads/2018/11/DSCN3158-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3158-300x225.jpg)
 
 
 
 
 
-![](/wp-content/uploads/2018/11/DSCN3156-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3156-300x225.jpg)
 
 
 
 
 
-![](/wp-content/uploads/2018/11/DSCN3160-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3160-300x225.jpg)
 
 
 
@@ -58,13 +58,13 @@ Der nächste Arbeitsschritt sollte sich als nicht weniger kniffliger Part erweis
 
 
 
-![](/wp-content/uploads/2018/11/DSCN3164-225x300.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3164-225x300.jpg)
 
 
 
 
 
-![](/wp-content/uploads/2018/11/DSCN3166-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3166-300x225.jpg)
 
 
 
@@ -75,13 +75,13 @@ Die nun entstandenen Rohlinge, die man fälschlicherweise schon für echte Küch
 
 
 
-![](/wp-content/uploads/2018/11/DSCN3169-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3169-300x225.jpg)
 
 
 
 
 
-![](/wp-content/uploads/2018/11/DSCN3172-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3172-300x225.jpg)
 
 
 
@@ -92,7 +92,7 @@ Um dem Ganzen noch eins drauf setzen, haben wir die Kanten noch mit unserer Tisc
 
 
 
-![](/wp-content/uploads/2018/11/DSCN3173-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3173-300x225.jpg)
 
 
 
@@ -108,12 +108,12 @@ Schaut euch diese Ergebnisse an:
 
 
 
-![](/wp-content/uploads/2018/11/DSCN3174-300x225.jpg)
-![](/wp-content/uploads/2018/11/DSCN3181-300x225.jpg)
-![](/wp-content/uploads/2018/11/DSCN3176-225x300.jpg)
-![](/wp-content/uploads/2018/11/DSCN3177-225x300.jpg)
-![](/wp-content/uploads/2018/11/DSCN3184-300x225.jpg)
-![](/wp-content/uploads/2018/11/DSCN3183-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3174-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3181-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3176-225x300.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3177-225x300.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3184-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/11/DSCN3183-300x225.jpg)
 
 
 

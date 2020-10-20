@@ -9,7 +9,7 @@ categories:
 - Reparatur
 ---
 
-![](/wp-content/uploads/2018/08/Einladung_Eigenbaukombinat.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2018/08/Einladung_Eigenbaukombinat.jpg)
 
 
 Im Rahmen des kostenlosen Workshops soll der Ablauf einer Reparatur mit Hilfe des 3D-Drucks durchgespielt werden. Dabei sollen folgende Fragen beantwortet werden:

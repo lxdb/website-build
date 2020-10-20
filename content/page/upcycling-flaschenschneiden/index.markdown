@@ -72,8 +72,8 @@ Hinweis:
 Bringt bitte eigenen Flaschen mit, die Euch besonders gut gefallen. Sonstiges Material/Werkzeug ist bereits in den Kursgebühren enthalten und wird von uns gestellt.
 Lieber nicht im Sonntags-Anzug erscheinen. Schürze oder Kittel schaden nicht, müssten aber bitte mitgebracht werden.
 
-[![](/wp-content/uploads/2016/05/flaschen_villa_4.jpg)
-](/wp-content/uploads/2016/05/flaschen_villa_4.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2016/05/flaschen_villa_4.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2016/05/flaschen_villa_4.jpg)
 </td>
 </tr>
 <tr >

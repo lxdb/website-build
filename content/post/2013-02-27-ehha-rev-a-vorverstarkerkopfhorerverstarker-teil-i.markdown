@@ -64,8 +64,8 @@ Dann habe ich viele Stunden gebrütet, gezeichnet, radiert - später dann konstr
 
 Hier nun ein Renderbild dessen, was gerade im Entstehen begriffen ist:
 
-[![EHHA Rev. A](/wp-content/uploads/2013/02/1.0-1080-300x168.jpg)
-](/wp-content/uploads/2013/02/1.0-1080.jpg)
+[![EHHA Rev. A](https://eigenbaukombinat.de/wp-content/uploads/2013/02/1.0-1080-300x168.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/1.0-1080.jpg)
 
 **Die Fortsetzung folgt !**
 

@@ -31,43 +31,43 @@ Heute gabs unter anderem Löten von Weihnachtsbäumen, Zusammenbau eines Roboter
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_0088.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0088.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0056.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0056.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0082.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0082.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0093.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0093.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0120.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0120.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0119.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0119.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0076.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0076.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0054.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0054.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0098.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0098.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0101.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0101.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0105.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0105.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0135.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0135.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0053.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0053.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0079.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0079.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0073.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0073.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0083.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0083.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0138.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0138.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0139.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0139.jpg" >}}
 
-{{< figure link="/wp-content/uploads/2019/10/IMG_0142.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_0142.jpg" >}}
 {{< /gallery >}}
 
 

@@ -23,8 +23,8 @@ In dieser Serie stellen wir Werkzeug vor, das nützlich ist, das aber vielleicht
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5507-2.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5506-1.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5507-2.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5506-1.jpeg" >}}
 {{< /gallery >}}
 
 

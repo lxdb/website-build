@@ -11,5 +11,5 @@ Wie schon länger angekündigt starten wir am 17.06. endlich auch unser erstes 3
 
 [3D Druck Treffen](/3d-druck-treffen/)
 
-[![Freecad](/wp-content/uploads/2015/06/Freecad1.jpg)
-](/wp-content/uploads/2015/06/Freecad1.jpg)
+[![Freecad](https://eigenbaukombinat.de/wp-content/uploads/2015/06/Freecad1.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2015/06/Freecad1.jpg)

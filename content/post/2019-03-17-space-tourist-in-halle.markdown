@@ -17,7 +17,7 @@ Eine Reise durch die deutsche Hackerspace-Landschaft verschaffte uns ein Besuch 
 <!-- more -->
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/03/cover-st-1024x1024.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/03/cover-st-1024x1024.png" >}}
 {{< /gallery >}}
 Space Tourist
 

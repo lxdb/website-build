@@ -31,13 +31,13 @@ Das aus den USA stammende Veranstaltungsformat “Maker Faire” fand  dieses Ja
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/07/pong2.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/07/löten2.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/07/pong.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/07/Music.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/07/Bobbycar.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/07/VR.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/07/löten.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/pong2.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/löten2.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/pong.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/Music.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/Bobbycar.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/VR.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/löten.jpeg" >}}
 {{< /gallery >}}
 
 

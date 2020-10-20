@@ -69,8 +69,8 @@ tags:
 
 <td style="text-align: left;" >In lockerer Atmosphäre treffen wir uns zu einer gemütlichen Stammtischrunde, um über alles, was ferngesteuert fliegt, schwimmt oder fährt zu philosophieren. Gerne bauen wir auch gemeinsam an einem Projekt oder lösen ein oder zwei technische Probleme.
 
-[![IMG_1645](/wp-content/uploads/2013/10/IMG_1645-150x150.jpg)
-](/wp-content/uploads/2013/10/IMG_1645.jpg)
+[![IMG_1645](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1645-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1645.jpg)
 </td>
 </tr>
 <tr >

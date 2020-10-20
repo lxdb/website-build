@@ -12,7 +12,7 @@ categories:
 Inspiriert von den Arbeiten von [Andreea Strete](https://www.etsy.com/shop/11pixeli) wollte ich unbedingt meine eigenen "Tiny Robots" herstellen.
 
 Also bestellte ich mir im Internet 1,5 kg Gießharz und ein paar passende Förmchen dazu.
-[![](/wp-content/uploads/2017/04/DSC_0109a-1024x688.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/04/DSC_0109a-1024x688.jpg)
 ](/kleine-roboterfiguren-aus-elektroschrott/dsc_0109a/)
 
 Elektroschrott fand ich im Hackerspace, selten habe ich mich so über eine gefüllte Dose "Müll" gefreut.
@@ -21,7 +21,7 @@ Elektroschrott fand ich im Hackerspace, selten habe ich mich so über eine gefü
 
 Ich sortierte mir passende Teile für kleine Roboter aus und legte sie mir testweise zu kleinen Figuren zusammen. Dann schaute ich welche Figur in welche Form passen könnte.
 
-[![](/wp-content/uploads/2017/04/DSC_0116a-1024x557.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/04/DSC_0116a-1024x557.jpg)
 ](/kleine-roboterfiguren-aus-elektroschrott/dsc_0116a/)
 
 Als nächstes rührte ich das Harz und Härter zusammen.
@@ -35,10 +35,10 @@ Ich füllte die Förmchen mit dem Gießharz, legte die Figuren vorsichtig mit ei
 
 Theoretisch hätte ich erst eine untere Lage gießen müssen, auf der die Figuren dann liegen, damit die Unterseite nicht aus dem Harz raus schaut. Aber ich hatte Glück, unter den Figuren war bei mir, trotz des Gießens in einem Durchgang, eine dünne Schicht stehen geblieben.
 
-[![](/wp-content/uploads/2017/04/DSC_0219a-1024x898.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/04/DSC_0219a-1024x898.jpg)
 ](/kleine-roboterfiguren-aus-elektroschrott/dsc_0219a/)
 
-[![](/wp-content/uploads/2017/04/DSC_0225a-1024x1011.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2017/04/DSC_0225a-1024x1011.jpg)
 ](/kleine-roboterfiguren-aus-elektroschrott/dsc_0225a/)
 
 Ich werde natürlich noch weiter experimentieren und die Ergebnisse dann hier posten.

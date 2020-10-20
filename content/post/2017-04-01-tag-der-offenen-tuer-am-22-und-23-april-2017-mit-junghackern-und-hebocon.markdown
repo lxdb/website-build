@@ -22,7 +22,7 @@ Im Mittelpunkt stehen diesmal die Junghacker. An verschiedenen Stationen können
 
 
 
-[caption id="attachment_11974" align="aligncenter" width="960"]![](/wp-content/uploads/2017/04/programm.jpg)
+[caption id="attachment_11974" align="aligncenter" width="960"]![](https://eigenbaukombinat.de/wp-content/uploads/2017/04/programm.jpg)
 Das Programm zum Tag der offenen Tür.[/caption]
 
 

@@ -64,8 +64,8 @@ url: /grundkurs-naehen/
 </td>
 
 <td style="text-align: left;" >Im Kurs vermitteln wir zunächst den Umgang mit der
-Nähmaschine. Als erstes Projekt wird ein klassischer Jerseyrocks oder ein T-Shirt genäht.[![rock](/wp-content/uploads/2016/03/rock.jpg)
-](/wp-content/uploads/2016/03/rock.jpg)
+Nähmaschine. Als erstes Projekt wird ein klassischer Jerseyrocks oder ein T-Shirt genäht.[![rock](https://eigenbaukombinat.de/wp-content/uploads/2016/03/rock.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2016/03/rock.jpg)
 </td>
 </tr>
 <tr >

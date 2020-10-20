@@ -40,9 +40,9 @@ Mit großartiger Unterstützung von Henry und vereinten Kräften haben wir berei
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/07/20190216_184345.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/07/20190216_184517.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/07/20180515_191835_HDR.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/07/20180515_191827_HDR.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/20190216_184345.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/20190216_184517.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/20180515_191835_HDR.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/07/20180515_191827_HDR.jpg" >}}
 {{< /gallery >}}
 

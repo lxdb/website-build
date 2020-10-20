@@ -19,16 +19,16 @@ Hier die Nachlese mit den Bildern. Mehr nach dem Klick!
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/12/IMG_0394.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/12/IMG_0393.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/12/IMG_0381.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/12/IMG_0387.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/12/IMG_0385.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/12/IMG_0360.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/12/IMG_0384.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/12/IMG_0382.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/12/IMG_0383.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/12/IMG_0380.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/12/IMG_0334.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/12/IMG_0394.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/12/IMG_0393.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/12/IMG_0381.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/12/IMG_0387.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/12/IMG_0385.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/12/IMG_0360.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/12/IMG_0384.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/12/IMG_0382.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/12/IMG_0383.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/12/IMG_0380.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/12/IMG_0334.jpg" >}}
 {{< /gallery >}}
 

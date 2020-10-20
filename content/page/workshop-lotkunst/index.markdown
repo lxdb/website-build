@@ -71,8 +71,8 @@ categories:
 Wir vermitteln die Grundlagen des Lötens und bauen gemeinsam in gemütlicher Runde nach Vorlage kleine Lötfiguren (Männchen, Katzen, Musiker etc.).
 
 
-[![IMG_67959](/wp-content/uploads/2013/02/IMG_67959-300x300.jpg)
-](/wp-content/uploads/2013/02/IMG_67959.jpg)
+[![IMG_67959](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_67959-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_67959.jpg)
 
 [gallery link="file" ids="2953,2952,2951,2070,2069,1924,1922"]
 </td>

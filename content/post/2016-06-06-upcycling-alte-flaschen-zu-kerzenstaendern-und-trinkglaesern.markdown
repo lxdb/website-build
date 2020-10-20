@@ -15,14 +15,14 @@ Am kommenden Sonntag, den 12. Juni 2016, bieten wir allen Interessenten den beli
 
 Bringt Eure eigenen schönen Wein- oder Bierflaschen oder Marmeladengläser mit und verwandelt sie in kunstvoll gestaltete und gravierte Trinkgläser oder einmalige Kerzenständer!
 
-[![flaschen_villa_4](/wp-content/uploads/2016/05/flaschen_villa_4-300x199.jpg)
-](/wp-content/uploads/2016/05/flaschen_villa_4.jpg)
+[![flaschen_villa_4](https://eigenbaukombinat.de/wp-content/uploads/2016/05/flaschen_villa_4-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2016/05/flaschen_villa_4.jpg)
 
-[![flaschen_villa_3](/wp-content/uploads/2016/05/flaschen_villa_3-300x199.jpg)
-](/wp-content/uploads/2016/05/flaschen_villa_3.jpg)
+[![flaschen_villa_3](https://eigenbaukombinat.de/wp-content/uploads/2016/05/flaschen_villa_3-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2016/05/flaschen_villa_3.jpg)
 
-[![flasche4](/wp-content/uploads/2016/05/flasche4-300x199.jpg)
-](/wp-content/uploads/2016/05/flasche4.jpg)
+[![flasche4](https://eigenbaukombinat.de/wp-content/uploads/2016/05/flasche4-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2016/05/flasche4.jpg)
 
 Alle Infos zur Anmeldung gibt es [hier auf der Kursseite](/workshop-flaschen-schneiden/).
 

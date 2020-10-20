@@ -15,5 +15,5 @@ Eine neue Spende hat unsere Räume erreicht. Mit der halleschen Firma Herrmann 
 
 Vielen Dank!
 
-[![Spende von Herrmann und Tallig](/wp-content/uploads/2014/01/IMG_2373-1024x680.jpg)
-](/wp-content/uploads/2014/01/IMG_2373.jpg)
+[![Spende von Herrmann und Tallig](https://eigenbaukombinat.de/wp-content/uploads/2014/01/IMG_2373-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/01/IMG_2373.jpg)

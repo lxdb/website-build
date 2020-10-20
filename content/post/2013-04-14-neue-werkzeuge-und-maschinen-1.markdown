@@ -22,8 +22,8 @@ Unsere Ausstattung wird immer unter [/werkstatt/](/werkstatt/) aufgeführt und
 <!-- more -->
 
 
-_[![Werkbank](/wp-content/uploads/2013/04/neuwerk-6-300x200.jpg)
-](/wp-content/uploads/2013/04/neuwerk-6.jpg)_
+_[![Werkbank](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-6-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-6.jpg)_
 
 
 
@@ -40,8 +40,8 @@ _[![Werkbank](/wp-content/uploads/2013/04/neuwerk-6-300x200.jpg)
 
 
 
-[![Zwingen](/wp-content/uploads/2013/04/neuwerk-7-200x300.jpg)
-](/wp-content/uploads/2013/04/neuwerk-7.jpg)
+[![Zwingen](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-7-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-7.jpg)
 
 
 
@@ -58,8 +58,8 @@ _[![Werkbank](/wp-content/uploads/2013/04/neuwerk-6-300x200.jpg)
 
 
 
-[![Leimschlauch](/wp-content/uploads/2013/04/neuwerk-5-150x150.jpg)
-](/wp-content/uploads/2013/04/neuwerk-5.jpg)
+[![Leimschlauch](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-5-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-5.jpg)
 
 
 
@@ -76,8 +76,8 @@ Markus hat dafür gesorgt, dass die **Leimvorräte** bis auf weiteres gesicher
 
 
 
-[![Sorimentskästen](/wp-content/uploads/2013/04/neuwerk-4-128x300.jpg)
-](/wp-content/uploads/2013/04/neuwerk-4.jpg) Endlich Ordnung im e-Labor. Durch ein günstiges Sonderangebot haben wir nun ausreichend **Sortimentskästen**, die gefüllt werden wollen.
+[![Sorimentskästen](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-4-128x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-4.jpg) Endlich Ordnung im e-Labor. Durch ein günstiges Sonderangebot haben wir nun ausreichend **Sortimentskästen**, die gefüllt werden wollen.
 
 
 
@@ -89,8 +89,8 @@ Markus hat dafür gesorgt, dass die **Leimvorräte** bis auf weiteres gesicher
 
 
 
-[![EOS 300D](/wp-content/uploads/2013/04/neuwerk-16-300x200.jpg)
-](/wp-content/uploads/2013/04/neuwerk-16.jpg)Eine DSLR** Canon EOS 300D** ermöglicht es nun die eigenen Projekte zu dokumentieren und erste Gehversuche im Fotostudio zu unternehmen. Danke für die Leihgabe, Markus.
+[![EOS 300D](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-16-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-16.jpg)Eine DSLR** Canon EOS 300D** ermöglicht es nun die eigenen Projekte zu dokumentieren und erste Gehversuche im Fotostudio zu unternehmen. Danke für die Leihgabe, Markus.
 
 
 
@@ -102,8 +102,8 @@ Markus hat dafür gesorgt, dass die **Leimvorräte** bis auf weiteres gesicher
 
 
 
-[![Ersa Lötbad](/wp-content/uploads/2013/04/neuwerk-15-200x300.jpg)
-](/wp-content/uploads/2013/04/neuwerk-15.jpg)
+[![Ersa Lötbad](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-15-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-15.jpg)
 
 
 
@@ -119,9 +119,9 @@ Durch das neue **ERSA T4 Lötbad** ist nun auch das Tauchverzinnen großer Kabel
 
 
 
-[![Brennofen](/wp-content/uploads/2013/04/neuwerk-13-300x200.jpg)
-](/wp-content/uploads/2013/04/neuwerk-14.jpg) [![Brennofen](/wp-content/uploads/2013/04/neuwerk-14-200x300.jpg)
-](/wp-content/uploads/2013/04/neuwerk-14.jpg)
+[![Brennofen](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-13-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-14.jpg) [![Brennofen](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-14-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-14.jpg)
 
 
 Spaß der besonderen Art bietet der **EFCO 135 Brennofen**. Der Ofen ist eigentlich ein Emaillierofen, durch seine 1100 Grad Maximaltemperatur lassen sich auch diverse Metalle schmelzen. Wer doch lieber Emaillieren will, für den steht eine komplette Ausrüstung inklusive diverser Kupferplatten und jeder Menge Emaillierpulver bereit.
@@ -136,8 +136,8 @@ Spaß der besonderen Art bietet der **EFCO 135 Brennofen**. Der Ofen ist eigen
 
 
 
-[![Bosch Blau Winkelschleifer](/wp-content/uploads/2013/04/neuwerk-12-300x200.jpg)
-](/wp-content/uploads/2013/04/neuwerk-12.jpg)
+[![Bosch Blau Winkelschleifer](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-12-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-12.jpg)
 
 
 
@@ -154,8 +154,8 @@ Für alle die es ein wenig gröber mögen steht nun auch ein Bosch GWS 1000 **
 
 
 
-[![Proxxon](/wp-content/uploads/2013/04/neuwerk-11-300x200.jpg)
-](/wp-content/uploads/2013/04/neuwerk-11.jpg)
+[![Proxxon](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-11-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-11.jpg)
 
 
 
@@ -172,8 +172,8 @@ Für alle die es ein wenig gröber mögen steht nun auch ein Bosch GWS 1000 **
 
 
 
-[![Bohr- und Fräsständer](/wp-content/uploads/2013/04/neuwerk-10-200x300.jpg)
-](/wp-content/uploads/2013/04/neuwerk-10.jpg)
+[![Bohr- und Fräsständer](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-10-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-10.jpg)
 
 
 
@@ -190,8 +190,8 @@ Für alle die es ein wenig gröber mögen steht nun auch ein Bosch GWS 1000 **
 
 
 
-[![Werkbank im eLabor](/wp-content/uploads/2013/04/neuwerk-9-200x300.jpg)
-](/wp-content/uploads/2013/04/neuwerk-9.jpg)
+[![Werkbank im eLabor](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-9-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/neuwerk-9.jpg)
 
 
 

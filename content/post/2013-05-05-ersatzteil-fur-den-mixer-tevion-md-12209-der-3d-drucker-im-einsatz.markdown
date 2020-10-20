@@ -21,11 +21,11 @@ Das kaputte Teil war eine zerdrückte Wellenkupplung, (Auf dem Foto in weiß) di
 
 Einen Fehldruck und ein paar Minuten später kam das Ersatzteil (Auf dem Foto in schwarz) aus dem Drucker. Kurz nachgearbeitet, montiert und getestet: Ein voller Erfolg. Das Teil passt und der Mixer funktioniert wieder. Damit sowas nicht wieder passiert haben wir Christian gleich noch ein Teil auf Vorrat gedruckt.
 
-[![IMG_68570](/wp-content/uploads/2013/05/IMG_68570-300x225.jpg)
-](/wp-content/uploads/2013/05/IMG_68570.jpg)
+[![IMG_68570](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_68570-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_68570.jpg)
 
-[![IMG_68571](/wp-content/uploads/2013/05/IMG_68571-197x300.jpg)
-](/wp-content/uploads/2013/05/IMG_68571.jpg)
+[![IMG_68571](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_68571-197x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/05/IMG_68571.jpg)
 
 
 

@@ -63,10 +63,10 @@ Und Wasserabweisend (das Wasser perlt ab)
 Die Lackierung erfolgte im 3- Schrittverfahren, nach jeder Lackierung 15 min. Pause zur Aushärtung und Fortsetzung
 Der ausgehärtete Lack verträgt laut Angaben des Herstellers Temperaturen von -20 C bis +90 C .
 
-![](/wp-content/uploads/2017/12/PICT4250-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4250-300x225.jpg)
 
 
-![](/wp-content/uploads/2017/12/PICT4251-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4251-300x225.jpg)
 
 
 
@@ -75,10 +75,10 @@ Der ausgehärtete Lack verträgt laut Angaben des Herstellers Temperaturen von -
 
 **Fertigung**
 
-![](/wp-content/uploads/2017/12/PICT4369-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4369-300x225.jpg)
 
 
-![](/wp-content/uploads/2017/12/PICT4370-300x225.jpg)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/12/PICT4370-300x225.jpg)
 
 
 Die Aufnahmen oben zeigen den Wasser- Test im Freien, es regnete

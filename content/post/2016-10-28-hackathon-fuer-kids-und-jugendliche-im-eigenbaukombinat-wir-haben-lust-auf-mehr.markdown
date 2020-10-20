@@ -18,34 +18,34 @@ Am 22. Oktober fand zum ersten Mal der von uns organisierte Hackathon "JUNGHACKE
 **Ein paar Impressionen vom letzten Mal**
 
 Die zwei ältesten gingen zunächst ein Mathematisches Problem an (Primzahlen berechnen), allerdings mit dem Hintergrund erste Erfahrungen in C++ zu machen. Danach wurde sich der "Arduino Esplora" geschnappt (Arduino im Gamecontroller-Format mit allerlei Sensoren und einem Display) und daraus kurzer hand ein Minecraft-Controller (inkl. Benutzung des Neigungs-Sensors) gemacht.
-![img_1212](/wp-content/uploads/2016/10/IMG_1212-300x200.jpg)
+![img_1212](https://eigenbaukombinat.de/wp-content/uploads/2016/10/IMG_1212-300x200.jpg)
 
 
-![img_1181](/wp-content/uploads/2016/10/IMG_1181-300x200.jpg)
+![img_1181](https://eigenbaukombinat.de/wp-content/uploads/2016/10/IMG_1181-300x200.jpg)
 
 
 Bei einer anderen Gruppe war Scratch auf den Raspberry Pis sehr beliebt. Gemeinsam wurde an einem Labyrinth-Spiel mit mehreren Leveln gearbeitet. Ein anderer Teilnehmer erstellte ebenfalls mit Scratch einen kleinen interaktiven Animationsfilm.
 
-![img_1206](/wp-content/uploads/2016/10/IMG_1206-300x225.jpg)
+![img_1206](https://eigenbaukombinat.de/wp-content/uploads/2016/10/IMG_1206-300x225.jpg)
 
 
-![img_1162](/wp-content/uploads/2016/10/IMG_1162-300x225.jpg)
+![img_1162](https://eigenbaukombinat.de/wp-content/uploads/2016/10/IMG_1162-300x225.jpg)
 
 
 Die jüngsten begaben sich in die virtuelle Minecraft-Welt und sammelten mit der "Turtle" des "Computercraft"-Mods erste Programmiererfahrungen. Ganze Häuser, Brücken oder bunte Muster entstanden so mit wenigen Code-Zeilen.
 
-![img_1193](/wp-content/uploads/2016/10/IMG_1193-300x225.jpg)
+![img_1193](https://eigenbaukombinat.de/wp-content/uploads/2016/10/IMG_1193-300x225.jpg)
 
 
-![img_1175](/wp-content/uploads/2016/10/IMG_1175-300x225.jpg)
+![img_1175](https://eigenbaukombinat.de/wp-content/uploads/2016/10/IMG_1175-300x225.jpg)
 
 
 Auch der Lötkolben wurde geschwungen: Aus wenigen Bauteilen konnten die Teilnehmer ein blinkendes Atom-Modell zusammenbauen, und so erste Elektronik Erfahrungen sammeln.
 
-![img_1186](/wp-content/uploads/2016/10/IMG_1186-300x200.jpg)
+![img_1186](https://eigenbaukombinat.de/wp-content/uploads/2016/10/IMG_1186-300x200.jpg)
 
 
-![img_1163](/wp-content/uploads/2016/10/IMG_1163-300x225.jpg)
+![img_1163](https://eigenbaukombinat.de/wp-content/uploads/2016/10/IMG_1163-300x225.jpg)
 
 
 

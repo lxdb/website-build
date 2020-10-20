@@ -44,8 +44,8 @@ Nachdem Florian zuletzt einen schönen [Artikel über das Thema Holzverbindung v
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5505.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5500-1.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5505.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5500-1.jpg" >}}
 {{< /gallery >}}
 
 
@@ -67,9 +67,9 @@ Hier ein Bausatz vom [OpenScan-3D-Scanner](https://www.openscan.eu/). Thomas hat
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5471.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5473.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5472.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5471.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5473.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5472.jpg" >}}
 {{< /gallery >}}
 
 
@@ -91,7 +91,7 @@ An der Drechselbank merken wir immer, dass Weihnachten näher kommt. Diesmal wur
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/anim_drechseln.gif" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5563.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/anim_drechseln.gif" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5563.jpg" >}}
 {{< /gallery >}}
 

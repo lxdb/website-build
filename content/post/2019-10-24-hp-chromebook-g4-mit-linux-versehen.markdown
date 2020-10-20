@@ -65,8 +65,8 @@ Ich hab hier die Version 2.1 von GalliumOS installiert, die auf Ubuntu 16.04 LTS
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5548.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5562.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5548.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5562.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -96,8 +96,8 @@ Dann offenbar sich folgendes Bild:
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5626.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/10/IMG_5628.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5626.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5628.jpeg" >}}
 {{< /gallery >}}
 
 

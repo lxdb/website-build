@@ -22,17 +22,17 @@ Endlich nähern wir uns der Fertigstellung unseres Arcadecontrollers für [MAME]
 
 Nach ersten Überlegungen ([Teil 1](/arcade-cabinet-mit-mame-1/), [Teil 2](/arcade-cabinet-mit-mame-2/), ... ) und dem Bau von Prototypen
 
-[![IMG_1922_edit](/wp-content/uploads/2013/12/IMG_1922_edit-300x300.jpg)
-](/wp-content/uploads/2013/02/konsole1.png)erfolgte nochmals eine Anpassung der Anordnung der Knöpfe auf dem Controller. Beim Arcadeshop finden wir die erforderlichen [Maße der verwendeten Knöpfe](http:/https://www.arcadeshop.de/images/specs/arcade-pb-sl-data.gif) und [hier für die Joysticks.](http:/https://www.arcadeshop.de/images/specs/arcade-joyst-c-mount.gif)
+[![IMG_1922_edit](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1922_edit-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/konsole1.png)erfolgte nochmals eine Anpassung der Anordnung der Knöpfe auf dem Controller. Beim Arcadeshop finden wir die erforderlichen [Maße der verwendeten Knöpfe](http:/https://www.arcadeshop.de/images/specs/arcade-pb-sl-data.gif) und [hier für die Joysticks.](http:/https://www.arcadeshop.de/images/specs/arcade-joyst-c-mount.gif)
 
 Außerdem wächst das Gehäuse nochmal auf 100x30cm, damit es mehr Ellenbogenfreiheit für Spieler 1 und 2 gibt und es erhält zudem eine um 5 Grad geneigte Oberseite. Dazu kommen links und rechts noch passende Seitenteile, damit er auch auf dem Couchtisch abgestellt, oder auf-den-Schoß genommen werden kann. Man könnte ihn aber auch später noch in ein Cabinet integrieren.
-Nach den ersten Skizzen und insgesamt zwei gebauten Test-Prototypen für die Knopfanordnung ergibt sich dann folgender Entwurf ([DXF-Datei mit allen Maßen und Lochdurchmessern hier](/wp-content/uploads/2013/12/mame-complete.dxf)):
+Nach den ersten Skizzen und insgesamt zwei gebauten Test-Prototypen für die Knopfanordnung ergibt sich dann folgender Entwurf ([DXF-Datei mit allen Maßen und Lochdurchmessern hier](https://eigenbaukombinat.de/wp-content/uploads/2013/12/mame-complete.dxf)):
 
-[![mame complete](/wp-content/uploads/2013/12/mame-complete-294x300.png)
-](/wp-content/uploads/2013/12/mame-complete.png)Dann geht es auch schon ans Fräsen und Zuschneiden der Einzelteile:
+[![mame complete](https://eigenbaukombinat.de/wp-content/uploads/2013/12/mame-complete-294x300.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/12/mame-complete.png)Dann geht es auch schon ans Fräsen und Zuschneiden der Einzelteile:
 
-[![IMG_1636](/wp-content/uploads/2013/10/IMG_1636-1024x680.jpg)
-](/wp-content/uploads/2013/10/IMG_1636.jpg)
+[![IMG_1636](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1636-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/10/IMG_1636.jpg)
 
 Lediglich die vordere und hintere Abdeckung musste ich einseitig auf der Tauchsäge im 5° Winkel anschneiden, der Rest fiel direkt aus unserer CNC-Fräse. ;)
 
@@ -55,26 +55,26 @@ Hier noch mal schnell die Materialliste im Überblick, und dann geht es auch sch
 
 Nach der Fertigstellung des Gehäuses können die Joysticks und die vielen Knöpfe mitsamt ihrer Cherry-Mikroschalter montiert werden.
 
-[![IMG_1906_edit](/wp-content/uploads/2013/12/IMG_1906_edit-1024x680.jpg)
-](/wp-content/uploads/2013/12/IMG_1906_edit.jpg)
+[![IMG_1906_edit](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1906_edit-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1906_edit.jpg)
 
 Dann geht es auch direkt an den Einbau der Steuerplatine und die Verkabelung der Einzelteile. Die Steuerplatine verfügt dabei über einen handelsüblichen PS/2-Ausgang und emuliert eine Tastatur. Die entsprechenden Eingänge "drücken" dann die passenden Tasten für die Standardbelegung in MAME. Ein USB-Adapter ist auch verfügbar (und hier verbaut), es ist aber mittlerweile auch eine Version mit direktem USB-Ausgang erhältlich. Darüber, welche Anschlussart mehr gleichzeitig gedrückte Knöpfe zulässt, gibt es eine intensive Diskussion, auf die ich hier aus Platzgründen nicht eingehen werde. ;)
 
-[![IMG_1813_edit](/wp-content/uploads/2013/12/IMG_1813_edit-1024x680.jpg)
-](/wp-content/uploads/2013/12/IMG_1813_edit.jpg)
+[![IMG_1813_edit](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1813_edit-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1813_edit.jpg)
 
 Die Masse wird von Schalter zu Schalter durchgeschleift und über handelsübliche 6,3mm Flachsteckhülsen mit Abzweig befestigt. Die Signale werden als Einzeladern verlegt und dann mit der I-PAC Steuerplatine verbunden.
 
-[![IMG_1812_edit](/wp-content/uploads/2013/12/IMG_1812_edit-1024x680.jpg)
-](/wp-content/uploads/2013/12/IMG_1812_edit.jpg)
+[![IMG_1812_edit](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1812_edit-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1812_edit.jpg)
 
 Wichtig ist vor allem, dass man sich etwas Mühe gibt, die Kabel sauber zu verlegen und gebündelt zu befestigen. Das erleichtert die spätere Wartung oder Fehlersuche enorm, und sieht nebenbei auch viel eleganter aus. Nach gefühlten Kilometern an Leitungen, unendlich vielen Adernend- und Flachsteckhülsen ist alles fertig verdrahtet. Der Raspberry Pi hat auch schon testweise seinen Platz gefunden. ;)
 
-[![IMG_1811_edit](/wp-content/uploads/2013/12/IMG_1811_edit-1024x680.jpg)
-](/wp-content/uploads/2013/12/IMG_1811_edit.jpg)
+[![IMG_1811_edit](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1811_edit-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1811_edit.jpg)
 
-[![IMG_1919_edit](/wp-content/uploads/2013/12/IMG_1919_edit-1024x680.jpg)
-](/wp-content/uploads/2013/12/IMG_1919_edit.jpg)
+[![IMG_1919_edit](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1919_edit-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1919_edit.jpg)
 
 Hier noch die Materialaufstellung der benötigten Teile:
 
@@ -140,7 +140,7 @@ Die komplette Aufstellung der Tastenkürzel für die I-PAC-Platine findet ihr au
 
 Fertig! Jetzt geht's erstmal ans Zocken und Genießen.
 
-[![IMG_1918_edit](/wp-content/uploads/2013/12/IMG_1918_edit-1024x680.jpg)
-](/wp-content/uploads/2013/12/IMG_1918_edit.jpg)Wer sich den Controller mal live anschauen möchte ist natürlich herzlich eingeladen, dies z.B. an einem Samstag [während der Öffnungszeiten](/oeffnungszeiten/) zu tun.
+[![IMG_1918_edit](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1918_edit-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/12/IMG_1918_edit.jpg)Wer sich den Controller mal live anschauen möchte ist natürlich herzlich eingeladen, dies z.B. an einem Samstag [während der Öffnungszeiten](/oeffnungszeiten/) zu tun.
 
 Wer hingegen noch Anregungen für einen eigenen Controller oder ein komplettes Cabinet benötigt, findet hier als Anregung [eine Webseite mit vielen Bildern und Informationen rund um's Thema](http://wiki.laub-home.de/wiki/Projekt_Arcade_Cabinet).

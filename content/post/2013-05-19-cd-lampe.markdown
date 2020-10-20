@@ -18,20 +18,20 @@ Ein paar alte CDs, Gewindestangen und Multiplexholz bilden zusammen mit anderen 
 
 
 
-[![Steffilampe-1](/wp-content/uploads/2013/04/Steffilampe-1-300x300.jpg)
-](/wp-content/uploads/2013/04/Steffilampe-1.jpg)
+[![Steffilampe-1](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-1-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-1.jpg)
 
 ...und der Nachbau ist gar nicht schwierig:
 
-<!-- more -->**1.)**   Zuerst besorgt man sich alle Materialien wie unten angegeben. Anschließend fräst man mit Hilfe der CNC Fräse die Holzscheiben für den Sockel und den Deckel aus. Man braucht 4 Scheiben mit einem 36mm Loch in der Mitte Loch, 3 Scheiben mit einem 29mm Loch und vier Scheiben ohne zentrales Loch als Boden und Deckel. ([DXF-Datei](/wp-content/uploads/2013/04/steffis-lampe.dxf)) Wenn Ihr eine andere Lampenfassung habt, können diese Werte variieren. In das zentrale große Loch wird die Lampenfassung eingebaut, in die drei äußeren Löcher werden Gewindestangen gefädelt.
+<!-- more -->**1.)**   Zuerst besorgt man sich alle Materialien wie unten angegeben. Anschließend fräst man mit Hilfe der CNC Fräse die Holzscheiben für den Sockel und den Deckel aus. Man braucht 4 Scheiben mit einem 36mm Loch in der Mitte Loch, 3 Scheiben mit einem 29mm Loch und vier Scheiben ohne zentrales Loch als Boden und Deckel. ([DXF-Datei](https://eigenbaukombinat.de/wp-content/uploads/2013/04/steffis-lampe.dxf)) Wenn Ihr eine andere Lampenfassung habt, können diese Werte variieren. In das zentrale große Loch wird die Lampenfassung eingebaut, in die drei äußeren Löcher werden Gewindestangen gefädelt.
 
 Wer keine CNC Fräse zur Verfügung hat muss sich was einfallen lassen ;-) (Alternativen: Oberfräse mit Schablone, Stichsäge, Lochsäge /Holzbohrer und ein wenig Schleifpapier)
 
-[![steffis lampe](/wp-content/uploads/2013/04/steffis-lampe-300x129.png)
-](/wp-content/uploads/2013/04/steffis-lampe.png)
+[![steffis lampe](https://eigenbaukombinat.de/wp-content/uploads/2013/04/steffis-lampe-300x129.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/steffis-lampe.png)
 
-[![IMG_68481](/wp-content/uploads/2013/04/IMG_68481-300x200.jpg)
-](/wp-content/uploads/2013/04/IMG_68481.jpg)
+[![IMG_68481](https://eigenbaukombinat.de/wp-content/uploads/2013/04/IMG_68481-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/IMG_68481.jpg)
 
 **2.)** Die Gewindestange in 21,5cm Lange abschnitte Teilen (Metallsäge)
 
@@ -43,25 +43,25 @@ _Deckel_: 3 x ohne Loch
 
 **4.)  ** Nun das Kabel mit der Lampenfassung verbinden und zwischen die unterste und die nächsten Scheiben legen. Jetzt kann das Basisteil und der Deckel mit Holzleim zusammengeklebt werden. 
 
-[![Steffilampe-4](/wp-content/uploads/2013/04/Steffilampe-4-200x300.jpg)
-](/wp-content/uploads/2013/04/Steffilampe-4.jpg)[![Steffilampe-5](/wp-content/uploads/2013/04/Steffilampe-5-200x300.jpg)
-](/wp-content/uploads/2013/04/Steffilampe-5.jpg)
+[![Steffilampe-4](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-4-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-4.jpg)[![Steffilampe-5](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-5-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-5.jpg)
 
 **5.)  **Die übrige Scheibe dient nun als Schablone zum Bohren der Löcher in die CDs. Dazu immer je 3-4 CDs sowie die Holzscheibe fest mit Klebeband (Panzertape) zusammenbinden. Mit einem 10er Metallbohrer kann man nun die Löcher für die Gewindestangen vorsichtig in die CDs bohren. Mit einer 40mm Lochsäge nun die Innenlöcher der CD´s vergrößern. Hierbei sehr vorsichtig vorgehen, sonst zersplittern die CDs. Unbedingt eine Schutzbrille tragen!
 
-[![Steffilampe-7](/wp-content/uploads/2013/04/Steffilampe-7-300x200.jpg)
-](/wp-content/uploads/2013/04/Steffilampe-7.jpg)
+[![Steffilampe-7](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-7-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-7.jpg)
 
 
 
-**6.)** Jetzt nur noch alles in der richtigen Reihenfolge zusammenstecken. Zwischen die CDs kommen jeweils Unterlegscheiben als Abstandshalter  Die Gewindestangen oben und unten mit Hutmuttern abdecken. [![Steffilampe-6](/wp-content/uploads/2013/04/Steffilampe-6-200x300.jpg)
-](/wp-content/uploads/2013/04/Steffilampe-6.jpg)[![Steffilampe-3](/wp-content/uploads/2013/04/Steffilampe-3-150x150.jpg)
-](/wp-content/uploads/2013/04/Steffilampe-3.jpg)
+**6.)** Jetzt nur noch alles in der richtigen Reihenfolge zusammenstecken. Zwischen die CDs kommen jeweils Unterlegscheiben als Abstandshalter  Die Gewindestangen oben und unten mit Hutmuttern abdecken. [![Steffilampe-6](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-6-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-6.jpg)[![Steffilampe-3](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-3-150x150.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-3.jpg)
 
 **7.) Fertig.** Die Lampe sollte nun ungefähr so aussehen. Wer will kann das Holz noch nach belieben ölen oder lackieren.
 
-[![Steffilampe-2](/wp-content/uploads/2013/04/Steffilampe-2-200x300.jpg)
-](/wp-content/uploads/2013/04/Steffilampe-2.jpg)
+[![Steffilampe-2](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-2-200x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/04/Steffilampe-2.jpg)
 
 
 

@@ -111,5 +111,5 @@ In ~/linuxcnc/configs/bztpf1410p/bztp1410p.ini anpassen:
 
 FERTIG!
 
-[![touch probe](/wp-content/uploads/2013/06/touch-probe-300x212.png)
-](/wp-content/uploads/2013/06/touch-probe.png)
+[![touch probe](https://eigenbaukombinat.de/wp-content/uploads/2013/06/touch-probe-300x212.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/06/touch-probe.png)

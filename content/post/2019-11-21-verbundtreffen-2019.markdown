@@ -72,13 +72,13 @@ Ort unserer 3-tägigen Zusammenkunft war diesmal das [Sandershaus in Kassel,](ht
 
   
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/11/ima_32e59f0.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_32e59f0.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_01b8a2c.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_01b8a2c.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_cb8d897.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_cb8d897.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_e0744fe.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_e0744fe.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -196,7 +196,7 @@ Danach gab es noch Berichte über die sonstige Tätigkeit. Zum Beispiel wurde da
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/11/ima_63bf289.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_63bf289.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -218,7 +218,7 @@ Danach ging es ans Eingemachte, jede Menge Workshops standen zur Wahl:
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/11/ima_aac94f1.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_aac94f1.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -257,7 +257,7 @@ Ein OpenSource-Zugangssystem schaffen, das es ermöglicht, per RFID-Karte divers
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/11/ima_a631694.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_a631694.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -300,7 +300,7 @@ Den Klickdummy für die Adminoberfläche gibt es [hier zu begucken](https://faba
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/11/fabaccess.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/fabaccess.png" >}}
 {{< /gallery >}}
 
 
@@ -331,9 +331,9 @@ Nebenthema: Werkstattsicherheit, VBG, Prüfung Elektrogeräte, ...
 
   
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/11/ima_83db18f.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/11/ima_5613017.jpeg" >}}
-{{< figure link="/wp-content/uploads/2019/11/ima_0ec22d6.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_83db18f.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_5613017.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_0ec22d6.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -413,7 +413,7 @@ Besonders hervorheben möchte ich an dieser Stelle noch das tolle Projektbuch "V
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/11/ima_ba50529.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_ba50529.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -445,19 +445,19 @@ Ich habe danach noch die von Frauke mitgebrachte Wanderausstellung des Projektes
 
   
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/11/ima_1b94b96.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_1b94b96.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_9fb17ae.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_9fb17ae.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_7d15ab9.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_7d15ab9.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_661c232.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_661c232.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_faeb3ad.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_faeb3ad.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_c5c336c.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_c5c336c.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_20e97e1.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_20e97e1.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -548,11 +548,11 @@ Durch die Zerlegbarkeit können auch später einfach Teile getauscht oder ersetz
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/11/ima_040a39c.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_040a39c.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_0cb2396.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_0cb2396.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_022d688.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_022d688.jpeg" >}}
 {{< /gallery >}}
 
 
@@ -608,11 +608,11 @@ Das Outdoor-Bastelprojekt der letzten Tage, spannend! [Hier gibt es mehr Details
 
   
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/11/ima_7680252.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_7680252.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_119ba59.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_119ba59.jpeg" >}}
 
-{{< figure link="/wp-content/uploads/2019/11/ima_02954ba.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/11/ima_02954ba.jpeg" >}}
 {{< /gallery >}}
 
 

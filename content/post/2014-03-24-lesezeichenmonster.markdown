@@ -22,5 +22,5 @@ Dann einen der verbliebenen zwei Falze mit der Schere genau bis zum Mittelpunkt 
 
 Je nach Wunsch könnt ihr natürlich auch Augen anmalen oder aufkleben, oder kleine fiese Zähne anbringen. Fertig ist das Lesezeichen!
 
-[![Lesezeichen mit Zähnen](/wp-content/uploads/2014/03/IMG_2088-1024x680.jpg)
-](/wp-content/uploads/2014/03/IMG_2088.jpg)
+[![Lesezeichen mit Zähnen](https://eigenbaukombinat.de/wp-content/uploads/2014/03/IMG_2088-1024x680.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/03/IMG_2088.jpg)

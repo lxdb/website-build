@@ -38,7 +38,7 @@ Folgende Mitmachstationen warten auf Euch (Stand 14. September):
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/08/zeitplan.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/08/zeitplan.png" >}}
 {{< /gallery >}}
 
 

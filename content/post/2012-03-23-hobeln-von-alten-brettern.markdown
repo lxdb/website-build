@@ -13,10 +13,10 @@ Mit einem Handhobel und etwas Muskeleinsatz kann man alte Bretter schnell wieder
 
 Zwei Bretter zum Vorher-Nachher-Vergleich nebeneinander gelegt.
 
-[![IMG_9020](/wp-content/uploads/2013/02/IMG_9020-300x225.jpg)
-](/wp-content/uploads/2013/02/IMG_9020.jpg)
+[![IMG_9020](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_9020-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_9020.jpg)
 
 Der verwendete Putzhobel war frisch geschärft, die Bearbeitungszeit betrug etwa zehn Minuten.
 
-[![IMG_9022_1](/wp-content/uploads/2013/02/IMG_9022_1-300x225.jpg)
-](/wp-content/uploads/2013/02/IMG_9022_1.jpg)
+[![IMG_9022_1](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_9022_1-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_9022_1.jpg)

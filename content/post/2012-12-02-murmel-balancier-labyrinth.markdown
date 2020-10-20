@@ -14,8 +14,8 @@ tags:
 ---
 
 Ein beliebtes und tolles Spielzeug: Ein Murmel-Balancier-Labyrinth.
-Die Aufgabe ist es die Kugel von einem Ende zum anderen zu balancieren, ohne dass sie herunterfällt.[![IMG_62987](/wp-content/uploads/2013/02/IMG_62987-300x200.jpg)
-](/wp-content/uploads/2013/02/IMG_62987.jpg)
+Die Aufgabe ist es die Kugel von einem Ende zum anderen zu balancieren, ohne dass sie herunterfällt.[![IMG_62987](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_62987-300x200.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_62987.jpg)
 Um den Schwierigkeitsgrad zu erhöhen kann man schrittweise immer größere Kugeln verwenden.
 Bei der aktuellen Bahn hab ich mich von einer existierenden Versionen inspirieren lassen, aber man kann den Bahnverlauf ja völlig frei gestalten.
 

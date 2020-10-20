@@ -25,18 +25,18 @@ Kistenbreite: 130mm
 Kistenlänge: 130mm
 Kistenhöhe: 70mm
 
-**UPDATE: [DXF-Datei hier.](/wp-content/uploads/2013/03/kiste-130x130x70.dxf)**
+**UPDATE: [DXF-Datei hier.](https://eigenbaukombinat.de/wp-content/uploads/2013/03/kiste-130x130x70.dxf)**
 
 Und das war das Ergebnis, je vier Seitenwände mit Nuten und ein Boden:
-[![IMG_68312](/wp-content/uploads/2013/03/IMG_68312-300x199.jpg)
-](/wp-content/uploads/2013/03/IMG_68312.jpg)
+[![IMG_68312](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68312-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68312.jpg)
 
-[![IMG_68314](/wp-content/uploads/2013/03/IMG_68314-300x199.jpg)
-](/wp-content/uploads/2013/03/IMG_68314.jpg)
+[![IMG_68314](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68314-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68314.jpg)
 
 Schnell zusammengeleimt und zusammengesteckt:
-[![IMG_68318](/wp-content/uploads/2013/03/IMG_68318-300x199.jpg)
-](/wp-content/uploads/2013/03/IMG_68318.jpg)
+[![IMG_68318](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68318-300x199.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68318.jpg)
 
-[![IMG_68320](/wp-content/uploads/2013/03/IMG_68320-300x300.jpg)
-](/wp-content/uploads/2013/03/IMG_68320.jpg)
+[![IMG_68320](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68320-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/03/IMG_68320.jpg)

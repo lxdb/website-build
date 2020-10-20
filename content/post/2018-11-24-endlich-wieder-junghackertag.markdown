@@ -11,7 +11,7 @@ categories:
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2018/11/3_Arduino-leuchtet.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2018/11/3_Arduino-leuchtet.jpg" >}}
 {{< /gallery >}}
 
 Heute waren ganze 26 Kinder und Jugendliche zwischen 10 & 18 Jahren zum Hacken, Löten und Tüfteln im Eigenbaukombinat. Mit der Unterstützung von 8 Mentorinnen und Mentoren beschäftigen wir uns mit Technik & Elektronik, also Computern, Robotern, Mikro-Controllern, lernen zu programmieren und mit Software kreativ zu gestalten.<!-- more -->
@@ -24,36 +24,36 @@ die heutzutage immer wichtiger werden, aber in der Schule oft zu wenig geförder
 Das haben wir heute gemacht:
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2018/11/1_Löten-2.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2018/11/1_Löten-2.jpg" >}}
 {{< /gallery >}}
 Lasse & Morritz haben einen LED-Weihnachtsbaum gelötet
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2018/11/1_Löten-1.jpg" >}}
-{{< figure link="/wp-content/uploads/2018/11/2_Scratch-1.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2018/11/1_Löten-1.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2018/11/2_Scratch-1.jpg" >}}
 {{< /gallery >}}
 Niklas hat mit Scratch ein Jump-and-Run-Spiel programmiert
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2018/11/2_Scratch-2-e1543070517334.jpg" >}}
-{{< figure link="/wp-content/uploads/2018/11/3_Arduino-1.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2018/11/2_Scratch-2-e1543070517334.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2018/11/3_Arduino-1.jpg" >}}
 {{< /gallery >}}
 Onno & Cornelius haben mit dem Arduino Luft-, Feuchtigkeits-, Licht-, UV- und Drucksensoren programmiert
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2018/11/3_Arduino-2.jpg" >}}
-{{< figure link="/wp-content/uploads/2018/11/4_mBot-1.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2018/11/3_Arduino-2.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2018/11/4_mBot-1.jpg" >}}
 {{< /gallery >}}
 Amon hat einen kleinen Roboter (mBot) programmiert so das er fahren, lenken & leuchten konnte
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2018/11/4_mBot-2.jpg" >}}
-{{< figure link="/wp-content/uploads/2018/11/5_Blender.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2018/11/4_mBot-2.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2018/11/5_Blender.jpg" >}}
 {{< /gallery >}}
 Valentin hat mit Blender eine 3D-Welt erschaffen
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2018/11/6_3D-Druck.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2018/11/6_3D-Druck.jpg" >}}
 {{< /gallery >}}
 Eric hat mit dem 3D-Drucker kleine Schafe gedruckt
 

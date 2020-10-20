@@ -131,32 +131,32 @@ Benötigte Materialen und Maschinen:
 
 
   {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/06/20190309_133302_klein.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/06/20190309_133302_klein.jpg" >}}
 {{< /gallery >}}
 Buchenbohle 36mm  
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/06/20190309_141820_klein.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/06/20190309_144855_klein.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/06/20190309_141820_klein.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/06/20190309_144855_klein.jpg" >}}
 {{< /gallery >}}
 
 Die Rohteile  
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/06/20190309_184217_klein.jpg" >}}
-{{< figure link="/wp-content/uploads/2019/06/20190310_220448_klein.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/06/20190309_184217_klein.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/06/20190310_220448_klein.jpg" >}}
 {{< /gallery >}}
 fertig gebohrt und gesenkt  
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/06/20190312_193801_klein.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/06/20190312_193801_klein.jpg" >}}
 {{< /gallery >}}
 frisch gebeizt  
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/06/20190321_213148_klein.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/06/20190321_213148_klein.jpg" >}}
 {{< /gallery >}}
 Der Rahmen steht  
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/06/20190513_220519_klein.jpg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/06/20190513_220519_klein.jpg" >}}
 {{< /gallery >}}
 Der fertige Stuhl im Sozialraum
 

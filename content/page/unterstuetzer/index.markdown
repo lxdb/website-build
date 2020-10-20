@@ -19,7 +19,7 @@ Große Unterstützung wurde uns von der anstiftung zu Teil, einer gemeinnützige
 
 
 
-![Logo anstiftung](/wp-content/uploads/2015/02/logoanstiftung2014-300x150.png)
+![Logo anstiftung](https://eigenbaukombinat.de/wp-content/uploads/2015/02/logoanstiftung2014-300x150.png)
 
 
 

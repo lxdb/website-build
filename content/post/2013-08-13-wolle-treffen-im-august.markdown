@@ -15,8 +15,8 @@ Nachdem unser erstes Strick-Treffen klammheimlich letzte Woche stattfand, kommt 
 
 
 Das letzte Mal wurden ein Loop, Socken und ein Top mit Zopfmuster begonnen:
-[![IMG_70647](/wp-content/uploads/2013/08/IMG_70647-300x300.jpg)
-](/wp-content/uploads/2013/08/IMG_70647.jpg)
+[![IMG_70647](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_70647-300x300.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/08/IMG_70647.jpg)
 
 
 

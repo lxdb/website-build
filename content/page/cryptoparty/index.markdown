@@ -87,7 +87,7 @@ Sicher surfen (HTTPS)
 Wer dann noch nicht genug hat, kann seine neuen
 Verschlüsselungskenntnisse bei einer Keysigningparty anwenden.
 
-![](/wp-content/uploads/2017/11/cryptoparty-300x105.png)
+![](https://eigenbaukombinat.de/wp-content/uploads/2017/11/cryptoparty-300x105.png)
 
 </td>
 </tr>

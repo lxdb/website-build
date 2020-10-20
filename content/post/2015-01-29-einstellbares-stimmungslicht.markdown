@@ -25,4 +25,4 @@ Den Deckel haben wir nicht verklebt, so bleibt er abnehmbar und die Lampe zeichn
 
 Das MDR Fernsehen hat den Bau der Lampe begleitet. [Im Archiv der Sendung "Donnerwetter" ist der Beitrag vom 29. Januar nach Ende der Sendung abrufbar.](http:/https://www.mdr.de/donnerwetter/index.html)
 
-Den Sourcecode für den Arduino zum Nachbauen gibt es hier: [lampe.ino.zip](/wp-content/uploads/2015/01/lampe.ino_.zip)
+Den Sourcecode für den Arduino zum Nachbauen gibt es hier: [lampe.ino.zip](https://eigenbaukombinat.de/wp-content/uploads/2015/01/lampe.ino_.zip)

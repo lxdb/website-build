@@ -25,15 +25,15 @@ Da auch das Eigenbaukombinat Halle e.V. wie auch viele Mitglieder einen Feinstau
 # Jahreswechsel 2018 /2019
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/01/sensor-esp8266-1188263-sds011-1-day_002-1.png" >}}
-{{< figure link="/wp-content/uploads/2019/01/sensor-esp8266-1188263-sds011-25-day_002.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/sensor-esp8266-1188263-sds011-1-day_002-1.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/sensor-esp8266-1188263-sds011-25-day_002.png" >}}
 {{< /gallery >}}
 
 # Jahreswechsel 2017 /2018
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/01/sensor-esp8266-1188263-sds011-1-day.png" >}}
-{{< figure link="/wp-content/uploads/2019/01/sensor-esp8266-1188263-sds011-25-day.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/sensor-esp8266-1188263-sds011-1-day.png" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/01/sensor-esp8266-1188263-sds011-25-day.png" >}}
 {{< /gallery >}}
 
 Im Vergleich dazu haben wir auch Grafiken aus dem letzen Jahr welche sich in Dauer und Intensität zu diesem Jahr unterscheiden. Diese Unterschiede begründen sich durch die Wetterverhältnisse wie Windstärke, Windrichtung und Luftdurchmischung in vertikaler Richtung sowie auch der Menge an eingesetztem Feuerwerk.

@@ -21,8 +21,8 @@ Für meinen neuen Drifter wollte ich, wie sich das gehört, eine Beleuchtung ein
 Als Basis nehme ich einen "Arduino Pro Mini" (oder kompatibel, z.B. [Wattuino Pro Mini](https://www.watterott.com/de/Wattuino-pro-mini-5V-16MHz) für 10€). Wichtig ist hierbei, dass es sich um die 5V-Variante handelt. Allerdings wird für den Pro Mini noch ein USB-Programmieradapter benötigt, der nochmal ca. 5€ kostet (jedoch im EBK selbstverständlich vorhanden ist).
 
 
-[![Arduino Pro Mini](/wp-content/uploads/2014/05/IMG_70382.jpg)
-](/wp-content/uploads/2014/05/IMG_70382.jpg)
+[![Arduino Pro Mini](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70382.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70382.jpg)
 
 
 Alternativ kann auch ein "Arduino Nano" (oder kompatibel) genommen werden. Diese Variante hat den Vorteil, einen USB-Anschluss zu besitzen, so dass kein Programmieradapter benötigt wird.
@@ -30,8 +30,8 @@ Alternativ kann auch ein "Arduino Nano" (oder kompatibel) genommen werden. Diese
 Die LEDs werden aus einem flexiblen LED-Streifen mit "WS2812" RGB-Leds herausgeschnitten. Es handelt sich hier um LEDs in SMD-Gehäusen mit integriertem Controller-Chip. Dies hat den Vorteil, dass man beliebig viele dieser LEDs einfach hintereinander schalten kann, und jeweils nur 3 Leitungen braucht (Masse, Stromversorgung und Daten).
 
 
-[![LED Streifen](/wp-content/uploads/2014/05/IMG_70391.jpg)
-](/wp-content/uploads/2014/05/IMG_70391.jpg)
+[![LED Streifen](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70391.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70391.jpg)
 
 
 Ein Stück LED-Streifen mit 20 LEDs kostet bei ebay ca. 10€.
@@ -39,8 +39,8 @@ Ein Stück LED-Streifen mit 20 LEDs kostet bei ebay ca. 10€.
 Für die Auswahl der Beleuchtungsprogramme benutze ich den 3. Kanal meiner Spektrum DX3C. Hier kann ich konfigurieren, dass ich mittels "Schalter A" 3 Zustände einstellen kann.
 
 
-[![Einstellung Spektrum DX3C](/wp-content/uploads/2014/05/IMG_70393.jpg)
-](/wp-content/uploads/2014/05/IMG_70393.jpg)
+[![Einstellung Spektrum DX3C](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70393.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70393.jpg)
 
 
 Für die Stromversorgung von Arduino und LEDs wird ebenfalls der 3. Kanal des Empfängers benutzt. Eine LED verbraucht maximal 20mA, der Arduino liegt bei maximal 150mA. Ich komme also mit 10 verbauten LEDs auf maximal 350mA.
@@ -53,8 +53,8 @@ Das Kabel mit dem Signal kommt an den Pin 2, hier wird später im Programm der W
 Ein weiteres abgeschnittenes Servokabel wird als Anschluss für die LEDs vorgesehen, auch hier wird wieder an Masse und VCC angelötet. Die Leitung für die LED-Daten löte ich an Pin 6. Um Beschädigungen durch Verpolung zu vermeiden, lege ich die Masse auf den mittleren Pin. Somit kann maximal Daten und Stromversorgung vertauscht werden, und das ist ungefährlich.
 
 
-[![Verkabelter Arduino](/wp-content/uploads/2014/05/IMG_70396.jpg)
-](/wp-content/uploads/2014/05/IMG_70396.jpg)
+[![Verkabelter Arduino](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70396.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70396.jpg)
 
 
 Um den Arduino programmieren zu können, muss noch eine 5-polige Stiftleiste an die vorgesehene Stelle gelötet werden. Dies entfällt natürlich bei der Variante mit integriertem USB-Port.
@@ -62,15 +62,15 @@ Um den Arduino programmieren zu können, muss noch eine 5-polige Stiftleiste an 
 Nachdem sichergestellt wurde, dass alles funktioniert, wird das Ganze noch in ein Stück breiten Schrumpfschlauch eingepackt, damit es keine Kurzschlüsse geben kann.
 
 
-[![](/wp-content/uploads/2014/05/IMG_70413.jpg)
-](/wp-content/uploads/2014/05/IMG_70413.jpg)
+[![](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70413.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70413.jpg)
 
 
 Nun müssen natürlich noch die LEDs verdrahtet und in der Karosserie eingeklebt werden. Es empfiehlt sich hier, vor dem Einkleben zu löten, speziell wenn mit Heißkleber gearbeitet werden soll. Ich habe dafür neues Flachbandkabel von der Rolle verwendet, man kann aber auch alte Kabel recyclen. Vermutlich eigenen sich alte IDE-Festplattenkabel ganz gut.
 
 
-[![Karosserie innen mit verkabelten Lichtern](/wp-content/uploads/2014/05/IMG_70399.jpg)
-](/wp-content/uploads/2014/05/IMG_70399.jpg)
+[![Karosserie innen mit verkabelten Lichtern](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70399.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70399.jpg)
 
 
 WICHTIG: Die LEDs haben einen Ein- und einen Ausgang, meistens durch einen Pfeil gekennzeichnet. Dies muss beachtet werden, sonst funktioniert nachher gar nichts.
@@ -80,8 +80,8 @@ Während man die LEDs verkabelt und einklebt empfiehlt es sich eine Skizze zu er
 An den Anfang des LED-Strangs löte ich aus einem 3er-Stück 2,54mm Pfostenleiste einen kleinen Stecker und isoliere diesen mit einem Stück Schrumpfschlauch.
 
 
-[![Anschluss](/wp-content/uploads/2014/05/IMG_70402.jpg)
-](/wp-content/uploads/2014/05/IMG_70402.jpg)
+[![Anschluss](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70402.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2014/05/IMG_70402.jpg)
 
 
 

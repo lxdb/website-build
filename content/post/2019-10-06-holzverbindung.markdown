@@ -36,7 +36,7 @@ Aus diesem Grund haben wir, Valentin und ich, vor einigen Wochen gemeinsam an Ve
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/08/Holzringe-3_kleiner.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/08/Holzringe-3_kleiner.jpeg" >}}
 {{< /gallery >}}
 Maschinen können viel, aber nicht alles. Handarbeit war auch gefragt.
 
@@ -51,7 +51,7 @@ Wir begannen mit der Anfertigung des Ringrohlings, indem wir mittels Ständerboh
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2019/08/Holzringe-2_kleiner-1.jpeg" >}}
+{{< figure link="https://eigenbaukombinat.de/wp-content/uploads/2019/08/Holzringe-2_kleiner-1.jpeg" >}}
 {{< /gallery >}}
 Maulbeere (links) trifft Birne (weiter links). Hier sind die eingebrannten Initialien besonders gut zu erkennen. 
 

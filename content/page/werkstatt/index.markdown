@@ -8,8 +8,8 @@ url: /werkstatt/
 ---
 
 
-[![EBK Grundriss](/wp-content/uploads/2019/10/EBK_Grundriss.png)
-](/wp-content/uploads/2019/10/EBK_Grundriss.png)
+[![EBK Grundriss](https://eigenbaukombinat.de/wp-content/uploads/2019/10/EBK_Grundriss.png)
+](https://eigenbaukombinat.de/wp-content/uploads/2019/10/EBK_Grundriss.png)
 
 
 

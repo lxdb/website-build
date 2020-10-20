@@ -15,10 +15,10 @@ Die vier Löcher (für vier Finger) sind immer 25mm im Durchmesser, variiert hab
 
 Herausgekommen sind folgende Varianten, unter denen sich diejenige mit 25mm Radius der Löcher, 20mm Lochabstand und 10mm Abrundungsradius (links oben) noch als am besten passend für meine Hände herausgestellt hat; ich werde wohl noch ein zweites Teststück mit 30mm Lochradius fräsen. Für Marian hingegen war diese Ausführung perfekt; die Löcher mit 15mm Abstand sind wohl nur für Kinderhände geeignet.
 
-[![IMG_9029](/wp-content/uploads/2013/02/IMG_9029-300x225.jpg)
-](/wp-content/uploads/2013/02/IMG_9029.jpg)
+[![IMG_9029](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_9029-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_9029.jpg)
 
 Und damit die inneren Reststücke nicht im Müll landen, habe ich ihnen Augen verpasst und Raupen daraus gemacht. Meine Kinder hatten große Freude daran, sie zu bemalen.
 
-[![IMG_9033](/wp-content/uploads/2013/02/IMG_9033-300x225.jpg)
-](/wp-content/uploads/2013/02/IMG_9033.jpg)
+[![IMG_9033](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_9033-300x225.jpg)
+](https://eigenbaukombinat.de/wp-content/uploads/2013/02/IMG_9033.jpg)

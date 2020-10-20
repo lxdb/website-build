@@ -40,4 +40,4 @@ Verschlüsselungskenntnisse bei einer Keysigningparty anwenden.
 
 Weitere Infos findet ihr auf der [Veranstaltungsseite](/cryptoparty/).
 
-Die Folien zum Workshop findet ihr [hier](/wp-content/uploads/2017/11/2017-11-23_gpg.pdf).
+Die Folien zum Workshop findet ihr [hier](https://eigenbaukombinat.de/wp-content/uploads/2017/11/2017-11-23_gpg.pdf).

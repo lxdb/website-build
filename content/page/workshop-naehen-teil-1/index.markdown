@@ -66,7 +66,7 @@ categories:
 <td style="width: 20%; text-align: right;" >**INHALT**
 </td>
 
-<td style="text-align: left;" >Selbstgenähte Sachen sind ja toll, aber du kannst sowas nicht? Quatsch! Wir zeigen dir wie es geht. Hier lernst du den Umgang mit der Nähmaschine und Grundtechniken des Nähens anhand verschiedener leichter Projekte.Im ersten Kurs für blutige Anfänger nähen wir einen Stoffbeutel:![IMG_5110](/wp-content/uploads/2015/07/IMG_5110-200x300.jpg)
+<td style="text-align: left;" >Selbstgenähte Sachen sind ja toll, aber du kannst sowas nicht? Quatsch! Wir zeigen dir wie es geht. Hier lernst du den Umgang mit der Nähmaschine und Grundtechniken des Nähens anhand verschiedener leichter Projekte.Im ersten Kurs für blutige Anfänger nähen wir einen Stoffbeutel:![IMG_5110](https://eigenbaukombinat.de/wp-content/uploads/2015/07/IMG_5110-200x300.jpg)
 
 </td>
 </tr>
