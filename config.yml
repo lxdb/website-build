@@ -1,4 +1,4 @@
-#baseURL: 'https://eigenbaukombinat.de'
+baseURL: 'https://ebk.lxdb.de'
 title: Eigenbaukombinat
 paginate: 5
 theme: PaperMod
