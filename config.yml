@@ -1,4 +1,4 @@
-baseURL: 'https://ebk.lxdb.de'
+baseURL: 'https://ebk.netlify.app'
 title: Eigenbaukombinat
 paginate: 5
 theme: PaperMod
